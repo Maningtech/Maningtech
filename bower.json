@@ -1,0 +1,31 @@
+{
+  "name": "maningtech",
+  "authors": [
+    "Ivo Zinenda <izinenda@outlook.com>"
+  ],
+  "description": "Blog de noticias, dicas e analises sobre tecnologias de informação",
+  "main": "assets/",
+  "moduleType": [],
+  "keywords": [
+    "Noticias",
+    "Dicas",
+    "Analises"
+  ],
+  "license": "GNU General Public License",
+  "homepage": "http://maningtech.github.io/maningtech",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5",
+    "font-awesome": "^4.5.0",
+    "simple-jekyll-search": "^1.1.1",
+    "modernizr": "^3.3.1"
+  }
+}
