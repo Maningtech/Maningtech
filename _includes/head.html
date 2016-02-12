@@ -1,0 +1,17 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }}">
+    <meta name="keywords" content="Noticias, Dicas, Analises, Quem somos">
+    
+    <title>{% if page.title %} - {% endif %} {% if page.category %} {{ page.category }} | {% endif %} {{ site.title }}</title>
+    
+    <meta name="theme-color" content="#009688">
+    <link rel="shortcut icon" href="{{ site.url }}/assets/img/brand/favicon.svg">
+    
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet'>
+    
+    {% include googleanalytics.html %}
+    <script src="{{ site.url }}/_bower_components/modernizr/bin/modernizr.js"></script>
+</head>
