@@ -29,8 +29,5 @@ sass:
     sass_dir: assets/_sass
     style: compressed
 
-# plugins
-gems:
-  - jekyll-auto-image
   
 image: /assets/img/brand/logotipo.png

@@ -7,32 +7,7 @@
 $primary-color: #009688 !default;
 $primary-color-light: lighten($primary-color, 15%) !default;
 $primary-color-dark: darken($primary-color, 15%) !default;
-
-$secondary-color: color("teal", "lighten-1") !default;
-$success-color: color("green", "base") !default;
-$error-color: color("red", "base") !default;
 $link-color: #00BCD4 !default;
-
-
-/*** Cards ***/
-$card-padding: 20px !default;
-$card-bg-color: #fff !default;
-$card-link-color: #006064!default;
-$card-link-color-light: lighten($card-link-color, 20%) !default;
-
-
-
-/*** Navbar ***/
-$navbar-height: 64px !default;
-$navbar-height-mobile: 56px !default;
-$navbar-font-color: #fff !default;
-$navbar-brand-font-size: 2.1rem !default;
-
-/*** SideNav ***/
-$sidenav-bg-color: #fff !default;
-$sidenav-padding-right: 15px !default;
-$sidenav-item-height: 64px !default;
-
 /*** Photo Slider ***/
 $slider-bg-color: color('grey', 'base') !default;
 $slider-bg-color-light: color('grey', 'lighten-2') !default;
@@ -75,4 +50,7 @@ h6 {
     display: inline-flex;
 }
 
-@import "maningtech";
+@import 
+    "materialize",
+    "font-awesome"
+;
