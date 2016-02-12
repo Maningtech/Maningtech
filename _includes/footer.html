@@ -1,13 +1,14 @@
 <footer class="page-footer">
     <div class="container">
         <div class="row">
-            <h3 class="col s12 l4">
-                {{ site.name }}&trade; é uma marca registada pertencente ao grupo <br>
-                [IZTech](http://zinenda.github.io/iztech) <br>
-                sob [GNU GENERAL PUBLIC LICENSE V3]({{ site.github.url }}/license)
-            </h3>
+           <div class="col s12 l4">
+               <h3>{{ site.name }}&trade;</h3>
+               É uma marca registada pertencente ao grupo <br>
+               <a href="http://zinenda.github.io/iztech" title="IZTech">IZTech</a>
+               sob <a href="{{ site.github.url }}/license">GNU GENERAL PUBLIC LICENSE V3</a>
+           </div>
             <div class="col s12 l4">
-                <ul class="inline-list">
+                <ul class="center inline-list">
                     <li>
                         <a href="http://facebook.com/{{ site.facebook }}" class="btn-floating btn-flat"><i class="fa fa-facebook"></i></a>
                     </li>
@@ -26,10 +27,18 @@
                 Parceiros:
                 <ul>
                     <li>
-                        [PROstudio](http://zinenda.github.io/prostudio)
+                        <a href="http://zinenda.github.io/prostudio" title="PROstudio">PROstudio</a>
                     </li>
                 </ul>
             </h3>
+        </div>
+    </div>
+    
+    <div class="footer-copyright">
+        <div class="container">
+            <div class="center">
+                Copyright &copy; 2016 {{ site.title }}
+            </div>
         </div>
     </div>
 </footer>
