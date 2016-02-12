@@ -1,0 +1,25 @@
+
+
+# Site settings
+name: ManingTech
+title: ManingTech - Moçambique TechConectado
+email: maningtech@outlook.com
+description: "Blog de noticias, dicas e analíses sobre tecnologia te informação"
+url: "http://maningtech.github.io/maningtech"
+
+# Social
+facebook: Maningtech
+twitter: Maningtech
+github: Maningtech
+
+#site author
+author:
+    name: Ivo Zinenda
+    email: izinenda@outlook.com
+    google: +IvoZinenda
+    facebook: zinenda.jerk
+    twitter: Imaz_3g
+    linkedin: zinendajerk
+    github: zinenda
+# Build settings
+markdown: kramdown
