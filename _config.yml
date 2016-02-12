@@ -23,7 +23,14 @@ author:
     github: zinenda
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
 sass:
     sass_dir: assets/_sass
     style: compressed
+
+# plugins
+gems:
+  - jekyll-auto-image
+  
+image: /assets/img/brand/logotipo.png
