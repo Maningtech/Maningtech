@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<section class="row">
+    <div class="col s12 l8">
+        <article class="post">
+            {{ content }}
+            <hr>
+            
+            <h3 class="center light">Artigos relacionados</h3>
+            <hr>
+            
+            <section class="row">
+                <article class="col s12 l4">
+                    {% for post in site.related_posts %}
+                        <div class="card">
+                            <div class="card-image">
+                                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
+                                    <img src="{{ site.github.url }}{{ post.image }}" class="responsive-img">
+                                </a>
+                            </div>
+                            <div class="card-action">
+                                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
+                                    <h4 class="center light">{{ post.title }}</h4>
+                                </a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </article>
+            </section>
+        </article>
+    </div>
+    
+    <div class="col l4 hide-on-med-and-down">
+        <h4 class="center">Artigos recentes</h4>
+        <hr>
+        
+        <aside>
+            {% for post in site.posts %}
+                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
+                    <img src="{{ site.github.url }}{{ post.image }}" class="responsive-img">
+                    <span class="caption">
+                        <h5 class="light">{{ post.title }}</h5>
+                    </span>
+                </a>
+            {% endfor %}
+        </aside>
+    </div>
+</section>
