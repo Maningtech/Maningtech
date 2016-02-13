@@ -6,12 +6,15 @@ title: ManingTech - Moçambique TechConectado
 email: maningtech@outlook.com
 description: "Blog de noticias, dicas e analíses sobre tecnologia te informação"
 url: "http://maningtech.github.io/maningtech"
+port: 4040
 
 # Social
 facebook: maningtech
-twitter: maning_tech
+twitter: 
+    username: maning_tech
 github: Maningtech
-google: +Maningtech
+google:
+logo: assets/img/brand/favicon.svg
 
 #site author
 author:
@@ -32,3 +35,6 @@ sass:
 
   
 image: /assets/img/brand/logotipo.png
+
+gems:
+  - jekyll-seo-tag
