@@ -1,5 +1,5 @@
 ---
 layout: default
 permalink:  /voce_sabia/
-title: Voce Sabia
+title: Você Sabia
 ---
