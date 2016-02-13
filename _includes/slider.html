@@ -1,38 +1,36 @@
-<section>
-    <div class="slider">
+<div class="slider">
         <ul class="slides">
             <li>
                 <img src="{{ site.github.url }}{{ site.image }}" alt="Logotipo">
-                <div class="caption">
-                    <a href="{{ post.url | prepend: site.github.url }}/ " title="{{ post.title }}">
-                        <h6>{{ post.title }}</h6>
+                <div class="caption left-align">
+                    <a href="{{ site.github.io }}/" title="{{ site.title }}">
+                        <h4>{{ site.title }}</h4>
                     </a>
                 </div>
             </li>
             <li>
-                <img src="{{ site.github.url }}{{ site.image }}" alt="Logotipo">
-                <div class="caption">
-                    <a href="{{ post.url | prepend: site.github.url }}/ " title="{{ post.title }}">
-                        <h6>{{ post.title }}</h6>
+                <img src="{{ site.github.url }}/assets/img/brand/logotipo_noticias.png" alt="Logotipo noticias">
+                <div class="caption right-align">
+                    <a href="{{ site.github.url }}/noticias/" title="Noticias">
+                        <h4>Noticias</h4>
                     </a>
                 </div>
             </li>
             <li>
-                <img src="{{ site.github.url }}{{ site.image }}" alt="Logotipo">
-                <div class="caption">
-                    <a href="{{ post.url | prepend: site.github.url }}/ " title="{{ post.title }}">
-                        <h6>{{ post.title }}</h6>
+                <img src="{{ site.github.url }}/assets/img/brand/logotipo_dicas.png" alt="Logotipo dicas">
+                <div class="caption center">
+                    <a href="{{ site.github.url }}/dicas/ " title="Dicas">
+                        <h4>Dicas</h4>
                     </a>
                 </div>
             </li>
             <li>
-                <img src="{{ site.github.url }}{{ site.image }}" alt="Logotipo">
-                <div class="caption">
-                    <a href="{{ post.url | prepend: site.github.url }}/ " title="{{ post.title }}">
-                        <h6>{{ post.title }}</h6>
+                <img src="{{ site.github.url }}/assets/img/brand/logotipo_analises.png" alt="Logotipo analises">
+                <div class="caption right-align">
+                    <a href="{{ site.github.url }}/analises/ " title="Analises">
+                        <h4>Analises</h4>
                     </a>
                 </div>
             </li>
         </ul>
-    </div>
-</section>
+</div>

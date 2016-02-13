@@ -4,7 +4,10 @@
     $('.button-collapse').sideNav();
     $('.modal-trigger').leanModal();
     $('.materialboxed').materialbox();
-    $('.slider').slider();
+    $('.slider').slider({
+        indicators: true,
+        height: 500
+    });
     $('.slider').slider('next');
     $('.slider').slider('prev');
     $('.tabs-wrapper .row').pushpin({ top: $('.tabs-wrapper').offset().top });
