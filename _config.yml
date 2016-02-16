@@ -38,3 +38,4 @@ image: /assets/img/brand/logotipo.png
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
