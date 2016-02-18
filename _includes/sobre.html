@@ -2,7 +2,7 @@
     <div class="modal-content">
         <div class="card">
             <div class="card-image">
-                <img src="{{ site.github.url }}{{ site.image }}" alt="Logotipo de Maningtech" class="responsive-img">
+                <img src="{{ site.github.url | prepend: site.url }}{{ site.image }}" alt="Logotipo de Maningtech" class="responsive-img">
             </div>
             <div class="card-content">
                 <p class="light">
