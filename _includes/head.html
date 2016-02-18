@@ -3,11 +3,19 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="Noticias, Dicas, Analises, Quem somos">
     <meta name="theme-color" content="#009688">
-    <link rel="shortcut icon" href="{{ site.github.url }}/assets/img/brand/favicon.svg">
+    <link rel="shortcut icon" href="{{ site.github.url | prepend: site.url }}/assets/img/brand/favicon.svg">
     {% seo %}
     <link rel="stylesheet" href="{{ site.github.url | prepend: site.url }}/assets/css/main.css">
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet'>
     <link rel="amphtml" href="{{ page.id | append:'/index.html' | prepend: site.url }}">
+    
+        <meta property="og:url"                content="{{ post.url | prepend: site.url }}">
+        <meta property="og:site_name"           content="{{ site.name }}">
+        <meta property="fb:app_id"              content="566902466800016">
+        <meta property="og:type"               content="article">
+        <meta property="og:title"              content="{{ post.title }}">
+        <meta property="og:description"        content="{{ post.description }}">
+        <meta property="og:image"              content="{{ post.image | prepend: site.url }}">
 
     {% include googlealytics.html %}
     <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr.js"></script>
