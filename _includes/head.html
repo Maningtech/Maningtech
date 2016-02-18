@@ -5,9 +5,10 @@
     <meta name="theme-color" content="#009688">
     <link rel="shortcut icon" href="{{ site.github.url }}/assets/img/brand/favicon.svg">
     {% seo %}
-    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.github.url | prepend: site.url }}/assets/css/main.css">
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet'>
+    <link rel="amphtml" href="{{ page.id | append:'/index.html' | prepend: site.url }}">
 
     {% include googlealytics.html %}
-    <script src="{{ site.github.url }}/assets/js/modernizr.js"></script>
+    <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr.js"></script>
 </head>
