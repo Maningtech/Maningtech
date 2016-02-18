@@ -27,7 +27,7 @@ author:
     github: zinenda
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 sass:
     sass_dir: assets/_sass
