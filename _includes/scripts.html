@@ -2,9 +2,23 @@
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/search.json',
+        json: '{{ site.github.url | prepend: site.url }}/search.json',
     })
 </script>
+
+<script>
+var myVar;
+
+function myFunction() {
+    myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("content").style.display = "block";
+}
+</script>
+
 
 <script src="{{ site.github.url | prepend: site.url }}/assets/js/jquery.min.js"></script>
 <script src="{{ site.github.url | prepend: site.url }}/assets/js/materialize.min.js"></script>

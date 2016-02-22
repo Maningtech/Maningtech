@@ -2,18 +2,22 @@
 <html dir="ltr" lang="pt" manifest="{{ site.github.url | prepend: site.url }}/manifest" class="no-js">
     {% include head.html %}
     
-    <body id="page-top" class="scrollspy">
+    <body onload="myFunction()" id="page-top" class="scrollspy">
         
-        {% include fb-sdk.html %}
+        <div id="loader"></div>
         
-        {% include header.html %}
+        <div id="content" class="animate-bottom" style="display: none;">
+            {% include fb-sdk.html %}
         
-        <main>
-            {{ content }}
-        </main>
+            {% include header.html %}
         
-        {% include footer.html %}
-        
-        {% include scripts.html %}
+            <main>
+                {{ content }}
+            </main>
+            
+            {% include footer.html %}
+            
+            {% include scripts.html %}
+        </div>
     </body>
 </html>

@@ -1,7 +1,8 @@
 <div class="slider">
+    <div class="row">
         <ul class="slides">
             <li>
-                <img src="{{ site.github.url | prepend: site.url }}{{ site.image }}" alt="Logotipo">
+                <img src="{{ site.github.url | prepend: site.url }}{{ site.image }}" class="responsive-img" alt="Logotipo">
                 <div class="caption left-align">
                     <a href="{{ site.github.io }}/" title="{{ site.title }}">
                         <h4>{{ site.title }}</h4>
@@ -33,4 +34,5 @@
                 </div>
             </li>
         </ul>
+    </div>
 </div>
