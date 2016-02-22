@@ -4,12 +4,7 @@
     $('.button-collapse').sideNav();
     $('.modal-trigger').leanModal();
     $('.materialboxed').materialbox();
-    $('.slider').slider({
-        indicators: true,
-        height: 500
-    });
-    $('.slider').slider('next');
-    $('.slider').slider('prev');
+    $('.slider').slider();
     $('.tabs-wrapper .row').pushpin({ top: $('.tabs-wrapper').offset().top });
     $('.scrollspy').scrollSpy();
 
