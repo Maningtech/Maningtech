@@ -1,10 +1,7 @@
-
-
 # Site settings
-name: ManingTech
-title: ManingTech - Moçambique TechConectado
+title: ManingTech
 email: maningtech@outlook.com
-description: "Blog de noticias, dicas e analíses sobre tecnologia te informação"
+description: "Moçambique TechConectado"
 url: "http://maningtech.github.io/maningtech"
 port: 4040
 
@@ -13,7 +10,7 @@ facebook: maningtech
 twitter: 
     username: maning_tech
 github: Maningtech
-google:
+google: maningtech
 logo: assets/img/brand/favicon.svg
 
 #site author
@@ -27,7 +24,6 @@ author:
     github: zinenda
 # Build settings
 markdown: kramdown
-highlighter: rouge
 
 sass:
     sass_dir: assets/_sass
