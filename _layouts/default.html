@@ -1,8 +1,14 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="pt" manifest="{{ site.github.url | prepend: site.url }}/manifest" class="no-js">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt"> <!--<![endif]-->
     {% include head.html %}
     
     <body onload="myFunction()" id="page-top" class="scrollspy">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
         
         <div id="loader"></div>
         
@@ -12,72 +18,12 @@
             {% include header.html %}
         
             <main>
-                <div class="container">
-                    <div class="month">
-                        <ul>
-                            <li class="center">CALENDÁRIO DO LANÇAMENTO OFICIAL</li>
-                            <li class="prev">
-                                <i class="fa fa-lg fa-chevron-left"></i>
-                            </li>
-                            <li class="next">
-                                <i class="fa fa-lg fa-chevron-right"></i>
-                            </li>
-                            
-                            <li class="center">
-                                Maio <br>
-                                <span style="font-size: 18px">2016</span>
-                            </li>
-                        </ul>
-                    </div>
-                    
-                    <ul class="weekdays">
-                        <li>DOMINGO</li>
-                        <li>SEGUNDA</li>
-                        <li>TERÇA</li>
-                        <li>QUARTA</li>
-                        <li>QUINTA</li>
-                        <li>SEXTA</li>
-                        <li>SABADO</li>
-                    </ul>
-                    
-                    <ul class="days">
-                        <li>1</li>
-                        <li><span class="active">2</span></li>
-                        <li>3</li>
-                        <li>4</li>
-                        <li>5</li>
-                        <li>6</li>
-                        <li>7</li>
-                        <li>8</li>
-                        <li>9</li>
-                        <li>10</li>
-                        <li>11</li>
-                        <li>12</li>
-                        <li>13</li>
-                        <li>14</li>
-                        <li>15</li>
-                        <li>16</li>
-                        <li>17</li>
-                        <li>18</li>
-                        <li>19</li>
-                        <li>20</li>
-                        <li>21</li>
-                        <li>22</li>
-                        <li>23</li>
-                        <li>24</li>
-                        <li>25</li>
-                        <li>26</li>
-                        <li>27</li>
-                        <li>28</li>
-                        <li>29</li>
-                        <li>30</li>
-                        <li>31</li>
-                    </ul>
-                </div>
                 {{ content }}
             </main>
             
             {% include footer.html %}
+            
+            {% include googlealytics.html %}
             
             {% include scripts.html %}
         </div>

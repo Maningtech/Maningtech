@@ -1,5 +1,6 @@
 <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="Noticias, Dicas, Analises, Quem somos">
     <meta name="theme-color" content="#009688">
@@ -16,7 +17,6 @@
         <meta property="og:title"              content="{{ post.title }}">
         <meta property="og:description"        content="{{ post.description }}">
         <meta property="og:image"              content="{{ post.image | prepend: site.image }}">
-
-    {% include googlealytics.html %}
-    <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr.js"></script>
+    
+    <script src="{{ site.github.url | prepend: site,url }}/assets/js/modernizr-2.8.3.min.js"></script>
 </head>
