@@ -29,9 +29,8 @@ sass:
     sass_dir: assets/_sass
     style: compressed
 
-  
-image: /assets/img/brand/logotipo.png
 
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
