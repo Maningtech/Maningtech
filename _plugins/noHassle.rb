@@ -1,7 +1,7 @@
 module Jekyll
   class Nohassle < Generator
     safe false
-    @@folder = '_nohassle'
+    @@folder = '_posts'
 
     def generate(site)
       @files = Dir["#{@@folder}/*"]

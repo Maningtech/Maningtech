@@ -24,6 +24,27 @@ author:
     github: zinenda
 # Build settings
 markdown: kramdown
+humanize:
+    date_format: "%d/%m/%Y"
+
+jekyll_timeago:
+  depth: 3
+  today: 'hoje'
+  yesterday: 'ontem'
+  tomorrow: 'amanha'
+  and: 'e'
+  suffix: 'atras'
+  prefix: ''
+  suffix_future: ''
+  prefix_future: 'em'
+  years: 'anos'
+  year: 'ano'
+  months: 'meses'
+  month: 'mes'
+  weeks: 'semanas'
+  week: 'semana'
+  days: 'dias'
+  day: 'dia'
 
 sass:
     sass_dir: assets/_sass
