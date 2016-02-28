@@ -22,12 +22,12 @@ layout: default
                     {% for site.related_posts %}
                         <div class="card">
                             <div class="card-image">
-                                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
-                                    <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" class="responsive-img">
+                                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
+                                    <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
                                 </a>
                             </div>
                             <div class="card-action">
-                                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
+                                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
                                     <h4 class="center light">{{ post.title }}</h4>
                                 </a>
                             </div>
@@ -44,8 +44,8 @@ layout: default
         
         <aside>
             {% for post in site.posts %}
-                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
-                    <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" class="responsive-img">
+                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
+                    <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
                     <span class="caption">
                         <h5 class="light">{{ post.title }}</h5>
                     </span>
