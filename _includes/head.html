@@ -6,6 +6,10 @@
     <meta name="theme-color" content="#009688">
     <link rel="shortcut icon" href="{{ site.github.url | prepend: site.url }}/assets/img/brand/favicon.svg">
     {% seo %}
+    {% if page.image %}
+    <meta name="twitter:image:src" content="{{ page.image | prepend: site.github.url | prepend: site.url }}"> 
+    {% endif %} 
+    
     <link rel="stylesheet" href="{{ site.github.url | prepend: site.url }}/assets/css/main.css">
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet'>
     <link rel="amphtml" href="{{ page.id | append:'/index.html' | prepend: site.url }}">
