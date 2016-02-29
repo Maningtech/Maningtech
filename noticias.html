@@ -5,15 +5,15 @@ title: Noticias
 ---
 
 <section class="row">
-    {% for post in site.categories.Noticias %}
+    {% for page in site.categories.Noticias %}
         <div class="col s12 l4">
-            <a href="{{ post.url }}">
-                <img src="{{ post.image }}" class="responsive-img">
+            <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}">
+                <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
             </a>
         </div>
         <div class="col s12 l4">
             <time datetime="{{ page.date }}">{{ page.date | timeago }}</time>
-            <a href="{{ post.url }}" title="{{ post.title }}">
+            <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
                 <h3>{{ post.title }}</h3>
             </a>
         </div>
