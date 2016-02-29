@@ -19,7 +19,7 @@ layout: default
             
             <section class="row">
                 <article class="col s12 l4">
-                    {% for site.related_posts %}
+                    {% for page in site.related_posts %}
                         <div class="card">
                             <div class="card-image">
                                 <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">

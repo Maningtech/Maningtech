@@ -1,0 +1,22 @@
+---
+layout: default
+permalink:  /voce_sabia/
+title: Você Sabia
+---
+
+<section class="row">
+    {% for page in site.categories.Voce_Sabia %}
+    <article class="col s12 l4">
+        <a href="{{ post.url }}" title="{{ post.title }}">
+            <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}" class="responsive-img">
+        </a>
+    </article>
+    <article class="col s12 l8">
+        <a href="{{ post.url }}" title="{{ post.title }}">
+            <h4 class="center light">
+                {{ post.title }}
+            </h4>
+        </a>
+    </article>
+    {% endfor %}
+</section>
