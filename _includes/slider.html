@@ -1,20 +1,16 @@
-<div class="slider">
-    <ul class="slides">
-        <span class="prev">
-            <i class="fa fa-lg fa-chevron-left"></i>
-        </span>
-        <span class="next">
-            <i class="fa fa-lg fa-chevron-right"></i>
-        </span>
-        {% for post in site.posts limit:4 %}
-            <li>
-                <img src="{{ site.github,url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
-                <div class="caption right-align">
-                    <h4 class="teal white-text">
-                        <a href="{{ post.url }}">{{ post.title }}</a>
-                    </h4>
-                </div>
-            </li>
-         {% endfor %}
-    </ul>
+<div class="container">
+    <div class="slider">
+        <ul class="slides">
+            {% for post in site.posts limit:4 %}
+                <li>
+                    <img src="{{ site.github.url | prepend: site.url }}{{ post.image | prepend: site.github.url | prepend: site.url }}" alt="{{ post.title }}">
+                    <div class="caption right-align">
+                        <h4 class="teal white-text">
+                            <a href="{{ post.url }}">{{ post.title }}</a>
+                        </h4>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>

@@ -1,27 +1,14 @@
 <script>
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.github.url | prepend: site.url }}/search.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-    })
-</script>
+    var myVar;
 
-<script>
-var myVar;
+    function myFunction() {
+        myVar = setTimeout(showPage, 3000);
+    }
 
-function myFunction() {
-    myVar = setTimeout(showPage, 3000);
-}
-
-function showPage() {
-  document.getElementById("loader").style.display = "none";
-  document.getElementById("content").style.display = "block";
-}
+    function showPage() {
+    document.getElementById("loader").style.display = "none";
+    document.getElementById("content").style.display = "block";
+    }
 </script>
 
 
