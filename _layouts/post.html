@@ -5,6 +5,9 @@ layout: default
 <section class="row">
     <div class="col s12 l8">
         <article class="post">
+            <h2>{{ page.title }}</h2>
+            <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}" class="responsive materialboxed" data-caption="{{ page.title }}">
+            <hr>
             {{ content }}
             Fonte: {{ page.fonte }}
             <br>
@@ -38,18 +41,18 @@ layout: default
         </article>
     </div>
     
-    <div class="col l4 hide-on-med-and-down">
+    <div class="col l4 hide-on-med-and-down" style="padding-top: 40px;">
         <h4 class="center">Artigos recentes</h4>
         <hr>
-        
         <aside>
-            {% for post in site.posts %}
+            {% for post in site.posts limit:6 %}
                 <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
                     <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
                     <span class="caption">
                         <h5 class="light">{{ post.title }}</h5>
                     </span>
                 </a>
+                <hr>
             {% endfor %}
         </aside>
     </div>
