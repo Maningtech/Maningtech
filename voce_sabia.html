@@ -5,18 +5,19 @@ title: Você Sabia
 ---
 
 <section class="row">
-    {% for page in site.categories.Voce_Sabia %}
-    <article class="col s12 l4">
-        <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
-            <img src="{{ site.github.url | prepend: site.url }}{{ post.image | prepend: site.github.url | prepend: site.url }}" alt="{{ post.title }}" class="responsive-img">
-        </a>
-    </article>
-    <article class="col s12 l8">
-        <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
-            <h4 class="center light">
-                {{ post.title }}
-            </h4>
-        </a>
-    </article>
+    {% for post in site.categories.Voce_Sabia %}
+        <div class="col s12 l4">
+            <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}">
+                <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
+            </a>
+        </div>
+        <div class="col s12 l8">
+            <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
+                <h3>{{ post.title }}</h3>
+            </a>
+            <h5>Publicado por: {{ post.author }}</h5>
+            <time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time>
+        </div>
+        <hr>
     {% endfor %}
 </section>
