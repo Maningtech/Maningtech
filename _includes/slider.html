@@ -4,7 +4,7 @@
             {% for post in site.posts limit:4 %}
                 <li>
                     <img src="{{ site.github.url | prepend: site.url }}{{ post.image | prepend: site.github.url | prepend: site.url }}" alt="{{ post.title }}">
-                    <div class="caption center">
+                    <div class="caption left-align">
                         <a href="{{ post.url }}">
                             <h4 class="white-text" style="text-shadow: 1px -2px #000;">
                                 {{ post.title }}
