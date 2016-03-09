@@ -20,29 +20,11 @@ layout: default
             </script>
             <hr>
             <br>
-            
-            <h3 class="center light">Artigos relacionados</h3>
-            <hr>
-            
-            <section class="row">
-                {% for post in site.related_posts %}
-                    <article class="col s12 l4">
-                        <div class="card hoverable">
-                            <div class="card-image">
-                                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
-                                    <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
-                                </a>
-                            </div>
-                            <div class="card-action">
-                                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}" class="btn btn-flat waves-effect waves-light">
-                                    {{ post.title }}
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-                {% endfor %}
-            </section>
         </article>
+        
+        {% if related_posts %}
+            {% include related_posts.html %}
+        {% endif %}
     </div>
     
     <div class="col l4 hide-on-med-and-down" style="padding-top: 40px;">
