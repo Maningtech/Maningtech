@@ -3,7 +3,7 @@ layout: post
 author: Ivo Zinenda
 twitter:
     usename: Imaz_3g
-image: /assets/img/analises/hero-device.png
+image: /assets/img/analises/Galaxy-S7-header-2.jpg
 category: Analises
 ---
 
