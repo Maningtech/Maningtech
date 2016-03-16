@@ -21,10 +21,11 @@ html, body {
     min-height: 100vh;
     flex-direction: column;
     font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
     overflow-x: hidden;
 }
 
-main {
+nav, header, main, section, article, .container {
     flex: 1 0 auto;
 }
 
@@ -75,7 +76,7 @@ main {
   to{ bottom:0; opacity:1 }
 }
 
-#content {
+#content, #footer {
   display: none;
 }
 
@@ -118,6 +119,12 @@ h6 {
 img {
     max-width: 100%;
     height: auto;
+}
+
+.card-image img {
+    min-height: 120px;
+    max-height: 120px;
+    height: 100%; 
 }
 
 @import 

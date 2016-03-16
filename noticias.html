@@ -4,20 +4,25 @@ permalink: /noticias/
 title: Noticias
 ---
 
-<section class="row">
+<div class="container">
+    <section class="row">
     {% for post in site.categories.Noticias %}
-        <div class="col s12 l4">
-            <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}">
-                <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
-            </a>
-        </div>
-        <div class="col s12 l8">
-            <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
-                <h3>{{ post.title }}</h3>
-            </a>
-            <h5>Publicado por: {{ post.author }}</h5>
-            <time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time>
-        </div>
-        <hr>
+        <article class="col s12 l4">
+            <div class="card hoverable">
+                <div class="card-image">
+                    <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}">
+                        <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
+                    </a>
+                </div>
+                <div class="card-content">
+                    Publicado por: {{ post.author }} <br>
+                    Aos {{ post.date | timeago | date_to_string }}
+                </div>
+                <div class="card-action">
+                    <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                </div>
+            </div>
+        </article>
     {% endfor %}
-</section>
+    </section>
+</div>

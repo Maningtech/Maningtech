@@ -12,16 +12,18 @@
         
         <div id="loader"></div>
         
-        <div id="content" class="animate-bottom" style="display: none;">
+        <div>
             {% include fb-sdk.html %}
         
             {% include header.html %}
         
-            <main>
+            <main id="content" class="animate-bottom" style="display: none;">
                 {{ content }}
             </main>
             
-            {% include footer.html %}
+            <div id="footer">
+                {% include footer.html %}
+            </div>
             
             {% include googleanalytics.html %}
             
