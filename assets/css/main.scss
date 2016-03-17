@@ -9,9 +9,9 @@ $primary-color-light: lighten($primary-color, 15%) !default;
 $primary-color-dark: darken($primary-color, 15%) !default;
 $link-color: #00BCD4 !default;
 /*** Photo Slider ***/
-$slider-bg-color: color('grey', 'base') !default;
-$slider-bg-color-light: color('grey', 'lighten-2') !default;
-$slider-indicator-color: color('green', 'base') !default;
+$slider-bg-color: $primary-color-dark !default;
+$slider-bg-color-light: $primary-color-light !default;
+$slider-indicator-color: $primary-color-dark !default;
 
 // Footer
 $footer-bg-color: $primary-color !default;
@@ -87,6 +87,11 @@ a {
     &:hover {
        color: #CDDC39;
     }
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #333;
 }
 
 h1,
