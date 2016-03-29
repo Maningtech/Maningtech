@@ -109,29 +109,22 @@ h6 {
     display: inline-flex;
 }
 
-.slider {
-    .slides {
-        .prev {
-            float: left;
-            padding-top: 10px;
-        }
-        
-        .next {
-            float: right;
-            padding-top: 10px;
-        }
-    }
-}
-
-img {
+img, .calendario {
     max-width: 100%;
     height: auto;
 }
 
 .card-image img {
     min-height: 120px;
-    max-height: 120px;
+    max-height: 140px;
     height: 100%; 
+}
+
+footer.page-footer {
+    color: #fff;
+    a {
+        color: #fff;
+    }
 }
 
 @import 
