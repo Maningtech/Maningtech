@@ -3,43 +3,45 @@ layout: default
 ---
 
 <section class="row">
-    <div class="col s12 l8">
-        <article class="post">
-            <h2>{{ page.title }}</h2>
-            <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}" class="responsive materialboxed" data-caption="{{ page.title }}">
-            <hr>
-            {{ content }}
-            
-            {% if page.fonte %}
-                Fonte: {{ page.fonte }}
-            {% endif %}
-            <br>
-            <a href="https://twitter.com/share" class="twitter-share-button btn-floating btn-flat blue waves-effect waves-light" data-via="maning_tech" data-size="large" data-dnt="true" title="Compartilhe no twitter"><i class="fa fa-lg fa-twitter"></i></a>
-            <script>
-                !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-            </script>
-            <hr>
-            <br>
-        </article>
-        
-        {% if related_posts %}
-            {% include related_posts.html %}
-        {% endif %}
-    </div>
-    
-    <div class="col l4 hide-on-med-and-down" style="padding-top: 40px;">
-        <h4 class="center">Artigos recentes</h4>
-        <hr>
-        <aside>
-            {% for post in site.posts limit:6 %}
-                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
-                    <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
-                    <span class="caption">
-                        <h5 class="light">{{ post.title }}</h5>
-                    </span>
-                </a>
+    <div class="container">
+        <div class="col s12 l8">
+            <article class="post">
+                <h2>{{ page.title }}</h2>
+                <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}" class="responsive materialboxed" data-caption="{{ page.title }}">
                 <hr>
-            {% endfor %}
-        </aside>
+                {{ content }}
+                
+                {% if page.fonte %}
+                    Fonte: {{ page.fonte }}
+                {% endif %}
+                <br>
+                <a href="https://twitter.com/share" class="twitter-share-button btn-floating btn-flat blue waves-effect waves-light" data-via="maning_tech" data-size="large" data-dnt="true" title="Compartilhe no twitter"><i class="fa fa-lg fa-twitter"></i></a>
+                <script>
+                    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+                </script>
+                <hr>
+                <br>
+            </article>
+        
+            {% if related_posts %}
+                {% include related_posts.html %}
+            {% endif %}
+        </div>
+    
+        <div class="col l4 hide-on-med-and-down" style="padding-top: 40px;">
+            <h4 class="center">Artigos recentes</h4>
+            <hr>
+            <aside>
+                {% for post in site.posts limit:6 %}
+                    <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
+                        <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
+                        <span class="caption">
+                            <h5 class="light">{{ post.title }}</h5>
+                        </span>
+                    </a>
+                    <hr>
+                {% endfor %}
+            </aside>
+        </div>
     </div>
 </section>
