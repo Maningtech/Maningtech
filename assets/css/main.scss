@@ -109,6 +109,12 @@ h6 {
     display: inline-flex;
 }
 
+#sobre .card .card-image img {
+    min-height: 320px;
+    height: 100%;
+    width: 100%;
+}
+
 img, .calendario {
     max-width: 100%;
     height: auto;
