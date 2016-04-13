@@ -11,7 +11,7 @@ A HTC apresentou oficialmente o seu mais novo top de linha, o HTC 10. <br>
 Sua apresentaçao, diferente das demais empresas, não teve uma cerimonia de lançamento, apenas sendo lançado um video no YOUTube no canal da empresa.<br>
 
 <div class="video-container">
-    <iframe src="https://youtu.be/MmmkyRopBFg" frameborder="0"></iframe>
+    <iframe src="https://www.youtube.com/embed/MmmkyRopBFg" frameborder="0" allowfullscreen></iframe>
 </div>
 <p class="light caption">Video da apresentaçao</p>
 
