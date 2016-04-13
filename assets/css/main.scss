@@ -16,7 +16,8 @@ $slider-indicator-color: $primary-color-dark !default;
 // Footer
 $footer-bg-color: $primary-color !default;
 
-html, body {
+html 
+body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -25,7 +26,11 @@ html, body {
     overflow-x: hidden;
 }
 
-nav, header, main, section, article, .container {
+nav 
+header 
+main 
+section 
+article {
     flex: 1 0 auto;
 }
 
