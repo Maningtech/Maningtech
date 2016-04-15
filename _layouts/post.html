@@ -2,53 +2,40 @@
 layout: default
 ---
 
-<section class="row">
-    <div class="col s12 l8">
-        <article class="post">
-            {{ content }}
-            <a href="https://twitter.com/share" class="twitter-share-button" data-via="maning_tech" data-size="large" data-dnt="true">Tweet</a>
-            <script>
-                !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-            </script>
-            <hr>
-            
-            <h3 class="center light">Artigos relacionados</h3>
-            <hr>
-            
-          <!--  <section class="row">
-                <article class="col s12 l4">
-                    {% for post in site.related_posts %}
-                        <div class="card">
-                            <div class="card-image">
-                                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
-                                    <img src="{{ site.github.url }}{{ post.image }}" class="responsive-img">
-                                </a>
-                            </div>
-                            <div class="card-action">
-                                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
-                                    <h4 class="center light">{{ post.title }}</h4>
-                                </a>
-                            </div>
-                        </div>
-                    {% endfor %}
-                </article>
-            </section> -->
-        </article>
-    </div>
+<section class="container">
+    <article class="post">
+        <h2>{{ page.title }}</h2>
+        <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}" class="responsive materialboxed" data-caption="{{ page.title }}">
+        <hr>
+        {{ content }}
+        {% if page.fonte %}
+            Fonte: {{ page.fonte }}
+        {% endif %}
+        <br>
+        <a href="https://twitter.com/share" class="twitter-share-button btn blue waves-effect waves-light" data-via="maning_tech" data-size="large" data-dnt="true" title="Compartilhe no twitter"><i class="fa fa-lg fa-twitter"></i> Compartilhe</a>
+        <script>
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+        <hr>
+        <br>
+    </article>
     
-    <div class="col l4 hide-on-med-and-down">
+    <section class="row">
         <h4 class="center">Artigos recentes</h4>
         <hr>
-        
-        <aside>
-            {% for post in site.posts %}
-                <a href="{{ post.url | prepend: site.github.url }}" title="{{ post.title }}">
-                    <img src="{{ site.github.url }}{{ post.image }}" class="responsive-img">
-                    <span class="caption">
-                        <h5 class="light">{{ post.title }}</h5>
-                    </span>
-                </a>
-            {% endfor %}
-        </aside>
-    </div>
+        {% for post in site.posts limit:3 %}
+        <div class="col s12 l4">
+            <article class="card hoverable">
+                <div class="card-image">
+                    <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
+                        <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">    
+                    </a>
+                </div>
+                <div class="card-action">
+                    <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                </div>
+            </article>
+        </div>
+        {% endfor %}
+    </section>
 </section>

@@ -1,26 +1,21 @@
+{% include googleanalytics.html %}
+{% include fb-sdk.html %}
 <script>
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.github.url | prepend: site.url }}/search.json',
-    })
-</script>
+    var myVar;
 
-<script>
-var myVar;
+    function myFunction() {
+        myVar = setTimeout(showPage, 1000);
+    }
 
-function myFunction() {
-    myVar = setTimeout(showPage, 3000);
-}
-
-function showPage() {
-  document.getElementById("loader").style.display = "none";
-  document.getElementById("content").style.display = "block";
-}
+    function showPage() {
+    document.getElementById("loader").style.display = "none";
+    document.getElementById("content").style.display = "block";
+    document.getElementById("footer").style.display = "block";
+    }
 </script>
 
 
 <script src="{{ site.github.url | prepend: site.url }}/assets/js/jquery.min.js"></script>
 <script src="{{ site.github.url | prepend: site.url }}/assets/js/materialize.min.js"></script>
-<script src="{{ site.github.url | prepend: site.url }}/assets/js/jekyll-search.js"></script>
+<script src="{{ site.github.url | prepend: site.url }}/assets/js/list.min.js"></script>
 <script src="{{ site.github.url | prepend: site.url }}/assets/js/main.js"></script>

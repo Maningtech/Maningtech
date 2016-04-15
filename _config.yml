@@ -1,10 +1,7 @@
-
-
 # Site settings
-name: ManingTech
-title: ManingTech - Moçambique TechConectado
+title: ManingTech
 email: maningtech@outlook.com
-description: "Blog de noticias, dicas e analíses sobre tecnologia te informação"
+description: "Moçambique TechConectado"
 url: "http://maningtech.github.io/maningtech"
 port: 4040
 
@@ -13,8 +10,10 @@ facebook: maningtech
 twitter: 
     username: maning_tech
 github: Maningtech
-google:
+google: maningtech
 logo: assets/img/brand/favicon.svg
+
+image: /assets/img/brand/logotipo.svg
 
 #site author
 author:
@@ -27,15 +26,34 @@ author:
     github: zinenda
 # Build settings
 markdown: kramdown
-highlighter: rouge
+humanize:
+    date_format: "%d/%m/%Y"
+
+jekyll_timeago:
+  depth: 3
+  today: 'hoje'
+  yesterday: 'ontem'
+  tomorrow: 'amanha'
+  and: 'e'
+  suffix: 'atras'
+  prefix: ''
+  suffix_future: ''
+  prefix_future: 'em'
+  years: 'anos'
+  year: 'ano'
+  months: 'meses'
+  month: 'mes'
+  weeks: 'semanas'
+  week: 'semana'
+  days: 'dias'
+  day: 'dia'
 
 sass:
     sass_dir: assets/_sass
     style: compressed
 
-  
-image: /assets/img/brand/logotipo.png
 
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
