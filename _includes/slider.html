@@ -1,9 +1,29 @@
-<div class="container">
+<!-- slider to desktop -->
+<div class="hide-on-med-and-down">
     <div class="slider">
         <ul class="slides">
             {% for post in site.posts limit:4 %}
                 <li>
-                    <img src="{{ site.github.url | prepend: site.url }}{{ post.image | prepend: site.github.url | prepend: site.url }}" alt="{{ post.title }}">
+                    <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
+                    <div class="caption left-align">
+                        <a href="{{ post.url }}">
+                            <h4 class="white-text" style="text-shadow: 1px -2px #000;">
+                                {{ post.title }}
+                            </h4>
+                        </a>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<!-- slider for mobiles -->
+<div class="container hide-on-large-only">
+    <div class="slider">
+        <ul class="slides">
+            {% for post in site.posts limit:4 %}
+                <li>
+                    <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
                     <div class="caption left-align">
                         <a href="{{ post.url }}">
                             <h4 class="white-text" style="text-shadow: 1px -2px #000;">
