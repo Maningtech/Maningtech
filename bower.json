@@ -23,8 +23,8 @@
     "tests"
   ],
   "dependencies": {
-    "Materialize": "materialize#^0.97.5",
-    "font-awesome": "^4.5.0",
+    "Materialize": "materialize#^0.97.6",
+    "font-awesome": "^4.6.1",
     "modernizr": "^3.3.1",
     "list.js": "^1.2.0"
   }
