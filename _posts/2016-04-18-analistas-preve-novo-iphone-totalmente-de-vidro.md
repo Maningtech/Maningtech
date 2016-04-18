@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analista prevê novos iPhones com carcaça totalmente de vidro
+title: Previsão de novos iPhones com carcaça totalmente de vidro
 category: Noticias
 tag: iPhone, Apple
 description: previsão do analista da KG Securities
