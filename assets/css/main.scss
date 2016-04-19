@@ -87,6 +87,10 @@ p { text-align: justify;}
   display: none;
 }
 
+.page {
+    display: flex;
+    flex-direction: row;
+}
 
 a {
     text-decoration: none;

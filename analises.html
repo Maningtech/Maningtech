@@ -4,25 +4,30 @@ permalink: /analises/
 title: Analíses
 ---
 
-<div class="container">
+<div class="page">
     <section class="row">
     {% for post in site.categories.Analises %}
-        <article class="col s12 l4">
+        <article>
             <div class="card hoverable">
-                <div class="card-image">
-                    <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}">
-                        <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
-                    </a>
+                <div class="col s12 l4">
+                    <div class="card-image">
+                        <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}">
+                            <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
+                        </a>
+                    </div>
                 </div>
-                <div class="card-content">
+                <div class="col 12 l8">
+                    <div class="card-content">
                     Publicado por: {{ post.author }} <br>
                     Aos {{ post.date | timeago | date_to_string }}
                 </div>
                 <div class="card-action">
                     <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a>
                 </div>
+                </div>
             </div>
         </article>
+        <hr><br>
     {% endfor %}
     </section>
 </div>
