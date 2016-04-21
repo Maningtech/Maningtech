@@ -3,7 +3,9 @@ layout: post
 title: Como configurar uma VPN
 description: Já sabe o que é uma VPN e gostaria de ter uma, saiba como configurar
 category: Dicas
-tag: Acesso Remoto, VPN
+tag:
+    - Acesso Remoto
+    - VPN
 author: Ivo Zinenda
 image: /assets/img/dicas/Virtual_Private_Network_overview.svg
 ---

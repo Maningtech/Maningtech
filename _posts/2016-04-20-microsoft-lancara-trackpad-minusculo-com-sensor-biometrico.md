@@ -1,7 +1,9 @@
 ---
 layout: post
 title: A Microsoft desenvolvelve trackpad minusculo com sensor biométrico
-category: Noticias, Voce_Sabia
+category: 
+    - Noticias
+    - Voce_Sabia
 tag: Microsoft
 description: Noticia do desenvolvimento do trackpad minusculo com sensor biométrico, da Microsoft
 image: /assets/img/noticias/id168634_1.jpg

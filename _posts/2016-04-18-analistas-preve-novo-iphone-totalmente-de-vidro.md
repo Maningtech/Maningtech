@@ -2,7 +2,9 @@
 layout: post
 title: Previsão de novos iPhones com carcaça totalmente de vidro
 category: Noticias
-tag: iPhone, Apple
+tag:
+    - iPhone
+    - Apple
 description: previsão do analista da KG Securities
 image: /assets/img/analises/maxresdefault1.jpg
 author: Ivo Zinenda

@@ -27,7 +27,7 @@
     {% seo %}
     
     {% if page.image %}
-    <meta name="twitter:image:src" content="{{ page.image | prepend: site.github.url | prepend: site.url }}"> 
+    <meta name="twitter:image:src" content="{{ site.github.url | prepend: site.url }}{{ page.image }}"> 
     {% endif %} 
     
     <link rel="stylesheet" href="{{ site.github.url | prepend: site.url }}/assets/css/main.css">
@@ -43,4 +43,8 @@
         <meta property="og:image"              content="{{ post.image | prepend: site.image }}">
     
     <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr-2.8.3.min.js"></script>
+    
+    {% include fb-sdk.html %}
+    {% include twitter-btn.html %}
+    {% include google-btn.html %} 
 </head>

@@ -1,7 +1,10 @@
 ---
 layout: post
 category: Dicas
-tag: iPhone, iOS, Apple
+tag:
+    - iPhone
+    - iOS
+    - Apple
 description: 5 dicas do incriveis para uso do seu iPhone
 author: Ivo Zinenda
 image: /assets/img/dicas/3dtouch.mp4_snapshot_00.34_[2016.04.08_18.49.22].png

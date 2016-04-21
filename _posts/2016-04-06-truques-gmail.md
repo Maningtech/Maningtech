@@ -3,7 +3,10 @@ layout: post
 description: Truques que facilitarão o uso do Gmail
 image: /assets/img/dicas/gmail.png
 category: Dicas
-tag: Email, Gmail, Google
+tag:
+    - Email
+    - Gmail
+    - Google
 author: Ivo Zinenda
 ---
 

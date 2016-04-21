@@ -1,7 +1,9 @@
 ---
 layout: post
 category: Dicas
-tag: Windoes, Windows 10
+tag: 
+    - Windoes
+    - Windows 10
 description: A Microsoft criou um simulador do seu mais novo SO para ajudar seus usuários a conhcerem o Windows 10
 image: /assets/img/noticias/windows10.jpg
 author: Ivo Zinenda
