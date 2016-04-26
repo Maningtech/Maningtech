@@ -12,10 +12,6 @@
                         </a>
                     </div>
                     
-                    <div class="card-title">
-                        <time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time>
-                    </div>
-                    
                     <div class="card-action">
                         <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
                             {{ post.title }}

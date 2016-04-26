@@ -36,32 +36,15 @@ article {
 
 p { text-align: justify;}
 
-/* Center the loader */
-#loader {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  z-index: 1;
-  width: 150px;
-  height: 150px;
-  margin: -75px 0 0 -75px;
-  border: 16px solid #f3f3f3;
-  border-radius: 50%;
-  border-top: 16px solid $primary-color;
-  width: 120px;
-  height: 120px;
-  -webkit-animation: spin 2s linear infinite;
-  animation: spin 2s linear infinite;
-}
-
-@-webkit-keyframes spin {
-  0% { -webkit-transform: rotate(0deg); }
-  100% { -webkit-transform: rotate(360deg); }
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+// loader
+#loader.preloader-wrapper {
+        position: absolute;
+        z-index: 1;
+        left: 50%;
+        top: 50%;
+        height: 120px;
+        width: 120px;
+        margin: -75px 0 0 -75px;
 }
 
 /* Add animation to "page content" */
@@ -87,10 +70,6 @@ p { text-align: justify;}
   display: none;
 }
 
-.page {
-    display: flex;
-    flex-direction: row;
-}
 
 a {
     text-decoration: none;
@@ -98,6 +77,23 @@ a {
     &:hover {
        color: #CDDC39;
     }
+}
+
+.wrap {
+    .card {
+    .card-image {
+        min-height: 10rem;
+        max-height: 10rem;
+    }
+    .card-action {
+        min-height: 6rem;
+        max-height: 6rem;
+    }
+}
+}
+
+.post-wrapper {
+    margin: auto;
 }
 
 hr {
@@ -128,12 +124,6 @@ h6 {
 img, .calendario {
     max-width: 100%;
     height: auto;
-}
-
-.card-image img {
-    min-height: 120px;
-    max-height: 140px;
-    height: 100%; 
 }
 
 footer.page-footer {
