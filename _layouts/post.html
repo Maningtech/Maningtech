@@ -13,8 +13,9 @@ layout: default
                 {{ content }}
                 
                 {% if page.fonte %}
-                    {{ page.fonte }}
+                    Fonte: {{ page.fonte }}
                 {% endif %}
+                <br>
                 Publicado por {{ page.author }}
                 {% include fb-sdk.html %}
                 <script>
