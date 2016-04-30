@@ -1,8 +1,8 @@
 layout: post
 category: Noticias
-title: 2016-04-30-nova-atualizacao-do-google-photos-tem-novo.notor de buscas entre outras novidades
-author: <a rel="author" href="http://fb.com/zinenda.jerk">Ivo Zinenda</a>
-image: /assets/img/noticias/Google-Apps.jpg
+title: Google Fotos tem novo motor de buscas entre outras novidades
+author: Ivo Zinenda
+image: /assets/img/noticias/apps.jpg
 fonte: <a href="https://plus.google.com/+GooglePhotos/posts/NpDDZuZnhxB">Google</a>
 ---
 
