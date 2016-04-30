@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Dicas
-author: <a rel="author" href="http://fb.com/zinenda.jerk">Ivo Zinenda</a>
+author: Ivo Zinenda
 image: /assets/img/dicas/google-now-ui-layout_original.jpg
 fonte: <a href="http://www.tudocelular.com/android/noticias/n70998/lista-comandos-google-now.html">Tudocelular</a>
 ---
