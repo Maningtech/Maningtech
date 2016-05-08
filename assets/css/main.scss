@@ -26,15 +26,19 @@ body {
     overflow-x: hidden;
 }
 
-nav 
-header 
-main 
-section 
+nav, 
+header, 
+main,
+section, 
 article {
     flex: 1 0 auto;
 }
 
-p { text-align: justify;}
+p {
+    font-size: 1em;
+    text-align: justify;
+    line-height: 1.5;
+}
 
 // loader
 #loader.preloader-wrapper {
@@ -92,10 +96,6 @@ a {
 }
 }
 
-.post-wrapper {
-    margin: auto;
-}
-
 hr {
     border: 0;
     border-top: 1px solid #333;
@@ -121,7 +121,7 @@ h6 {
     height: auto;
 }
 
-img, .calendario {
+img {
     max-width: 100%;
     height: auto;
 }
@@ -131,6 +131,20 @@ footer.page-footer {
     a {
         color: #fff;
     }
+}
+
+// post-layout
+
+.post-wrapper {
+    margin: auto;
+}
+
+.post-title {
+    font-weight: 400;
+    text-align: center;
+    padding-top: 20%;
+    color: #fff;
+    text-shadow: 2px -2px $primary-color-dark;
 }
 
 @import 

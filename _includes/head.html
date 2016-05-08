@@ -26,25 +26,21 @@
     
     {% seo %}
     
-    {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.github.url | prepend: site.url }}{{ page.image }}"> 
-    {% endif %} 
-    
     <link rel="stylesheet" href="{{ site.github.url | prepend: site.url }}/assets/css/main.css">
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet'>
-    <link rel="amphtml" href="{{ page.id | append:'/index.html' | prepend: site.url }}">
     
-        <meta property="og:url"                content="{{ post.url | prepend: site.url }}">
-        <meta property="og:site_name"           content="{{ site.name }}">
-        <meta property="fb:app_id"              content="1034422419934923">
-        <meta property="og:type"               content="article">
-        <meta property="og:title"              content="{{ post.title }}">
-        <meta property="og:description"        content="{{ post.description }}">
-        <meta property="og:image"              content="{{ post.image | prepend: site.image }}">
+    {% if page.image %}
+    <meta name="twitter:image:src" content="{{ site.github.url | prepend: site.url }}{{ page.image }}"> 
     
-    <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr-2.8.3.min.js"></script>
     
-    {% include fb-sdk.html %}
-    {% include twitter-btn.html %}
-    {% include google-btn.html %} 
+    <meta property="og:url"                content="{{ site.github.url | prepend: site.url }}{{ page.url }}">
+    <meta property="og:site_name"           content="{{ site.title }}">
+    <meta property="fb:app_id"              content="1034422419934923">
+    <meta property="og:type"               content="article">
+    <meta property="og:title"              content="{{ page.title }}">
+    <meta property="og:description"        content="{{ page.description }}">
+    <meta property="og:image"              content="{{ page.image }}">
+    
+    {% endif %}
+    <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr-2.8.3.min.js"></script> 
 </head>
