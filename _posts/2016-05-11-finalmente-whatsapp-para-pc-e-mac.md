@@ -19,4 +19,13 @@ Depois de instalar o aplicativo, um código QR será enviado para que seja lido 
 
 Se quiser descarregar a novidade acesse o [site oficial](https://www.whatsapp.com/download/)
 
+Veja abaixo as imagens do processo de instalação:
+
+![Whatsapp Desktop]({{ site.github.url | prepend: site.url }}/assets/img/noticias/2016-05-111.png)
+
+![Whatsapp Desktop]({{ site.github.url | prepend: site.url }}/assets/img/noticias/2016-05-112.png)
+
+![Whatsapp Desktop]({{ site.github.url | prepend: site.url }}/assets/img/noticias/2016-05-113.png)
+
+
 Até a próxima!
