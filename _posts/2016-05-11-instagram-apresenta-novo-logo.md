@@ -13,6 +13,12 @@ Surpreendentemente, hoje Instagram anunciou que estaria mudando seu logotipo bem
 A empresa exibiu seu novo logotipo hoje, juntamente com um vídeo interessante que dá uma breve visão geral do processo de projeto para esse novo ícone.
 
 <div class="video-container">
-    <iframe src="https://vimeo.com/166138104" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/166138104?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/166138104">A New Look for Instagram</a> from <a href="https://vimeo.com/instagram">Instagram</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
+Comente na nossa [página do facebook](https://www.facebook.com/maningtech/) sobre o que achou do novo logo.
+
+![instagram]({{ site.github.url | prepend: site.url }}/assets/img/noticias/insta.jpg)
+
+Até a próxima!
