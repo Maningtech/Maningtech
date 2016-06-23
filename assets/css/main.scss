@@ -126,11 +126,14 @@ img {
     height: auto;
 }
 
-footer.page-footer {
+footer {
+    margin: 0;
+    .page-footer {
     color: #fff;
     a {
         color: #fff;
     }
+}
 }
 
 // post-layout

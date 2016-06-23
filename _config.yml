@@ -9,7 +9,9 @@ port: 4040
 facebook: maningtech
 twitter: 
     username: maning_tech
-github: maningtech
+github:
+    url: "http://maningtech.github.io"
+    username: maningtech
 google: maningtech
 logo: assets/img/brand/favicon.svg
 
