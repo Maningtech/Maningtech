@@ -83,19 +83,6 @@ a {
     }
 }
 
-.wrap {
-    .card {
-    .card-image {
-        min-height: 10rem;
-        max-height: 10rem;
-    }
-    .card-action {
-        min-height: 6rem;
-        max-height: 6rem;
-    }
-}
-}
-
 hr {
     border: 0;
     border-top: 1px solid #333;
@@ -112,13 +99,6 @@ h6 {
 
 .inline-list {
     display: inline-flex;
-}
-
-
-#sobre .card .card-image img {
-    max-width: 100%;
-    min-height: 320px;
-    height: auto;
 }
 
 img {
