@@ -118,16 +118,18 @@ footer {
 
 // post-layout
 
-.post-wrapper {
-    margin: auto;
-}
+.post-layout {
+    .parallax {
+        min-height: 100%;
+    }
 
 .post-title {
     font-weight: 400;
-    text-align: center;
-    padding-top: 20%;
+    padding-top: 5%;
+    width: 8em;
     color: #fff;
     text-shadow: 2px -2px $primary-color-dark;
+}
 }
 
 @import 

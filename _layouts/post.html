@@ -2,68 +2,47 @@
 layout: default
 ---
 
-<div class="parallax-container">    
-    <div class="parallax">
-        <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}">
+<section class="post-layout">
+    <div class="parallax-container">    
+        <div class="parallax">
+            <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}">
+        </div>
+        <h1 title="{{ page.title }}" class="post-title left">{{ page.title }}</h1>
     </div>
-    <h1 title="{{ page.title }}" class="post-title">{{ page.title }}</h1>
-</div>
 
-<div class="post-wrapper container">
-    <br>
-    <section class="row">
-        <div class="col s12 l9">
-            <article>
-                {{ content }}
-                
-                {% if page.fonte %}
-                    Fonte: {{ page.fonte }}
-                {% endif %}
-                <br>
-                Publicado por: {{ page.author }}
-                
-                {% include social-buttons.html %}
-            </article>
-        </div>
-        
-        <div class="col s12 l3">
-            <h5 class="center">Recentes</h5>
-            <hr>
-            <aside class="sidebar">
-                {% for post in site.posts limit:3 %}
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
+    <div class="container">
+        <br>
+        <section class="row">
+            <div class="col s12 l9">
+                <article>
+                    {{ content }}
+                    
+                    {% if page.fonte %}
+                        Fonte: {{ page.fonte }}
+                    {% endif %}
+                    <br>
+                    Publicado por: {{ page.author }}
+                    
+                    {% include social-buttons.html %}
+                </article>
+            </div>
+            
+            <div class="col s12 l3">
+                <aside>
+                    {% for post in site.posts limit:3 %}
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
+                            </div>
+                            <div class="card-action">
+                                <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}" title="{{ post.title }}">
+                                    {{ post.title }}
+                                </a>
+                            </div>
                         </div>
-                        <div class="card-action">
-                            <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}" title="{{ post.title }}">
-                                {{ post.title }}
-                            </a>
-                        </div>
-                    </div>
-                {% endfor %}
-            </aside>
-        </div>
-    </section>
-
-    <!-- artigos relacionados -->
-        <div class="wrap row">
-            <br>
-            <h4 class="center">Artigos Relacionados</h4>
-            <hr>
-            {% for post in site.related_posts limit:3 %}
-            <article class="col s12 l4">
-                <div class="card hoverable">
-                        <div class="card-image">
-                            <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
-                        </div>
-                        <div class="card-action">
-                            <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}" title="{{ post.title }}">
-                                {{ post.title }}
-                            </a>
-                        </div>
-                    </div>
-            </article>
-            {% endfor %}
-        </div>
-</div>
+                    {% endfor %}
+                </aside>
+            </div>
+        </section>
+    </div>
+</section>
