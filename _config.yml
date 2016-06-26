@@ -10,7 +10,7 @@ facebook: maningtech
 twitter: 
     username: maning_tech
 github:
-    #url: "http://maningtech.github.io"
+    url: "http://maningtech.github.io"
     username: maningtech
 google: maningtech
 logo: assets/img/brand/favicon.svg
