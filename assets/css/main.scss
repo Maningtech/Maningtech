@@ -122,6 +122,11 @@ footer {
 // post-layout
 
 .post-layout {
+
+    p::first-letter {
+    font-size: xx-large;
+}
+
     .parallax {
         min-height: 100%;
     }
