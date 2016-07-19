@@ -1,61 +1,11 @@
-<!doctype html>
-<html lang="pt">
-<head>
-    <meta charset="utf-8">
-    <title>Página não encontrada!</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
+---
+layout: default
+---
 
-        * {
-            line-height: 1.2;
-            margin: 0;
-        }
-
-        html {
-            background-color: teal;
-            color: #888;
-            display: table;
-            font-family: sans-serif;
-            height: 100%;
-            text-align: center;
-            width: 100%;
-        }
-
-        body {
-            display: table-cell;
-            vertical-align: middle;
-            margin: 2em auto;
-        }
-
-        h1 {
-            color: #555;
-            font-size: 2em;
-            font-weight: 400;
-        }
-
-        p {
-            margin: 0 auto;
-            width: 280px;
-        }
-
-        @media only screen and (max-width: 280px) {
-
-            body, p {
-                width: 95%;
-            }
-
-            h1 {
-                font-size: 1.5em;
-                margin: 0 0 0.3em;
-            }
-
-        }
-
-    </style>
-</head>
-<body>
-    <h1>Desculpe, página não encontrada!</h1>
-    <p>Infelizmente essa página não está disponível</p>
-</body>
-</html>
+<div class="container center">
+    {% include 404.svg %}
+    <h1>Erro 404</h1>
+    <h2>Infelizmente Sua Página não foi encontrada</h2>
+    <a href="{{ site.github.url | prepend: site.url }}/" title="Página Inicial" class="btn-flat btn-large"><i class="fa fa-5x fa-home"></i>Página Inicial</a>
+</div>
 <!-- IE needs 512+ bytes: http://blogs.msdn.com/b/ieinternals/archive/2010/08/19/http-error-pages-in-internet-explorer.aspx -->
