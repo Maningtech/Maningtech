@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Noticia
+category: Noticias
 tag:
     - Google
     - Android
