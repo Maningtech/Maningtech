@@ -11,7 +11,20 @@ layout: default
     </div>
 
     <div class="container">
-        <br>
+        
+        <div class="post-author">
+            {% if page.author.image %}
+                <div class="col s4">
+                    <img src="{{ site.github.url | prepend: site.url }}{{ page.author.image }}" alt="{{ page.author }}" class="circle">
+                </div>
+            {% endif %}
+            {% if page.author %}
+                <div class="col s8">
+                    <h4>Publicado por {{ page.author }}</h4>
+                </div>
+            {% endif %}
+        </div>
+
         <section class="row">
             <div class="col s12 l9">
                 <article>
@@ -21,14 +34,12 @@ layout: default
                         Fonte: {{ page.fonte }}
                     {% endif %}
                     <br>
-                    Publicado por: {{ page.author }}
-                    
                     {% include social-buttons.html %}
                 </article>
             </div>
             
             <div class="col s12 l3">
-                <aside>
+                <aside class="sidebar">
                     {% for post in site.posts limit:3 %}
                         <div class="card hoverable">
                             <div class="card-image">
