@@ -1,0 +1,20 @@
+<section class="container">
+    <div class="valign-wrapper">
+        <h2 class="valign">ARTIGOS RECENTES</h2>
+    </div>
+    <hr>
+    <section class="row">
+        {% for post in site.posts limit: 20 %}
+            <div class="col s12 l3">
+                <div class="card hoverable">
+                    <div class="card-image">
+                        <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}"><img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" class="responsive-img"></a>
+                    </div>
+                    <div class="card-action">
+                        <a href="{{ site.github.url | site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </section>
+</section>

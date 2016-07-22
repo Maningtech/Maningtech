@@ -16,7 +16,7 @@ $slider-indicator-color: $primary-color-dark !default;
 // Footer
 $footer-bg-color: $primary-color !default;
 
-html 
+html,
 body {
     display: flex;
     min-height: 100vh;
@@ -99,6 +99,18 @@ h6 {
 
 .inline-list {
     display: inline-flex;
+}
+
+#home-page {
+    padding-top: 1em;
+    .card {
+        height: 300px;
+        .card-image {
+            img {
+                height: 200px;
+            }
+        }
+    }
 }
 
 img {
