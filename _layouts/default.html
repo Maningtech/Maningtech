@@ -15,16 +15,14 @@
         
         {% include loader.html %}
         
-        <div>
-            {% include header.html %}
+        {% include header.html %}
         
-            <main id="content" class="animate-bottom">
-                {{ content }}
-            </main>
+        <main id="content" class="animate-bottom">
+            {{ content }}
+        </main>
             
-            <div id="footer">
-                {% include footer.html %}
-            </div>
-            
-            {% include scripts.html %}
+        <div id="footer">
+            {% include footer.html %}
         </div>
+            
+        {% include scripts.html %}
