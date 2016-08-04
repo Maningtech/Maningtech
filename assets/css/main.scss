@@ -135,15 +135,19 @@ footer {
 
 .post-layout {
 
-    p::first-letter {
-    font-size: xx-large;
-}
-
     .parallax {
         min-height: 100%;
     }
 
+    p {
+        font: {
+            size: 1rem;
+            weight: 300;
+        } 
+    }
+
 .post-title {
+    background-color: rgba(0, 150, 136,0.1);
     font-weight: 400;
     padding-top: 5%;
     width: 8em;
