@@ -30,14 +30,6 @@
     $('.slider').slider();
     $('.parallax').parallax();
     $('.scrollspy').scrollSpy();
-    
-    // mansory init
-    var $container = $('#masonry-grid');
-    // initialize
-    $container.masonry({
-      columnWidth: '.col',
-      itemSelector: '.col',
-    });
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
