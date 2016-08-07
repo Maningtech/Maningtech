@@ -1,16 +1,17 @@
 <script>
-    var myVar;
+var myVar;
 
-    function myFunction() {
-        myVar = setTimeout(showPage, 1000);
-    }
+function myFunction() {
+    myVar = setTimeout(showPage, 1000);
+}
 
-    function showPage() {
-    document.getElementById("loader").style.display = "none";
-    document.getElementById("content").style.display = "block";
-    document.getElementById("footer").style.display = "block";
-    }
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("content").style.display = "block";
+  document.getElementById("footer").style.display = "block";
+}
 </script>
+
 
 
 <script src="{{ site.github.url | prepend: site.url }}/assets/js/jquery.min.js" defer></script>

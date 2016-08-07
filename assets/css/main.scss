@@ -40,15 +40,12 @@ p {
     line-height: 1.5;
 }
 
-// loader
-#loader.preloader-wrapper {
-        position: absolute;
-        z-index: 1;
-        left: 50%;
-        top: 50%;
-        height: 120px;
-        width: 120px;
-        margin: -75px 0 0 -75px;
+#loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    margin: -75px 0 0 -75px;
 }
 
 /* Add animation to "page content" */
