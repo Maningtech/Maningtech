@@ -1,6 +1,6 @@
 .slider {
   position: relative;
-  height: 600px;
+  height: 400px;
   width: 100%;
 
   // Fullscreen slider
@@ -26,7 +26,7 @@
   .slides {
     background-color: $slider-bg-color;
     margin: 0;
-    height: 600px;
+    height: 400px;
 
     li {
       opacity: 0;
