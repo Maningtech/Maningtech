@@ -4,7 +4,7 @@ title: Titulo do artigo
 author: Nome do author
 category: Noticias, Dicas ou Analises
 fonte: A fonte do artigo (bibliografia)
-image: directorio da imagem
+image: /assets/img/
 twitter:
     username: seu twitter
 ---
