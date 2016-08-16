@@ -2,7 +2,7 @@
   var myVar;
 
   function myFunction() {
-      myVar = setTimeout(showPage, 1000);
+      myVar = setTimeout(showPage, 500);
   }
 
   function showPage() {
@@ -14,10 +14,8 @@
 
 
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" defer></script>
-<script defer>window.jQuery || document.write('<script src="{{ site.github.url | prepend: site.url }}/assets/js/jquery.min.js"><\/script>')</script>
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js" defer></script>
-<script defer>window.jQuery || document.write('<script src="{{ site.github.url | prepend: site.url }}/assets/js/materialize.min.js"><\/script>')</script>
-<script src="{{ site.github.url | prepend: site.url }}/assets/js/main.js" defer></script>
+<script src="{{ site.github.url | prepend: site.url }}/assets/js/main.min.js" defer></script>
 
 {% include googleanalytics.html %}

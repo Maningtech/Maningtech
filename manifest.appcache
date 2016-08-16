@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+# 2016-08-16 v1
+
+http://maningtech.github.io/index.html
+http://maningtech.github.io/noticias.html
+http://maningtech.github.io/dicas.html
+http://maningtech.github.io/analises.html
+http://maningtech.github.io/favicon.ico
+http://maningtech.github.io/apple-touch-icon.png
+http://maningtech.github.io/tile.png
+http://maningtech.github.io/assets/fonts/fontawesome-webfont.woff?v=4.6.1
+http://maningtech.github.io/assets/img/brand/logo.png
+
+http://maningtech.github.io/assets/img/autores/zinenda.png
+http://maningtech.github.io/assets/img/autores/nadeemhussen.jpg
+
+http://maningtech.github.io/assets/css/main.css
+
+http://maningtech.github.io/assets/js/main.min.js
+https://code.jquery.com/jquery-3.1.0.min.js
+https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js
+http://maningtech.github.io/assets/js/modernizr-2.8.3.min.js

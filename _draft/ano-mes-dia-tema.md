@@ -2,7 +2,6 @@
 layout: post
 title: Titulo do artigo
 author: Nome do author
-    image: /assets/img/autores/
 category: Noticias, Dicas ou Analises
 fonte: A fonte do artigo (bibliografia)
 image: directorio da imagem

@@ -1,23 +1,31 @@
-            <div class="container">
-                <ul class="left hide-on-med-and-down">
-                    <li>
-                        <a href="{{ site.github.url | prepend: site.url }}/noticias/" title="Noticias">Noticias</a>
-                    </li>
-                    <li>
-                        <a href="{{ site.github.url | prepend: site.url }}/dicas/" title="Dicas">Dicas</a>
-                    </li>
-                    <li>
-                        <a href="{{ site.github.url | prepend: site.url }}/analises/" title="Análises">Análises</a>
-                    </li>
-                </ul>
-            </div>
+<div class="navbar-fixed">
+    <nav class="nav-wrapper">
+        <div class="container">
+            <a href="{{ site.github.url | prepend: site.url }}/" class="brand-logo center">{{ site.title }}</a>
+            <a href="#" data-activates="side-nav" class="button-collapse"><i class="fa fa-navicon"></i></a>
+
+            <ul class="left hide-on-med-and-down">
+                <li>
+                    <a href="{{ site.github.url | prepend: site.url }}/noticias/" title="Noticias">Noticias</a>
+                </li>
+                <li>
+                    <a href="{{ site.github.url | prepend: site.url }}/dicas/" title="Dicas">Dicas</a>
+                </li>
+                <li>
+                    <a href="{{ site.github.url | prepend: site.url }}/analises/" title="Análises">Análises</a>
+                </li>
+            </ul>
             
             <ul class="right hide-on-med-and-down">
                 <li class="search-container">
                     {% include findfree.html %}
                 </li>
-                
+                            
                 <li>
                     <a href="#sobre" class="modal-trigger" title="Quem Somos">Quem Somos</a>
                 </li>
             </ul>
+            {% include side-nav.html %}
+        </div>
+    </nav>
+</div>

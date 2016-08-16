@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container center">
-    {% include 404.svg %}
+    <object data="{{ site.github.url | prepend: site.url }}/assets/img/brand/404.svg"></object>
     <h1>Erro 404</h1>
     <h2>Infelizmente Sua Página não foi encontrada</h2>
     <a href="{{ site.github.url | prepend: site.url }}/" title="Página Inicial" class="btn-flat btn-large"><i class="fa fa-5x fa-home"></i>Página Inicial</a>
