@@ -22,3 +22,5 @@ A Samsung também investiu pesado na interface e novo sistema de reconhecimento 
 Encontre as Especificações na Imagem abaixo...
 
 ![Samsung Galaxy Note 7]({{ site.github.url | prepend: site.url }}/assets/img/analises/analisenote7.png)
+
+<iframe src="https://www.youtube.com/embed/d7S08EVv87s" frameborder="0" allowfullscreen></iframe>
