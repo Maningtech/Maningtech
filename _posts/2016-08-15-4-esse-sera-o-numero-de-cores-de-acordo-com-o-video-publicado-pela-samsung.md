@@ -20,13 +20,13 @@ Sem contar com a bateria de 3500 mAh e uma S pen mais inteligente.
     Video Oficial mostra Galaxy Note 7 em 4 cores, com leitor de íris e S Pen
 </blockquote>  
 
-<embed src="https://www.youtube.com/watch?v=EJbRm7_koyM">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/EJbRm7_koyM" frameborder="0" allowfullscreen></iframe>
 
 O Note 7 está equipado com entrada USB Type-C, o smartphone vai contar também com um adaptador micro-USB, evitando complicações devido a falta eventual de compatibilidade. 
 Nesta Segunda feira (15), a demonstração da caneta também resistente à água foi feita através de um vídeo. 
 Uso aprimorado de aplicativos e melhor resposta para desenhos e escrita são destaques da nova S pen.
 
 
-<embed src="https://www.youtube.com/watch?v=66mBXrOsbYc">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/66mBXrOsbYc" frameborder="0" allowfullscreen></iframe>
 
 Fique ligado para mais novidades....
