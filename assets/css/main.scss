@@ -133,8 +133,17 @@ footer {
 
 .post-layout {
 
-    .parallax {
-        min-height: 100%;
+    .title {
+        position: relative;
+
+        .title-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-shadow: 2px 2px $primary-color-dark;
+            color: #fff;
+        }
     }
 
     p {

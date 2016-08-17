@@ -2,16 +2,12 @@
 layout: default
 ---
 
-<section class="post-layout">
-    <div class="parallax-container">    
-        <div class="parallax">
-            <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}">
-        </div>
-        <h2 title="{{ page.title }}" class="post-title left-align">{{ page.title }}</h2>
+<section class="post-layout container">
+    <div class="title">
+        <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}">
+        <h2 class="title-text hide-on-small-only">{{ page.title }}</h2>
+        <h2 class="title-text flow-text hide-on-med-and-up">{{ page.title }}</h2>
     </div>
-
-    <div class="container">
-        
         <h4>Publicado por {{ page.author }}</h4>
 
         <section class="row">
@@ -44,6 +40,5 @@ layout: default
                 </aside>
             </div>
         </section>
-    </div>
 </section>
 {% include fab.html %}
