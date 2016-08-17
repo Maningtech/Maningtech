@@ -23,4 +23,5 @@ Encontre as Especificações na Imagem abaixo...
 
 ![Samsung Galaxy Note 7]({{ site.github.url | prepend: site.url }}/assets/img/analises/analisenote7.png)
 
+
 <iframe width="854" height="480" src="https://www.youtube.com/embed/d7S08EVv87s" frameborder="0" allowfullscreen></iframe>
