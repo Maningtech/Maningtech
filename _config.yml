@@ -6,14 +6,18 @@ url: ""
 port: 4040
 
 # Social
-facebook: maningtech
+facebook:
+     username: maningtech
+     app_id: 1034422419934923
+     publisher: "http://facebook.com/maningtech"
+     admins: 1034422419934923
 twitter: 
     username: maning_tech
 github:
     url: "http://maningtech.github.io"
     username: maningtech
 google: maningtech
-logo: assets/img/brand/logo.png
+logo: /assets/img/brand/logo.png
 
 image: /assets/img/brand/logo.png
 
@@ -59,3 +63,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-timeago

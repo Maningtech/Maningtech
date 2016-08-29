@@ -4,8 +4,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="Noticias, Dicas, Analises, Quem somos">
     <meta name="theme-color" content="#009688">
-    
-    <!--[if IE]><link rel="shortcut icon" href="{{ site.github.url | prepend: site.url }}/favicon.ico"><![endif]-->
+
     <link rel="icon" href="{{ site.github.url | prepend: site.url }}/favicon.ico">
     <link rel="apple-touch-icon" href="{{ site.github.url | prepend: site.url }}/apple-touch-icon.png">
     
@@ -16,19 +15,7 @@
     
     <link rel="stylesheet" href="{{ site.github.url | prepend: site.url }}/assets/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-    
-    {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.github.url | prepend: site.url }}{{ page.image }}"> 
-    
-    
-    <meta property="og:url"                content="{{ site.github.url | prepend: site.url }}{{ page.url }}">
-    <meta property="og:site_name"           content="{{ site.title }}">
-    <meta property="fb:app_id"              content="1034422419934923">
-    <meta property="og:type"               content="article">
-    <meta property="og:title"              content="{{ page.title }}">
-    <meta property="og:description"        content="{{ page.description }}">
-    <meta property="og:image"              content="{{ page.image }}">
-    
-    {% endif %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
     <script src="{{ site.github.url | prepend: site.url }}/assets/js/modernizr-2.8.3.min.js" async defer></script> 
 </head>
