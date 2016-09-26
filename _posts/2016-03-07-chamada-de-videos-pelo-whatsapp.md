@@ -2,6 +2,8 @@
 layout: post
 category: Noticias
 author: Ivo Zinenda
+picture: /assets/img/author/zinenda.jpg
+facebook_username: zinenda.jerk
 twitter:
     username: Imaz_3g
 image: /assets/img/noticias/id161818_1.jpg

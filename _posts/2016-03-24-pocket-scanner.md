@@ -3,6 +3,8 @@ layout: post
 category: Voce_Sabia
 description: analises e dicas de aplicativos disponiveis para smartphones que transformam seu celular num scanner
 author: Nadeem Hussen
+picture: /assets/img/author/nadeem.jpg
+facebook_username: nadeemhussen.hussen
 image: /assets/img/voce_sabia/microsoft_office_lens_app_appstore.jpg
 ---
 

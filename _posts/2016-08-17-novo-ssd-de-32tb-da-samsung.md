@@ -2,6 +2,8 @@
 layout: post
 title: Incrível SSD de 32TB é anunciado pela Samsung
 author: Nadeem Hussen
+picture: /assets/img/author/nadeem.jpg
+facebook_username: nadeemhussen.hussen
 category: Noticias
 image: /assets/img/noticias/ssd-samsung.jpg
 twitter:

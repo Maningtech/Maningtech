@@ -2,6 +2,8 @@
 layout: post
 title: Análise - Samsung Galaxy Note 7
 author: Nadeem Hussen
+picture: /assets/img/author/nadeem.jpg
+facebook_username: nadeemhussen.hussen
 category: Analises
 image: /assets/img/analises/samsung-galaxy-note-7-to-come-with-improved-s-pen-functions-price-hike-expected.jpg
 twitter:

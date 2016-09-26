@@ -1,25 +1,16 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt"" manifest="manifest.appcache"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt"" manifest="manifest.appcache"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt"" manifest="manifest.appcache"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="pt" manifest="manifest.appcache"> <!--<![endif]-->
+<html class="no-js" dir="ltr" lang="pt">
     {% include head.html %}
-    
-    <body onload="myFunction()" id="page-top" class="scrollspy">
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+    <body onload="myFunction()" id="page-top">
         {% include navbar.html %}
-        <div id="loader" class="fa fa-spinner fa-pulse fa-5x fa-fw">
-            <span class="sr-only">Carregando...</span>
-        </div>
-        
+        {% include loader.html %}
         <main id="content" class="animate-bottom">
             {{ content }}
         </main>
         {% include modals.html %}
-        <div id="footer">
-            {% include footer.html %}
-        </div>
-            
+        {% include footer.html %}
         {% include scripts.html %}
+        {% include loader-function.html %}
+        {% include google-analytics.html %}
+    </body>
+</html>

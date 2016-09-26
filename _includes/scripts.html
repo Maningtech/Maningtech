@@ -1,21 +1,9 @@
-<script>
-  var myVar;
-
-  function myFunction() {
-      myVar = setTimeout(showPage, 500);
-  }
-
-  function showPage() {
-    document.getElementById("loader").style.display = "none";
-    document.getElementById("content").style.display = "block";
-    document.getElementById("footer").style.display = "block";
-  }
-</script>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" defer></script>
-<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js" defer></script>
-<script src="{{ site.github.url | prepend: site.url }}/assets/js/main.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/2.3.5/jquery.jscroll.min.js" defer></script>
+<script src="{{ site.github.url | prepend: site.url }}/assets/js/main.js" defer></script>
 
-{% include googleanalytics.html %}
+<script>
+  jQuery("#responsive_headline").fitText();
+</script>

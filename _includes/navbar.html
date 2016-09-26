@@ -2,30 +2,38 @@
     <nav class="nav-wrapper">
         <div class="container">
             <a href="{{ site.github.url | prepend: site.url }}/" class="brand-logo center">{{ site.title }}</a>
-            <a href="#" data-activates="side-nav" class="button-collapse"><i class="fa fa-ellipsis-v"></i></a>
+            <a href="#" data-activates="sidenav" class="button-collapse waves-effect waves-light"><i class="material-icons">more_vert</i></a>
 
             <ul class="left hide-on-med-and-down">
                 <li>
-                    <a href="{{ site.github.url | prepend: site.url }}/noticias/" title="Noticias">Noticias</a>
+                    <a href="{{ site.github.url | prepend: site.url }}/" title="Página Inicial" class="waves-effect waves-light"><i class="material-icons">home</i></a>
                 </li>
                 <li>
-                    <a href="{{ site.github.url | prepend: site.url }}/dicas/" title="Dicas">Dicas</a>
-                </li>
-                <li>
-                    <a href="{{ site.github.url | prepend: site.url }}/analises/" title="Análises">Análises</a>
+                    <a href="#" class="dropdown-button waves-effect waves-light" data-activates="artigos">Artigos<i class="material-icons right">arrow_drop_down</i></a>
+                    <ul id="artigos" class="dropdown-content">
+                        <li><a href="{{ site.github.url | prepend: site.url }}/noticias.html" class="waves-effect waves-light" title="Noticias">Noticias</a></li>
+                        <li><a href="{{ site.github.url | prepend: site.url }}/dicas.html" class="waves-effect waves-light" title="Dicas">Dicas</a></li>
+                        <li><a href="{{ site.github.url | prepend: site.url }}/analises.html" class="waves-effect waves-light" title="Análises">Análises</a></li>
+                    </ul>
                 </li>
             </ul>
-            
+
             <ul class="right hide-on-med-and-down">
-                <li class="search-container">
-                    {% include findfree.html %}
-                </li>
-                            
                 <li>
-                    <a href="#sobre" class="modal-trigger" title="Quem Somos">Quem Somos</a>
+                    <a href="#about" title="Quem Somos" class="modal-trigger waves-effect waves-light">Sobre<i class="material-icons right">supervisor_account</i></a>
                 </li>
             </ul>
-            {% include side-nav.html %}
+
+            <ul id="sidenav" class="side-nav">
+                <li><a href="{{ site.github.url | prepend: site.url }}/" title="Página Inicial" class="waves-effect waves-teal"><i class="material-icons">home</i></a></li>
+                <li><a href="{{ site.github.url | prepend: site.url }}/noticias.html" title="Noticias" class="waves-effect waves-teal">Noticias</a></li>
+                <li><a href="{{ site.github.url | prepend: site.url }}/dicas.html" title="Dicas" class="waves-effect waves-teal">Dicas</a></li>
+                <li><a href="{{ site.github.url | prepend: site.url }}/analises.html" title="Análises" class="waves-effect waves-teal">Análises</a></li>
+                
+                <li class="divider"></li>
+
+                <li><a href="#about" title="Quem Somos" class="modal-trigger waves-effect waves-teal">Sobre<i class="material-icons right">supervisor_account</i></a></li>
+            </ul>
         </div>
     </nav>
 </div>

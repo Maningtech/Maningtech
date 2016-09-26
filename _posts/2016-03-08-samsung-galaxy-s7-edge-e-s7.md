@@ -1,6 +1,8 @@
 ---
 layout: post
 author: Ivo Zinenda
+picture: /assets/img/author/zinenda.jpg
+facebook_username: zinenda.jerk
 twitter:
     usename: Imaz_3g
 image: /assets/img/analises/Galaxy-S7-header-2.jpg

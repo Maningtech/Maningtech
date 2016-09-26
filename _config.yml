@@ -1,66 +1,44 @@
-# Site settings
+# Jekyll Config file
+
 title: ManingTech
+description: Moçambique TechConectado
 email: maningtech@outlook.com
-description: "Moçambique TechConectado"
+image: /assets/img/brand/logotipo.jpg
 url: ""
-port: 4040
 
-# Social
-facebook:
-     username: maningtech
-     app_id: 1034422419934923
-     publisher: "http://facebook.com/maningtech"
-     admins: 1034422419934923
-twitter: 
+twitter:
     username: maning_tech
-github:
-    url: "http://maningtech.github.io"
-    username: maningtech
-google: maningtech
+facebook:
+    app_id: 1034422419934923
+    publisher: maningtech
+    admins: maningtech
 logo: /assets/img/brand/logo.png
+social:
+    name: maningtech
+    links: 
+google_site_verification:
+google_analytics_code: UA-73721868-1 # replace with the your analytics code
 
-image: /assets/img/brand/logo.png
+author: Ivo Zinenda
 
-#site author
-author:
-    name: Ivo Zinenda
-    email: izinenda@outlook.com
-    google: +IvoZinenda
-    facebook: zinenda.jerk
-    twitter: Imaz_3g
-    linkedin: zinendajerk
-    github: zinenda
-# Build settings
+# Build Settings
 markdown: kramdown
-humanize:
-    date_format: "%d/%m/%Y"
 
-jekyll_timeago:
-  depth: 3
-  today: 'hoje'
-  yesterday: 'ontem'
-  tomorrow: 'amanha'
-  and: 'e'
-  suffix: 'atras'
-  prefix: ''
-  suffix_future: ''
-  prefix_future: 'em'
-  years: 'anos'
-  year: 'ano'
-  months: 'meses'
-  month: 'mes'
-  weeks: 'semanas'
-  week: 'semana'
-  days: 'dias'
-  day: 'dia'
+gems: 
+    - jekyll-admin
+    - jekyll-github-metadata
+    - jekyll-auto-image
+    - jekyll-timeago
+    - jekyll-email-protect
+    - autolink
+    - jekyll-minifier
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-paginate
 
+# Assets
 sass:
     sass_dir: assets/_sass
     style: compressed
 
-
-gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-timeago
+port: 1234

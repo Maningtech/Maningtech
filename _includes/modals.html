@@ -1,38 +1,8 @@
-<!-- acerca de maningtech e seus desenvolvedores -->
-<div id="sobre" class="modal">
-    <div class="modal-content">
-        <div class="card">
-            <div class="card-image">
-                <img src="{{ site.github.url | prepend: site.url }}/assets/img/brand/logo.png" alt="logo">
-            </div>
-            <div class="card-content">
-                <p title="Sobre ManingTech">
-                    Somos um grupo de estudantes interessados no desenvolvimento web e sua respectiva inovação.
-                    Informar e qualificar é o nosso objectivo.
-                    Somos qualificados no desenvolvimento front-end e no uso dos frameworks mais conhecidos no mundo web.
-                    Seja estudante ou empregador, e tem interesse em desenvolver ou ter uma pagina web propria contacte-nos. 
-                </p>
-                <hr>
-                <br>
-                <h4 class="center">Autores</h4>
-                <hr>
-                <div class="row">
-                    <div class="col s12 l6">
-                        {% include ivozinenda.html %}
-                    </div>
-                    <div class="col s12 l6">
-                        {% include nadeemhussen.html %}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+{% include about.html %}
 
-<!-- politica de privacidade -->
-<div id="politicas-de-privacidade" class="modal">
+<div id="policy" class="modal">
     <div class="modal-content">
-        <div class="card-panel teal hoverable">
+        <div class="card-panel teal white-text hoverable">
             “Este site emprega empresas exteriores para efeitos de fornecimento de publicidade.<br>
              Estes fornecedores de publicidade podem recolher e usar informações suas (mas não incluindo nome, endereço de email, morada, ou número de telefone), neste e noutros sites, para lhe exibir anúncios a produtos ou serviços do seu interesse. <br>
              Também usamos serviços de analíses de rastreamento das visitas (Analytics).”

@@ -2,43 +2,45 @@
 layout: default
 ---
 
-<section class="post-layout container">
-    <div class="title">
-        <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}">
-        <h2 class="title-text hide-on-small-only">{{ page.title }}</h2>
-        <h2 class="title-text flow-text hide-on-med-and-up">{{ page.title }}</h2>
+<header class="post-container container">
+    <div class="row">
+        <div class="col s12">
+           <img src="{{ site.github.url | prepend: site.url }}{{ page.image }}" alt="{{ page.title }}">
+        </div>
     </div>
-        <h4>Publicado por {{ page.author }}</h4>
+    <div class="row">
+        <div class="col s12 center">
+            <img src="{{ site.github.url | prepend: site.url }}{{ page.picture }}" alt="{{ page.author }}" class="rounded-img">
+            <h3 class="light">{{ page.author }}</h3>
+            <a href="http://fb.com/{{ page.facebook_username }}" class="btn-floating indigo waves-effect waves-circle waves-light"><i class="fa fa-lg fa-fw fa-facebook"></i></a>
+            <a href="http://twitter.com/{{ page.twitter.username }}" class="btn-floating blue waves-effect waves-circle waves-light"><i class="fa fa-lg fa-fw fa-twitter"></i></a>
+        </div>
+    </div><hr>
 
-        <section class="row">
-            <div class="col s12 l9">
-                <article>
-                    {{ content }}
-                    
-                    {% if page.fonte %}
-                        Fonte: {{ page.fonte }}
-                    {% endif %}
-                    <br>
-                    {% include social-btn.html %}
-                </article>
-            </div>
-            
-            <div class="col s12 l3">
-                <aside class="sidebar">
-                    {% for post in site.posts limit:3 %}
-                        <div class="card hoverable">
-                            <div class="card-image">
-                                <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
-                            </div>
-                            <div class="card-action">
-                                <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}" title="{{ post.title }}">
-                                    {{ post.title }}
-                                </a>
-                            </div>
-                        </div>
-                    {% endfor %}
-                </aside>
-            </div>
-        </section>
-</section>
-{% include fab.html %}
+    <div class="row">
+        <h1 id="responsive_headline" class="center-align">{{ page.title }}</h1>
+        <p class="light flow-text center-align">{{ page.date | timeago }}</p>
+    </div>
+</header>
+
+<article class="container">
+    <div class="row">
+        <article class="col s12 l8">
+            {{ content }}
+        </article>
+
+        <aside class="col m4 l4 hide-on-small-only">
+            <h4 class="center">Recentes</h4><hr>
+            {% for post in site.posts limit: 3 %}
+                <div class="card hoverable">
+                    <div class="card-image">
+                        <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
+                    </div>
+                    <div class="card-action">
+                        <h4 class="light center" title="{{ post.title }}">{{ post.title }}</h4>
+                    </div>
+                </div>
+            {% endfor %}
+        </aside>
+    </div>
+</article>
