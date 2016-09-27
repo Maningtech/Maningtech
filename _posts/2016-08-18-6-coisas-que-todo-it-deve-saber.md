@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title: 6 Coisas que todo IT deve saber
