@@ -24,6 +24,22 @@ author: Ivo Zinenda
 # Build Settings
 markdown: kramdown
 
+# forestry.io
+defaults:
+    - scope:
+        path: ""
+        type: posts
+    values:
+        image: ""
+        picture: ""
+        author: ""
+        category: []
+        fonte: ""
+        description: ""
+        tag: []
+
+
+
 gems: 
     - jekyll-admin
     - jekyll-github-metadata
