@@ -1,10 +1,11 @@
 ---
-layout: post
 title: 4 - Esse será o número de cores do Samsung Galaxy Note 7
+date: '2016-08-15 00:00:00'
+layout: post
 author: nadeem
-category: Noticias
 fonte: Tecmundo
-image: /assets/img/noticias/note7.jpg
+image: "/assets/img/noticias/note7.jpg"
+categories: Noticias
 ---
 
 De acordo com o vídeo publicado pela Samsung no último domingo (14/08/2016), o unboxing do Galaxy Note 7 revela as principais especificações do aparelho.

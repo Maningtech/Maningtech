@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Previsão de novos iPhones com carcaça totalmente de vidro
-category: Noticias
+date: '2016-04-18 00:00:00'
+layout: post
 tag:
-    - iPhone
-    - Apple
+- iPhone
+- Apple
 description: previsão do analista da KG Securities
-image: /assets/img/analises/maxresdefault1.jpg
+image: "/assets/img/analises/maxresdefault1.jpg"
 author: zinenda
-fonte: <a href="http://www.macrumors.com/2016/04/17/iphone-glass-casing-amoled-2017/?utm_source=feedly&utm_medium=webfeeds">Mac Rumors</a>
+fonte: <a href="http://www.macrumors.com/2016/04/17/iphone-glass-casing-amoled-2017/?utm_source=feedly&utm_medium=webfeeds">Mac
+  Rumors</a>
+categories: Noticias
 ---
 
 Para quem já acompanha as previsões do analistas acerca do iPhone, já deve conhecer o analista Ming-Chi.

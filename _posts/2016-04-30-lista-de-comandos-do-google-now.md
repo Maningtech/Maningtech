@@ -1,9 +1,11 @@
 ---
+title: 
+date: '2016-04-30 00:00:00'
 layout: post
-category: Dicas
 author: zinenda
-image: /assets/img/dicas/google-now-ui-layout_original.jpg
+image: "/assets/img/dicas/google-now-ui-layout_original.jpg"
 fonte: <a href="http://www.tudocelular.com/android/noticias/n70998/lista-comandos-google-now.html">Tudocelular</a>
+categories: Dicas
 ---
 
 Hoje em dia, os principais sistemas operativos móveis, Android, iOS e Windows Mobile, tem um(a) assistente pessoal, Google Now, Siri e Cortana respectivamente.

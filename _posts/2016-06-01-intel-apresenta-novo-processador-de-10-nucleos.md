@@ -1,8 +1,10 @@
 ---
+title: 
+date: '2016-06-01 00:00:00'
 layout: post
-category: Noticias
 author: zinenda
-image: /assets/img/noticias/BDW-E-4.jpg
+image: "/assets/img/noticias/BDW-E-4.jpg"
+categories: Noticias
 ---
 
 Já imaginou usar um processador com 10 núcleos?

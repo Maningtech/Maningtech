@@ -1,8 +1,10 @@
 ---
+title: 
+date: '2016-03-08 00:00:00'
 layout: post
 author: zinenda
-image: /assets/img/analises/Galaxy-S7-header-2.jpg
-category: Analises
+image: "/assets/img/analises/Galaxy-S7-header-2.jpg"
+categories: Analises
 ---
 
 A Beleza dos Samsung Galaxy S7 e S7 Edge é simplesmente resumida neste video:

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Laptop Velho? Veja quatro dicas para deixar o computador mais potente
-category: Dicas
+date: '2016-04-29 00:00:00'
+layout: post
 author: nadeem
-image: /assets/img/dicas/imac_three_quarter_large.jpg
+image: "/assets/img/dicas/imac_three_quarter_large.jpg"
+categories: Dicas
 ---
 
 Com o passar do tempo, o Notebook começa a apresentar alguns pequenos problemas no uso diário que podem incomodar o usuário.

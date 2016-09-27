@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Whatsapp mais seguro para todos
+date: '2016-04-06 00:00:00'
+layout: post
 description: Nova aualização do whatsapp melhora a criptográfia das mensagens
-image: /assets/img/noticias/whatsapp.jpg
+image: "/assets/img/noticias/whatsapp.jpg"
 author: zinenda
-category: Noticias
+categories: Noticias
 ---
 
 Nos ultimos 2 anos, a segurança na internet tem sido um dos assuntos mais comentados, muito mais quando tratamos de mensageiros instantâneos como o  [Whatsapp](http://whatsapp.com). 

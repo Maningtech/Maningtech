@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Messenger agora suporta chamadas em grupo de até 50 pessoas
-category: Noticias
+date: '2016-04-21 00:00:00'
+layout: post
 tag:
-    - facebook
-    - messenger
+- facebook
+- messenger
 author: zinenda
-image: /assets/img/noticias/messenger.png
+image: "/assets/img/noticias/messenger.png"
 fonte: <a href="http://www.androidauthority.com/facebook-messenger-group-calls-688073/"></a>
+categories: Noticias
 ---
 
 Já passa muito tempo em que o messenger tornou-se um dos apps mais bem sucedidos em todas plataformas móveis.

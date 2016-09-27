@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Vazado o painel frontal do Moto G no ebay da Alemanha
-category:
-    - Noticias
-    - Rumores
+date: '2016-05-11 00:00:00'
+layout: post
 tag: Motorola
 author: zinenda
-image: /assets/img/rumores/Moto-G-LTE.jpg
+image: "/assets/img/rumores/Moto-G-LTE.jpg"
 fonte: <a href="http://www.ebay.de/itm/351719474338">ebay</a>
+categories:
+- Noticias
+- Rumores
 ---
 
 A Motorola anunciará oficialmente o novo Moto G apenas na proxima semana, porém já está a venda no ebay o Touch digitalizador do mesmo smartphone.

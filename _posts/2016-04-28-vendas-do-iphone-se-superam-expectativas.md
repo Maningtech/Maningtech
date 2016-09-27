@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Vendas do iPhone SE superam expectativas
-category: Noticias
-tag: 
-    - Apple
-    - iPhone
-image: /assets/img/analises/iphone-se.jpg
+date: '2016-04-28 00:00:00'
+layout: post
+tag:
+- Apple
+- iPhone
+image: "/assets/img/analises/iphone-se.jpg"
 author: zinenda
+categories: Noticias
 ---
 
 Que os iPhones sempre quebram records, não é novidade.

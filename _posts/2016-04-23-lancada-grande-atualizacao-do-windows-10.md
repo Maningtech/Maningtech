@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Lançada a primeira grande atualização do Windows 10
-category: Noticias
+date: '2016-04-23 00:00:00'
+layout: post
 author: zinenda
 tag:
-    - Windows
-    - Microsoft
-    - Windows 10
-image: /assets/img/noticias/windows10.jpg
-fonte: <a href="https://blogs.windows.com/windowsexperience/2016/04/22/announcing-windows-10-insider-preview-build-14328-for-pc-and-mobile/">Windows Blog</a>
+- Windows
+- Microsoft
+- Windows 10
+image: "/assets/img/noticias/windows10.jpg"
+fonte: <a href="https://blogs.windows.com/windowsexperience/2016/04/22/announcing-windows-10-insider-preview-build-14328-for-pc-and-mobile/">Windows
+  Blog</a>
+categories: Noticias
 ---
 
 Foi anunciada ontem (22/04/2016), pela Microsoft, a primeira grande atualização do Windows 10.<br>

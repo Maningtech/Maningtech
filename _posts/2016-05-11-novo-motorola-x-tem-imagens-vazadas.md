@@ -1,15 +1,17 @@
 ---
+title: 
+date: '2016-05-11 00:00:00'
 layout: post
 description: Vazaram todas imagens do Moto X da 4ª geração
-category:
-    - Rumores
-    - Noticias
 tag:
-    - Lenovo
-    - Moto
-    - Motorola
+- Lenovo
+- Moto
+- Motorola
 author: nadeem
-image: /assets/img/rumores/Moto-X-Play-cam-AH.jpg
+image: "/assets/img/rumores/Moto-X-Play-cam-AH.jpg"
+categories:
+- Rumores
+- Noticias
 ---
 
 Boas notícias para quem estava no aguardo de rumores sobre a próxima geração do Moto X, o smartphone top de linha da Motorola  (agora sob os comandos da Lenovo). O visual do dispositivo aparentemente foi confirmado — e o mais curioso de tudo é que essa informação já circulava por aí desde o ano passado.

@@ -1,12 +1,14 @@
 ---
+title: 
+date: '2016-04-11 00:00:00'
 layout: post
-category: Voce_Sabia
 tag:
-    - Acesso Remoto
-    - Team Viewer
+- Acesso Remoto
+- Team Viewer
 description: Saiba o que é acesso remoto e como usar
 author: zinenda
-image: /assets/img/voce_sabia/vpn.jpg
+image: "/assets/img/voce_sabia/vpn.jpg"
+categories: Voce_Sabia
 ---
 
 Uma das dicas mais práticas e necessária aos técnicos de informática, é o acesso remoto a outros PCs. <br>

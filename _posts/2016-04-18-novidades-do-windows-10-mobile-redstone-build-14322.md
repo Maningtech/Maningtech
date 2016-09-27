@@ -1,12 +1,14 @@
 ---
+title: 
+date: '2016-04-18 00:00:00'
 layout: post
-category: Noticias
 tag:
-    - Windows 10
-    - Windows
+- Windows 10
+- Windows
 description: Video com novidades da mais nova build do Windows 10 Redstone
-image: /assets/img/noticias/Windows-10-Mobile-on-Lumia-730.jpg
+image: "/assets/img/noticias/Windows-10-Mobile-on-Lumia-730.jpg"
 author: zinenda
+categories: Noticias
 ---
 
 Finalmente uma boa notícia para os usuários do Windows Phone/Mobile.<br>

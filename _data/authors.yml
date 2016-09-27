@@ -1,11 +1,11 @@
+---
 zinenda:
-    name: Ivo Zinenda
-    picture: /assets/img/author/zinenda.jpg
-    twitter: Imaz_3g
-    facebook: zinenda.jerk
-
+  name: Ivo Zinenda
+  picture: "/assets/img/author/zinenda.jpg"
+  twitter: Imaz_3g
+  facebook: zinenda.jerk
 nadeem:
-    name: Nadeem Hussen
-    picture: /assets/img/author/nadeem.jpg
-    twitter: VanBuuren007
-    facebook: nadimhussen.hussen
+  name: Nadeem Hussen
+  picture: "/assets/img/author/nadeem.jpg"
+  twitter: VanBuuren007
+  facebook: nadimhussen.hussen

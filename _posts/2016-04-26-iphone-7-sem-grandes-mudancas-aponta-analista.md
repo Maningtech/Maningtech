@@ -1,12 +1,13 @@
 ---
-layout: post
 title: iPhone 7 não terá grandes mudanças, aponta analista
-category: Noticias
-tag: 
-    - iPhone
-    - Apple
-image: /assets/img/noticias/iPhone-7-1024x640.png
+date: '2016-04-26 00:00:00'
+layout: post
+tag:
+- iPhone
+- Apple
+image: "/assets/img/noticias/iPhone-7-1024x640.png"
 author: zinenda
+categories: Noticias
 ---
 
 Cada ano a Apple lança uma geração de iPhones, mas alguns apenas com simples melhorias da versão anterior, como o iphone 6s.

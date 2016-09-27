@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+---
+title: 
+date: '2016-08-18 00:00:00'
+---
 ---
 layout: post
 title: 6 Coisas que todo IT deve saber

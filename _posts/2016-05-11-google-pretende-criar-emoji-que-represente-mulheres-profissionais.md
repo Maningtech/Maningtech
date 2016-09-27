@@ -1,13 +1,16 @@
 ---
+title: 
+date: '2016-05-11 00:00:00'
 layout: post
-category:
-    - Noticias
-    - Rumores
 tag: Google
-description: Uma ação muito bem-vinda da Google, que pretende criar um emoji representando a mulher trabalhadora
-image: /assets/img/rumores/featured.png
+description: Uma ação muito bem-vinda da Google, que pretende criar um emoji representando
+  a mulher trabalhadora
+image: "/assets/img/rumores/featured.png"
 author: zinenda
 fonte: <a href="http://www.phonearena.com/news/Google-wants-to-create-emoji-to-represent-professional-women_id80966">PhoneArena</a>
+categories:
+- Noticias
+- Rumores
 ---
 
 Emoji estão se tornando cada vez mais uma parte da linguagem nos dias de hoje e, por isso, tem havido mais atenção à forma como conjuntos emoji são inclusivos. 

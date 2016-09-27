@@ -1,10 +1,11 @@
 ---
-layout: post
 title: O futuro dos iPhones na perspectiva do CEO Tim Cook
+date: '2016-08-15 00:00:00'
+layout: post
 author: nadeem
-category: Noticias
 fonte: Tecmundo
-image: /assets/img/noticias/tim-cook-apple-tv-10.jpg
+image: "/assets/img/noticias/tim-cook-apple-tv-10.jpg"
+categories: Noticias
 ---
 
 Washington Post realizou uma entrevista muito interessante com Tim Cook o atual CEO da Apple, o mesmo que acaba de completar 5 anos à frente de uma das maiores empresas de tecnologia do mundo. 

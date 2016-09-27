@@ -1,11 +1,13 @@
 ---
+title: 
+date: '2016-05-24 00:00:00'
 layout: post
-category:  Noticias
 tag:
-    - Sony
-    - Xperia
+- Sony
+- Xperia
 author: zinenda
-image: /assets/img/noticias/My-Sony-Xperia-Wallpaper-Logo-Z_(3).jpg
+image: "/assets/img/noticias/My-Sony-Xperia-Wallpaper-Logo-Z_(3).jpg"
+categories: Noticias
 ---
 
 A Sony aos poucos tem descontinuado sua linha de smartphones devido as baixas vendas.

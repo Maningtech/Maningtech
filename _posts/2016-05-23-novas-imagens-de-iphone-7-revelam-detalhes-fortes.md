@@ -1,13 +1,15 @@
 ---
+title: 
+date: '2016-05-23 00:00:00'
 layout: post
-category:
-    - Noticias
-    - Rumores
-tag: 
-    - iPhone
-    - Apple
+tag:
+- iPhone
+- Apple
 author: zinenda
-image: /assets/img/noticias/iphone-7-un-concept-en-attendant-la-sortie-officielle-118344.html.jpg
+image: "/assets/img/noticias/iphone-7-un-concept-en-attendant-la-sortie-officielle-118344.html.jpg"
+categories:
+- Noticias
+- Rumores
 ---
 
 As noticias do iPhone 7 não param de bombar pela internet, quando o assunto é um produto da Apple, todas as atenções são prestadas.

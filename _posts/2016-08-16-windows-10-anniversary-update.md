@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Análise - Atualização de aniversário do Windows 10
+date: '2016-08-16 00:00:00'
+layout: post
 author: nadeem
-category: Analises
 fonte: Microsoft
-image: /assets/img/analises/2016-08-16.png
+image: "/assets/img/analises/2016-08-16.png"
+categories: Analises
 ---
 
 A Microsoft disponibilizou no meados de Julho a maior atualização do Windows 10 até então.

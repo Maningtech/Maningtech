@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Rumores apontam o lançamento do Surface Book 2 bem próximo!
+date: '2016-05-10 00:00:00'
+layout: post
 description: Rumores sobre o lançamento do Surface Book 2
 author: zinenda
-category:
-    - Noticias
-    - Rumores
-image: /assets/img/rumores/Surface-Book2.jpg
+image: "/assets/img/rumores/Surface-Book2.jpg"
 fonte: <a href="http://www.winbeta.org/news/surface-book-2-rumors-swirl-next-month-next-year">WinBeta</a>
+categories:
+- Noticias
+- Rumores
 ---
 
 No mês de outubro a Microsoft apresentou ao mercado internacional o Surface Book. 

@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Google patentea lentes inteligentes que serão injectadas no seu olho
-category: Noticias
+date: '2016-04-29 00:00:00'
+layout: post
 author: zinenda
-image: /assets/img/dicas/lentes-de-contacto-inteligentes.jpg
+image: "/assets/img/dicas/lentes-de-contacto-inteligentes.jpg"
 fonte: <a href="http://www.engadget.com/2016/04/29/google-patent-injectable-smart-lenses/?sr_source=Twitter">Engadget</a>
+categories: Noticias
 ---
 
 Todos já ficamos impressionados quando nos filmes de ficção científica exibem tecnologias que só existem no Universo cinematográfico.<br>

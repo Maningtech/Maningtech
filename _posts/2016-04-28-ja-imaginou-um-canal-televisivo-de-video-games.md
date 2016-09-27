@@ -1,9 +1,11 @@
 ---
+title: 
+date: '2016-04-28 00:00:00'
 layout: post
-category: Noticias
 tag: Game
 author: zinenda
-image: /assets/img/noticias/Electronic-Sports-League-Has-Big-Plans-for-2014-Says-CEO-413171-2.jpg
+image: "/assets/img/noticias/Electronic-Sports-League-Has-Big-Plans-for-2014-Says-CEO-413171-2.jpg"
+categories: Noticias
 ---
 
 Esta é uma grande novidade para os gamers, embora não seja cá em Moçambique.<br>

@@ -1,9 +1,10 @@
 ---
-layout: post
-category: Noticias
-author: nadeem
-image: /assets/img/noticias/Facebook-HD-Desktop-Backgrounds.jpg
 title: Facebook agora permite fazer streamings ao vivo
+date: '2016-05-27 00:00:00'
+layout: post
+author: nadeem
+image: "/assets/img/noticias/Facebook-HD-Desktop-Backgrounds.jpg"
+categories: Noticias
 ---
 
 Investindo cada vez mais na área de streamings ao vivo, o Facebook anunciou uma nova API que permite uma evolução significativa na área. 

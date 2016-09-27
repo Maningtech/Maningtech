@@ -1,10 +1,11 @@
 ---
-layout: post
-category: Noticias
 title: Google Fotos tem novo motor de buscas entre outras novidades
+date: '2016-04-30 00:00:00'
+layout: post
 author: zinenda
-image: /assets/img/noticias/google.jpg
+image: "/assets/img/noticias/google.jpg"
 fonte: <a href="https://plus.google.com/+GooglePhotos/posts/NpDDZuZnhxB">Google</a>
+categories: Noticias
 ---
 
 A Google anunciou ontem (29/04/2016) um novo update para seu aplicativo fotos, mais conhecido por Google Photos.
