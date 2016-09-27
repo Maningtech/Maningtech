@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 6 Coisas que todo IT deve saber
+date: '2016-08-18 00:00:00'
+layout: post
 author: nadeem
-category: Dicas
-image: /assets/img/dicas/Cover.png
+image: "/assets/img/dicas/Cover.png"
+categories: Dicas
 ---
 
 Para quem está iniciando na carreira de IT ja deve ter visto várias dicas de como começar, entre outras coisas. Aqui no Blog nos sempre tentamos trazer dicas úteis para vocês,
