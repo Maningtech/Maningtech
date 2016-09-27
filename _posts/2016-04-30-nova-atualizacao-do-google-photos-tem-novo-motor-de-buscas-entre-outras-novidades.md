@@ -2,7 +2,7 @@
 layout: post
 category: Noticias
 title: Google Fotos tem novo motor de buscas entre outras novidades
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/google.jpg
 fonte: <a href="https://plus.google.com/+GooglePhotos/posts/NpDDZuZnhxB">Google</a>
 ---

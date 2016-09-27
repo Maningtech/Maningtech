@@ -10,16 +10,23 @@ layout: default
     </div>
     <div class="row">
         <div class="col s12 center">
-            <img src="{{ site.github.url | prepend: site.url }}{{ page.picture }}" alt="{{ page.author }}" class="rounded-img">
-            <h3 class="light">{{ page.author }}</h3>
-            <a href="http://fb.com/{{ page.facebook_username }}" class="btn-floating indigo waves-effect waves-circle waves-light"><i class="fa fa-lg fa-fw fa-facebook"></i></a>
-            <a href="http://twitter.com/{{ page.twitter.username }}" class="btn-floating blue waves-effect waves-circle waves-light"><i class="fa fa-lg fa-fw fa-twitter"></i></a>
+            {% assign author = site.data.authors[page.author ] %}
+            <img src="{{ site.github.url | prepend: site.url }}{{ author.picture }}" alt="{{ author.name }}" class="rounded-img">
+            <h3 class="thin" title="{{ author.name }}">{{ author.name }}</h3>
+            <ul class="inline-list">
+                <li>
+                    <a href="https://fb.com/{{ author.facebook }}" rel="author" title="Facebook" class="btn-floating indigo waves-effect waves-circle waves-light"><i class="fa fa-lg fa-fw fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/{{ author.twitter }}" rel="author" title="Twitter" class="btn-floating blue waves-effect waves-circle waves-light"><i class="fa fa-lg fa-fw fa-twitter"></i></a>
+                </li>
+            </ul>
         </div>
     </div><hr>
 
     <div class="row">
         <h2 id="responsive_headline" class="center-align">{{ page.title }}</h2>
-        <p class="light flow-text center-align">{{ page.date | timeago | date_to_string }}</p>
+        <p class="light flow-text center-align">{{ page.date | date_to_string }}</p>
     </div>
 </header>
 
@@ -37,7 +44,9 @@ layout: default
                         <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
                     </div>
                     <div class="card-action">
-                        <h4 class="light center" title="{{ post.title }}">{{ post.title }}</h4>
+                        <h4 class="light center" title="{{ post.title }}">
+                            <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                        </h4>
                     </div>
                 </div>
             {% endfor %}

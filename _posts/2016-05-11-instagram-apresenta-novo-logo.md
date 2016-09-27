@@ -3,7 +3,7 @@ layout: post
 category: Noticias
 description: Depois de várias especulações, a equipe do Instagram apresentou o seu novo logo, com design totalmente reformuladi
 image: /assets/img/noticias/instagram-logo-1024x278_tendances-2016.png
-author: Ivo Zinenda
+author: zinenda
 tag: Instagram
 ---
 

@@ -5,7 +5,7 @@ tag:
     - Acesso Remoto
     - Team Viewer
 description: Saiba o que é acesso remoto e como usar
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/voce_sabia/vpn.jpg
 ---
 

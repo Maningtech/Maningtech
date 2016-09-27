@@ -6,7 +6,7 @@ tag:
     - Apple
     - iPhone
 image: /assets/img/analises/iphone-se.jpg
-author: Ivo Zinenda
+author: zinenda
 ---
 
 Que os iPhones sempre quebram records, não é novidade.

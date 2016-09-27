@@ -7,7 +7,7 @@ category:
 tag: Microsoft
 description: Noticia do desenvolvimento do trackpad minusculo com sensor biométrico, da Microsoft
 image: /assets/img/noticias/id168634_1.jpg
-author: Ivo Zinenda
+author: zinenda
 ---
 
 A Microsoft, registou uma patente nos EUA, que indica o desenvolvimento de um trackpad, com dimensões mínimas.

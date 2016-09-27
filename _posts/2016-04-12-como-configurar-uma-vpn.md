@@ -6,7 +6,7 @@ category: Dicas
 tag:
     - Acesso Remoto
     - VPN
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/dicas/Virtual_Private_Network_overview.svg
 ---
 

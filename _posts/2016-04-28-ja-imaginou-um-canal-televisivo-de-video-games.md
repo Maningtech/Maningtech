@@ -2,7 +2,7 @@
 layout: post
 category: Noticias
 tag: Game
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/Electronic-Sports-League-Has-Big-Plans-for-2014-Says-CEO-413171-2.jpg
 ---
 

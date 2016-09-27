@@ -2,7 +2,7 @@
 layout: post
 title: Lançada a primeira grande atualização do Windows 10
 category: Noticias
-author: Ivo Zinenda
+author: zinenda
 tag:
     - Windows
     - Microsoft

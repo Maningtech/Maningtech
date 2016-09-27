@@ -10,7 +10,7 @@ tag:
     - Google
     - Amazon
 fonte: <a href="http://www.winbeta.org/news/microsoft-made-1-trillion-total-cumulative-revenue-according-report">WinBeta</a>
-author: Ivo Zinenda
+author: zinenda
 ---
 
 Como todo mundo sabe, entre os que acompanham as notícias das maiores empresas de tecnologias, como a Microsoft, Apple, Google, elas geram bilhões de dólares a cada trimestre.

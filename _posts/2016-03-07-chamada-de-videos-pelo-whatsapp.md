@@ -1,11 +1,7 @@
 ---
 layout: post
 category: Noticias
-author: Ivo Zinenda
-picture: /assets/img/author/zinenda.jpg
-facebook_username: zinenda.jerk
-twitter:
-    username: Imaz_3g
+author: zinenda
 image: /assets/img/noticias/id161818_1.jpg
 fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html" target="_blank">Tudocelular</a>
 ---

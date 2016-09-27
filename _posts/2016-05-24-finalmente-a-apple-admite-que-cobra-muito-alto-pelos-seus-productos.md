@@ -3,7 +3,7 @@ layout: post
 title: Finalmente, Apple admite que os preços do iPhone são altos demais
 category: Noticias
 tag: Apple
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/tim-cook.jpg
 ---
 

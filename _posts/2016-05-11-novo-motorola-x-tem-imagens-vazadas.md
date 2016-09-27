@@ -8,7 +8,7 @@ tag:
     - Lenovo
     - Moto
     - Motorola
-author: Nadeem Hussen
+author: nadeem
 image: /assets/img/rumores/Moto-X-Play-cam-AH.jpg
 ---
 

@@ -30,14 +30,11 @@ defaults:
         type: posts
     values:
         image: ""
-        picture: ""
         author: ""
         category: []
         fonte: ""
         description: ""
         tag: []
-
-
 
 gems: 
     - jekyll-admin

@@ -5,7 +5,7 @@ category: Noticias
 tag:
     - facebook
     - messenger
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/messenger.png
 fonte: <a href="http://www.androidauthority.com/facebook-messenger-group-calls-688073/"></a>
 ---

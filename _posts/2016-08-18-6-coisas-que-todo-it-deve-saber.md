@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 6 Coisas que todo IT deve saber
-author: Nadeem Hussen
-picture: /assets/img/author/nadeem.jpg
-facebook_username: nadeemhussen.hussen
+author: nadeem
 category: Dicas
 image: /assets/img/dicas/Cover.png
 ---

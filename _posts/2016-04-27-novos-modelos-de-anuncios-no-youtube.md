@@ -4,7 +4,7 @@ category: Noticias
 tag:
     - Youtube
     - Google
-author: Nadeem Hussen
+author: nadeem
 image: /assets/img/noticias/26151207162472-t1200x480.jpg
 fonte: Tecmundo
 ---

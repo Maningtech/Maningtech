@@ -6,7 +6,7 @@ category:
 tag: 
     - iPhone
     - Apple
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/iphone-7-un-concept-en-attendant-la-sortie-officielle-118344.html.jpg
 ---
 

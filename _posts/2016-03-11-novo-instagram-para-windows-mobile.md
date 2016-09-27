@@ -1,9 +1,7 @@
 ---
 layout: post
 category: Noticias
-author: Nadeem Hussen
-picture: /assets/img/author/nadeem.jpg
-facebook_username: nadeemhussen.hussen
+author: nadeem
 description: Camparação do novo beta da atualização do instagram ao antigo beta
 image: /assets/img/noticias/instagram_windows10mobile_capa.png
 ---

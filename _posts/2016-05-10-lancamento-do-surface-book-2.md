@@ -2,7 +2,7 @@
 layout: post
 title: Rumores apontam o lançamento do Surface Book 2 bem próximo!
 description: Rumores sobre o lançamento do Surface Book 2
-author: Ivo Zinenda
+author: zinenda
 category:
     - Noticias
     - Rumores

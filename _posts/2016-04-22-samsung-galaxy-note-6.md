@@ -6,7 +6,7 @@ tag:
     - Samsung
     - Galaxy
     - Note
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/analises/samsung-galaxy-note-6-konsept.jpg
 fonte:
 ---

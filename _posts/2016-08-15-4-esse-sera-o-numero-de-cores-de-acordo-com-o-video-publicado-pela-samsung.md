@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 4 - Esse será o número de cores do Samsung Galaxy 7
-author: Nadeem Hussen
+title: 4 - Esse será o número de cores do Samsung Galaxy Note 7
+author: nadeem
 category: Noticias
 fonte: Tecmundo
 image: /assets/img/noticias/note7.jpg

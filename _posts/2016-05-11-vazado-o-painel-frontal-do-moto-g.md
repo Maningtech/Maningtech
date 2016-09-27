@@ -5,7 +5,7 @@ category:
     - Noticias
     - Rumores
 tag: Motorola
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/rumores/Moto-G-LTE.jpg
 fonte: <a href="http://www.ebay.de/itm/351719474338">ebay</a>
 ---

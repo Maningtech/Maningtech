@@ -4,7 +4,7 @@ category:  Noticias
 tag:
     - Sony
     - Xperia
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/My-Sony-Xperia-Wallpaper-Logo-Z_(3).jpg
 ---
 

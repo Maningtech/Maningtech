@@ -7,7 +7,7 @@ tag:
     - Apple
 description: previsão do analista da KG Securities
 image: /assets/img/analises/maxresdefault1.jpg
-author: Ivo Zinenda
+author: zinenda
 fonte: <a href="http://www.macrumors.com/2016/04/17/iphone-glass-casing-amoled-2017/?utm_source=feedly&utm_medium=webfeeds">Mac Rumors</a>
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Nova mudança na linha de tempo do Facebook
 category: Noticias
 tag: Facebook
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/facebook_evangélico.jpg
 ---
 

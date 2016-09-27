@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Noticias
-author: Nadeem Hussen
+author: nadeem
 image: /assets/img/noticias/Facebook-HD-Desktop-Backgrounds.jpg
 title: Facebook agora permite fazer streamings ao vivo
 ---

@@ -6,6 +6,7 @@ tag:
     - iPhone
     - Apple
 image: /assets/img/noticias/iPhone-7-1024x640.png
+author: zinenda
 ---
 
 Cada ano a Apple lança uma geração de iPhones, mas alguns apenas com simples melhorias da versão anterior, como o iphone 6s.

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Noticias
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/BDW-E-4.jpg
 ---
 

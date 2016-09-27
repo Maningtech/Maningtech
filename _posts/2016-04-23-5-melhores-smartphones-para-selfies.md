@@ -3,7 +3,7 @@ layout: post
 title: Conheça os 5 melhores smartphones para fazer selfie
 category: Analises
 tag: selfie
-author: Nadeem Hussen
+author: nadeem
 image: /assets/img/analises/melhores-celulares-para-selfie/20100125698387-t1200x480.jpg
 ---
 

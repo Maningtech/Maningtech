@@ -6,7 +6,7 @@ tag:
     - Canonical
     - Linux
     - Ubuntu
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/ubuntu-16-04-lts-now-ships-with-linux-kernel-4-4-4-lts-launches-april-21-2016-501644-2.jpg
 ---
 

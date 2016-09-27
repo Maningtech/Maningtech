@@ -3,7 +3,7 @@ layout: post
 description: Whatsapp essa semana está cheio de supresas inclusive a plataforma do Windows Mobile, que é dita por muitos a de menos recursos
 category: Noticias
 tag: Whatsapp
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/whatsapp_on_windows_10_mobile___concept_by_bannax1994-d8w982a.jpg
 ---
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Análise - Atualização de aniversário do Windows 10
-author: Nadeem Hussen
-picture: /assets/img/author/nadeem.jpg
-facebook_username: nadeemhussen.hussen
+author: nadeem
 category: Analises
 fonte: Microsoft
 image: /assets/img/analises/2016-08-16.png

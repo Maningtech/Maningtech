@@ -4,7 +4,7 @@ category: Noticias
 tag:
     - Google
     - Android
-author: Ivo Zinenda
+author: zinenda
 image: /assets/img/noticias/google-find-my-phone.jpg
 ---
 

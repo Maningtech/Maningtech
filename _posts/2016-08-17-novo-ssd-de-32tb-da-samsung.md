@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Incrível SSD de 32TB é anunciado pela Samsung
-author: Nadeem Hussen
-picture: /assets/img/author/nadeem.jpg
-facebook_username: nadeemhussen.hussen
+author: nadeem
 category: Noticias
 image: /assets/img/noticias/ssd-samsung.jpg
-twitter:
-    username: Vanbuuren007
 ---
 
 Pouco tempo depois de a Seagate mostrar ao mundo um SSD pequeno no tamanho e gigantesco no armazenamento – com capacidade de armazenar até 60 TB de dados, a Samsung resolveu mostrar que não quer ficar para trás, já que é Rei neste segmento. 

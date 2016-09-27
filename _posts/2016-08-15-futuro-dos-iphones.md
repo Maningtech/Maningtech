@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O futuro dos iPhones na perspectiva do CEO Tim Cook
-author: Nadeem Hussen
+author: nadeem
 category: Noticias
 fonte: Tecmundo
 image: /assets/img/noticias/tim-cook-apple-tv-10.jpg

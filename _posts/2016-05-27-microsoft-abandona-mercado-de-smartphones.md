@@ -3,7 +3,7 @@ layout: post
 title: É o fim - Microsoft abandona o mercado de smartphones para consumidores
 category: Noticias
 tag: Microsoft
-author: Nadeem Hussen
+author: nadeem
 fonte: <a href="http://corporate.canaltech.com.br/noticia/microsoft/e-o-fim-microsoft-abandona-o-mercado-de-smartphones-para-consumidores-67405/">CanalTech</a>
 image: /assets/img/noticias/Microsoft-Lumia-950-XL.jpg
 ---
