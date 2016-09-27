@@ -28,16 +28,17 @@ paginate_path: /page:num/
 
 # forestry.io
 defaults:
-    scope:
-        path: ""
+    - scope:
+        path:
         type: posts
     values:
+        title:
         image: ""
         author: ""
-        category: []
-        fonte: ""
-        description: ""
-        tag: []
+        categories: []
+        tags: []
+        fontes: ""
+
 
 gems: 
     - jekyll-admin
