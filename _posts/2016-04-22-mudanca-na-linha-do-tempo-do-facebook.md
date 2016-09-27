@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Nova mudança na linha de tempo do Facebook
-category: Noticias
+date: '2016-04-22 00:00:00'
+layout: post
 tag: Facebook
 author: zinenda
-image: /assets/img/noticias/facebook_evangélico.jpg
+image: "/assets/img/noticias/facebook_evangélico.jpg"
+categories: Noticias
 ---
 
 O que realmente faz muitos usuários passarem mais tempo no facebook, é sem duvidas, sua timeline.

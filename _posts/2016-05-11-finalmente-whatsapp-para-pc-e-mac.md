@@ -1,10 +1,13 @@
 ---
+title: 
+date: '2016-05-11 00:00:00'
 layout: post
-category: Noticias
-description: Finalmente a equipe dos engenheiros do Whatsapp anunciaram o app para usuários PC e Mac OS X
-image: /assets/img/noticias/2016-05-11.png
+description: Finalmente a equipe dos engenheiros do Whatsapp anunciaram o app para
+  usuários PC e Mac OS X
+image: "/assets/img/noticias/2016-05-11.png"
 author: zinenda
 tag: Whatsapp
+categories: Noticias
 ---
 
 Bom dia caros leitores! 

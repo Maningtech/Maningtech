@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Análise - Samsung Galaxy Note 7
+date: '2016-08-16 00:00:00'
+layout: post
 author: nadeem
-category: Analises
-image: /assets/img/analises/samsung-galaxy-note-7-to-come-with-improved-s-pen-functions-price-hike-expected.jpg
-description: Nos paragráfos a seguir, poderemos cuidadosamente análisar esse lindo smartphone que em alguns meses já estará disponível em Moçambique por meio dos agentes de vendas oficias.
+image: "/assets/img/analises/samsung-galaxy-note-7-to-come-with-improved-s-pen-functions-price-hike-expected.jpg"
+description: Nos paragráfos a seguir, poderemos cuidadosamente análisar esse lindo
+  smartphone que em alguns meses já estará disponível em Moçambique por meio dos agentes
+  de vendas oficias.
+categories: Analises
 ---
 
 Dizem que uma imagem vale mil palavras, portanto é o que podemos dizer da mesma abaixo.

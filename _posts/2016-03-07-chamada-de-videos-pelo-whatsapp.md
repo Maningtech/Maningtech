@@ -1,9 +1,12 @@
 ---
+title: 
+date: '2016-03-07 00:00:00'
 layout: post
-category: Noticias
 author: zinenda
-image: /assets/img/noticias/id161818_1.jpg
-fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html" target="_blank">Tudocelular</a>
+image: "/assets/img/noticias/id161818_1.jpg"
+fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
+  target="_blank">Tudocelular</a>
+categories: Noticias
 ---
 
 No mês passado foi lançado o aplicativo exclusivo ao iOS até então chamado por Booyah.

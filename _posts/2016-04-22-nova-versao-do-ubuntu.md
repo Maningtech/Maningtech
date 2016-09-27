@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Nova versão do Ubuntu
-category: Noticias
+date: '2016-04-22 00:00:00'
+layout: post
 tag:
-    - Canonical
-    - Linux
-    - Ubuntu
+- Canonical
+- Linux
+- Ubuntu
 author: zinenda
-image: /assets/img/noticias/ubuntu-16-04-lts-now-ships-with-linux-kernel-4-4-4-lts-launches-april-21-2016-501644-2.jpg
+image: "/assets/img/noticias/ubuntu-16-04-lts-now-ships-with-linux-kernel-4-4-4-lts-launches-april-21-2016-501644-2.jpg"
+categories: Noticias
 ---
 
 Para quem já experimentou alguma versão Linux em Moçambique, essa só pode ser o Ubuntu, que por acaso, é a distribuição Linux mais conhecida, isso devido ao sua interface amigável e próxima a do Windows e Mac OS X.

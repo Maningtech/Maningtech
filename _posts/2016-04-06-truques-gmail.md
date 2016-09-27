@@ -1,13 +1,15 @@
 ---
+title: 
+date: '2016-04-06 00:00:00'
 layout: post
 description: Truques que facilitarão o uso do Gmail
-image: /assets/img/dicas/gmail.png
-category: Dicas
+image: "/assets/img/dicas/gmail.png"
 tag:
-    - Email
-    - Gmail
-    - Google
+- Email
+- Gmail
+- Google
 author: zinenda
+categories: Dicas
 ---
 
 Todo internauta reconhece que o Gmail é o sirviço de email mais usado no mundo.

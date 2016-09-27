@@ -1,12 +1,14 @@
 ---
+title: 
+date: '2016-04-27 00:00:00'
 layout: post
-category: Noticias
 tag:
-    - Youtube
-    - Google
+- Youtube
+- Google
 author: nadeem
-image: /assets/img/noticias/26151207162472-t1200x480.jpg
+image: "/assets/img/noticias/26151207162472-t1200x480.jpg"
 fonte: Tecmundo
+categories: Noticias
 ---
 
 Os acessos ao YouTube via dispositivos móveis é gigantesco. 

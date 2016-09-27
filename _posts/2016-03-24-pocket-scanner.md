@@ -1,9 +1,12 @@
 ---
+title: 
+date: '2016-03-24 00:00:00'
 layout: post
-category: Voce_Sabia
-description: analises e dicas de aplicativos disponiveis para smartphones que transformam seu celular num scanner
+description: analises e dicas de aplicativos disponiveis para smartphones que transformam
+  seu celular num scanner
 author: nadeem
-image: /assets/img/voce_sabia/microsoft_office_lens_app_appstore.jpg
+image: "/assets/img/voce_sabia/microsoft_office_lens_app_appstore.jpg"
+categories: Voce_Sabia
 ---
 
 Todo estudante ou trabalhador do ramo corporativo já teve a necessidade de usar um Scanner, se não terá.

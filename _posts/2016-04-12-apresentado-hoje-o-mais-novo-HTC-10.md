@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Apresentado hoje o mais novo HTC 10
-category: Noticias
+date: '2016-04-12 00:00:00'
+layout: post
 description: A HTC apresentou oficialmente seu mais novo Top de linha, HTC 10
 author: nadeem
-image: /assets/img/noticias/HTC-10-Renders-KK-10.jpg
+image: "/assets/img/noticias/HTC-10-Renders-KK-10.jpg"
+categories: Noticias
 ---
 
 A HTC apresentou oficialmente o seu mais novo top de linha, o HTC 10. <br>

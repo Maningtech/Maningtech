@@ -1,15 +1,17 @@
 ---
-layout: post
 title: iPhone está perdendo espaço para Android
-category: Noticias
+date: '2016-04-08 00:00:00'
+layout: post
 tag:
-    - iPhone
-    - iOS
-    - Apple
-description: Analíse da perda do mercado do iPhone para o Android nos principais mercados do mundo
+- iPhone
+- iOS
+- Apple
+description: Analíse da perda do mercado do iPhone para o Android nos principais mercados
+  do mundo
 author: zinenda
-image: /assets/img/noticias/3dtouch.mp4_snapshot_00.57_[2016.04.08_12.11.45].png
-fonte: <a href="http://canaltech.com.br/noticia/smartphones/iphone-esta-perdendo-espaco-nos-principais-mercados-do-mundo-61649/">Canaltech</a> 
+image: "/assets/img/noticias/3dtouch.mp4_snapshot_00.57_[2016.04.08_12.11.45].png"
+fonte: <a href="http://canaltech.com.br/noticia/smartphones/iphone-esta-perdendo-espaco-nos-principais-mercados-do-mundo-61649/">Canaltech</a>
+categories: Noticias
 ---
 
 Nem tudo tem sido mar de rosas quando se trata da Apple.

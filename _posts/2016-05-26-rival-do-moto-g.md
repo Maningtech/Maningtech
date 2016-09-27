@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Rival do Moto G4 a caminho? LG ganha os direitos para usar o nome X5
-category: Noticias
-image: /assets/img/noticias/LG_Logo.png
+date: '2016-05-26 00:00:00'
+layout: post
+image: "/assets/img/noticias/LG_Logo.png"
 fonte: <a href="http://www.tudocelular.com/android/noticias/n72290/lg-certifica-o-nome-X5-novo-smartphone-.html">Tudocelular</a>
 author: nadeem
+categories: Noticias
 ---
 
 LG certificou o nome que pode ser usado em seu próximo grande lançamento. 

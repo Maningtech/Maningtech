@@ -1,14 +1,16 @@
 ---
+title: 
+date: '2016-04-22 00:00:00'
 layout: post
-category: Analises
 tag:
-    - Rumores
-    - Samsung
-    - Galaxy
-    - Note
+- Rumores
+- Samsung
+- Galaxy
+- Note
 author: zinenda
-image: /assets/img/analises/samsung-galaxy-note-6-konsept.jpg
-fonte:
+image: "/assets/img/analises/samsung-galaxy-note-6-konsept.jpg"
+fonte: []
+categories: Analises
 ---
 
 Dizer que o Galaxy Note 5 levantou a barra no mercado de smartphone e especialmente no nicho de tela grande, seria absolutamente correto. 

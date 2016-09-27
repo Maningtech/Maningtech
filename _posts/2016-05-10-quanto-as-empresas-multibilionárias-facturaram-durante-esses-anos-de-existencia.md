@@ -1,16 +1,18 @@
 ---
-layout: post
 title: Quanto as empresas multibilionárias facturaram durante esses anos de existência
-description: Relatório de facturamento das gigantes de tecnologias de acordo com um especialista da área
-category: Noticias
-image: /assets/img/noticias/Microsoft-Logo-2012.jpg
+date: '2016-05-10 00:00:00'
+layout: post
+description: Relatório de facturamento das gigantes de tecnologias de acordo com um
+  especialista da área
+image: "/assets/img/noticias/Microsoft-Logo-2012.jpg"
 tag:
-    - Apple
-    - Microsoft
-    - Google
-    - Amazon
+- Apple
+- Microsoft
+- Google
+- Amazon
 fonte: <a href="http://www.winbeta.org/news/microsoft-made-1-trillion-total-cumulative-revenue-according-report">WinBeta</a>
 author: zinenda
+categories: Noticias
 ---
 
 Como todo mundo sabe, entre os que acompanham as notícias das maiores empresas de tecnologias, como a Microsoft, Apple, Google, elas geram bilhões de dólares a cada trimestre.
