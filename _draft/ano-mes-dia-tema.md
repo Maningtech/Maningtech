@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Titulo do artigo
-author: Nome do author
-category: Noticias, Dicas ou Analises
-fonte: A fonte do artigo (bibliografia)
-image: /assets/img/
-twitter:
-    username: seu twitter
+title: Introdução ao ManingTheme
+author: Ivo Zinenda
+picture: /assets/img/author/zinenda.jpg
+image: /assets/img/brand/logotipo.jpg
+facebook_username: zinenda.jerk
+twitter
+    username: imaz_3g
+description: Introdução ao novo tema do blog ManingTech, baseado no Material Design
 ---
+
 
 ### Subtitulo começam com este simbolo de hasteristico
 
