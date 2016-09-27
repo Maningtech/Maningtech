@@ -22,6 +22,9 @@ author: Ivo Zinenda
 
 # Build Settings
 markdown: kramdown
+paginate: 10
+paginate_path: /page:num/
+
 
 # forestry.io
 defaults:

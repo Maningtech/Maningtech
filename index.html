@@ -21,37 +21,51 @@ layout: default
         <div class="row teal white-text">
             <h2 class="center-align">Artigos Recentes</h2>
         </div>
-        <div class="infinite-scroll">
-            {% for post in site.posts %}
-                <section class="section row">
-                    <div class="col s12 l12">
-                        <article class="col s12">
-                            <div class="card horizontal hoverable">
-                                <div class="card-image">
-                                    <a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
-                                </div>
-                                <div class="card-stacked">
-                                    <div class="card-content hide-on-med-and-up">
-                                        <header>
-                                            <p class="flow-text"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
-                                        </header>
-                                        <p class="flow-text light">Publicado por {{ post.author }}</p>
-                                        <p class="flow-text light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></p>
-                                    </div>
-
-                                    <div id="responsive_headline" class="card-content hide-on-small-only center-align">
-                                        <header>
-                                            <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                                        </header><hr>
-                                        <h3 class="flow-text light">Publicado por {{ post.author }}</h3>
-                                        <h4 class="flow-text light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></h4>
-                                    </div>
-                                </div>
+        {% for post in paginator.posts %}
+        <section class="section row">
+            <div class="col s12 l12">
+                <article class="col s12">
+                    <div class="card horizontal hoverable">
+                        <div class="card-image">
+                            <a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+                        </div>
+                        <div class="card-stacked">
+                            <div class="card-content hide-on-med-and-up">
+                                <header>
+                                    <p class="flow-text"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+                                </header>
+                                {% assign author = site.data.authors[post.author ] %}
+                                <p class="flow-text light">Publicado por {{ author.name }}</p>
+                                <p class="flow-text light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></p>
                             </div>
-                        </article>
+                            
+                            <div id="responsive_headline" class="card-content hide-on-small-only center-align">
+                                <header>
+                                    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+                                </header><hr>
+                                {% assign author = site.data.authors[post.author ] %}
+                                <h3 class="flow-text light">Publicado por {{ author.name }}</h3>
+                                <h4 class="flow-text light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></h4>
+                            </div>
+                         </div>
                     </div>
-                </section>
-            {% endfor %}
+                </article>
+            </div>
+        </section>
+        {% endfor %}
+
+        <div class="center pagination">
+            {% if paginator.previous_page %}
+            <li>
+                <a href="{{ paginator.previous_page_path }}"><i class="material-icons">chevron_left</i></a>
+            </li>
+            {% endif %}
+            <span class="waves-effect">Pág: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+            {% if paginator.next_page %}
+            <li>
+                <a href="{{ paginator.next_page_path }}" class="next"><i class="material-icons">chevron_right</i></a>
+            </li>
+            {% endif %}
         </div>
     </div>
 </section>
