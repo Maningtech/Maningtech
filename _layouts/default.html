@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html class="no-js" dir="ltr" lang="pt">
     {% include head.html %}
-    <body onload="myFunction()" id="page-top">
+    <body id="page-top">
         {% include navbar.html %}
-        {% include loader.html %}
         <main id="content" class="animate-bottom">
             {{ content }}
         </main>
         {% include modals.html %}
         {% include footer.html %}
         {% include scripts.html %}
-        {% include loader-function.html %}
         {% include google-analytics.html %}
     </body>
 </html>
