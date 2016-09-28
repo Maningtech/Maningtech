@@ -34,6 +34,10 @@ layout: default
     <div class="row">
         <article class="col s12 l8">
             {{ content }}
+            <br><br><br>
+            {% if page.fontes %}
+                <a href="{{ page.fontes }}" class="btn-large teal waves-effect waves-light" title="fonte da noticia">Fonte</a>
+            {% endif %}
         </article>
 
         <aside class="col m4 l4 hide-on-small-only">

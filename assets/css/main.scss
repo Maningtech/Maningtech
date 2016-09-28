@@ -43,6 +43,12 @@ footer {
     margin: 0;
 }
 
+.post-container {
+    p {
+        text-align: justify;
+    }
+}
+
 #loader {
     position: absolute;
     left: 50%;
