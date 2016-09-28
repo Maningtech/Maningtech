@@ -1,7 +1,7 @@
 ---
 title: Fim do FireFox OS
 date: '2016-09-28 14:42:00'
-image: "/forestryio/images/firefox_2-wallpaper-1920x1080 (1).jpg"
+image: "/forestryio/images/614029-firefox-wallpaper (1).png"
 author: nadeem
 categories:
 - Noticias
