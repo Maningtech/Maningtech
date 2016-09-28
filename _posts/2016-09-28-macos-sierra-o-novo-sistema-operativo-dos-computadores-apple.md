@@ -2,7 +2,7 @@
 title: macOS Sierra - O novo sistema operativo dos computadores Apple
 date: '2016-09-28 07:55:00'
 image: "/forestryio/images/macOS-Sierra-Header.jpg"
-author: Nadeem
+author: nadeem
 categories:
 - Noticias
 tags: []
