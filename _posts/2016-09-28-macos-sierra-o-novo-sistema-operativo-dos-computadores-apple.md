@@ -25,7 +25,7 @@ Use o iPhone para aceder aos ficheiros na secretaria do Mac. A partir de agora, 
 
 ![]({{ site.baseurl }}/forestryio/images/icloud_1-720x382.jpg)
 
-## Armazenamento otimizado - Se precisar de mais espaço, o Mac encontra-o
+### Armazenamento otimizado - Se precisar de mais espaço, o Mac encontra-o
 Atingiu o limite de espaço de armazenamento? Não há problema. O macOS Sierra ajuda a libertar espaço guardando automaticamente no iCloud os ficheiros que raramente utiliza, mas ficam sempre a disposição para quando precisar.
 
 ![]({{ site.baseurl }}/forestryio/images/macos-sierra-disk-utility.png)
