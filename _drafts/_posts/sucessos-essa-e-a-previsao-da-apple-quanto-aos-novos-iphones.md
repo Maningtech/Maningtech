@@ -1,6 +1,6 @@
 ---
 title: Sucessos - essa é a previsão da Apple quanto aos novos iPhones
-date: '2016-09-28 14:14:52'
+date: '2016-09-28 00:00:00'
 image: ''
 author: ''
 categories: []
