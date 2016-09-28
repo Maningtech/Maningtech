@@ -14,7 +14,7 @@ Nome novo, funcionalidades novas e visual novo. Apple não esta de brincadeira, 
 O macOS Sierra tem novas funcionalidades para si, para fazer mais com o seu Mac. Ajuda o a redescobrir as melhores fotografias, a trabalhar de forma mais integrada entre dispositivos e a libertar espaço de armazenamento. Quer esteja num Mac, iPhone ou iPad.
 
 ### CLIPBOARD UNIVERSAL 
-#### Grande Novidade 
+####Grande Novidade 
 A grande novidade do macOS Sierra, ou por outra uma das novidades porque são muitas.
 “Copie num dispositivo e Cole noutro”
 Copie imagens, vídeo e texto de um APP no iPhone e cole noutra APP num Mac que esteja perto, ou vice-versa. Não fique assustado funciona de maneira normal não bate cabeça.
