@@ -1,6 +1,6 @@
 ---
 title: Google Allo - O concorrente do WhatsApp
-date: '2016-09-28 08:46:00'
+date: '2016-09-28 00:00:00'
 image: "/forestryio/images/Google-allo-logo-blue-1.jpg"
 author: nadeem
 categories:
