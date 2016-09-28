@@ -26,7 +26,7 @@ layout: default
 
     <div class="row">
         <h2 id="responsive_headline" class="center-align">{{ page.title }}</h2>
-        <p class="light flow-text center-align">{{ page.date | date_to_string }}</p>
+        <p class="light flow-text center-align">{{ page.date | date_to_string }}</p>0
     </div>
 </header>
 
@@ -36,7 +36,7 @@ layout: default
             {{ content }}
             <br><br><br>
             {% if page.fontes %}
-                <a href="{{ page.fontes }}" class="btn-large teal waves-effect waves-light" title="fonte da noticia">Fonte</a>
+                <a href="{{ page.fontes }}" class="btn-large teal waves-effect waves-light" title="fonte da noticia" target="_blank">Fonte</a>
             {% endif %}
         </article>
 
