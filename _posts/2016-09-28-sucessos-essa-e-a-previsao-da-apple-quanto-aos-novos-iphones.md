@@ -1,7 +1,7 @@
 ---
 title: Sucessos - essa é a previsão da Apple quanto aos novos iPhones
 date: '2016-09-28 00:00:00'
-image: "/forestryio/images/ip7i(1).jpg"
+image: "/forestryio/images/vejo vos no sétimo.png"
 author: zinenda
 categories:
 - Noticias
