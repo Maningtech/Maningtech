@@ -12,7 +12,7 @@ tags:
 fontes: http://canalte.ch/S1QOZ
 layout: post
 ---
-Tenho quase certeza que nós moçambicanos não não tivemos a oportunidade de conhecer o iPhone 2G, o primeiro iPhone da história, o lendário revolucionador do mercado de smartphones.
+Tenho quase certeza que nós moçambicanos não tivemos a oportunidade de conhecer o iPhone 2G, o primeiro iPhone da história, o lendário revolucionador do mercado de smartphones.
 Naquela época, cá no território moçambicano, Nokia Symbian era o rei.
 Todo mundo conhecia Nokia, desde os pequenos 3310 ao N8 (Saudades).
 
@@ -31,7 +31,7 @@ O iPhone 2G tinha uma tela de 3,5" sensível ao toque e fez história como um pr
 Mas como um aparelho que teve milhões de unidades fabricadas pode custar tão caro? Devemos levar em consideração que o iPhone foi um dos grandes responsáveis pelo início do interesse do grande público por smartphones. 
 Além disso, ele ajudou a levar a tecnologia touch screen para as mãos dos pobres mortais, pois antes seu uso era bem restrito. Para a alegria dos colecionadores (ricos) de plantão, esses modelos caríssimos disponíveis no eBay aparentam estar em ótimo estado de conservação, com alguns deles ainda lacrados na caixa original. Todos esses detalhes ajudam a agregar valor ao produto que, apesar de não ser tão raro, não é tão fácil de se encontrar em bom estado. Um ponto positivo para o vovô dos iPhones: ele tem entrada para fone de ouvido :).
 
-Só para ressaltar, os novos iPhones já estão chegando em Moçambique por meio de varejistas locais, infelizmente ainda não sabe-se o preço que ele será avaliado.
+Só para ressaltar, os novos iPhones já estão chegando em Moçambique por meio de varejistas locais, infelizmente ainda não sabe se o preço que ele será avaliado.
 Mantenha-se conectado ao ManingTech para mais informações.
 
 Até a próxima!
