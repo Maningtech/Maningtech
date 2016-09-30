@@ -10,7 +10,7 @@ tags:
 - Apple
 - iPhone
 fontes: http://canalte.ch/S1QOZ
-layout: default
+layout: post
 ---
 Tenho quase certeza que nós moçambicanos não não tivemos a oportunidade de conhecer o iPhone 2G, o primeiro iPhone da história, o lendário revolucionador do mercado de smartphones.
 Naquela época, cá no território moçambicano, Nokia Symbian era o rei.
