@@ -16,7 +16,7 @@ O predomínio das companhias de tecnologia se estende ao Top 10 da lista. Ao tod
 
 ####  Confira a Lista com as 10 melhores marcas de 2016:
 
-1.Apple: US$ 178,1 bilhões (+5%);
+1. Apple: US$ 178,1 bilhões (+5%);
 
 2. Google: US$ 133,2 bilhões (+11%);
 
