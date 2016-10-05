@@ -16,24 +16,24 @@ O predomínio das companhias de tecnologia se estende ao Top 10 da lista. Ao tod
 
 ####  Confira a Lista com as 10 melhores marcas de 2016:
 
-Apple: US$ 178,1 bilhões (+5%);
+1.Apple: US$ 178,1 bilhões (+5%);
 
-Google: US$ 133,2 bilhões (+11%);
+2. Google: US$ 133,2 bilhões (+11%);
 
-Coca-Cola: US$ 73,1 bilhões (-7%);
+3. Coca-Cola: US$ 73,1 bilhões (-7%);
 
-Microsoft: US$ 72,7 bilhões (+8%);
+4. Microsoft: US$ 72,7 bilhões (+8%);
 
-Toyota: US$ 53,5 bilhões (+9%);
+5. Toyota: US$ 53,5 bilhões (+9%);
 
-IBM: US$ 52 bilhões (-19%);
+6. IBM: US$ 52 bilhões (-19%);
 
-Samsung: US$ 51,8 bilhões (+14%);
+7. Samsung: US$ 51,8 bilhões (+14%);
 
-Amazon: US$ 50,3 bilhões (+33%);
+8. Amazon: US$ 50,3 bilhões (+33%);
 
-Mercedes-Benz: US$ 43,4 bilhões (+18%);
+9. Mercedes-Benz: US$ 43,4 bilhões (+18%);
 
-GE: US$ 43,1 bilhões (+2%).
+10. GE: US$ 43,1 bilhões (+2%).
 
 > Fique Conectado
