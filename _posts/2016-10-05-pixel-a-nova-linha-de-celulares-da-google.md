@@ -35,6 +35,6 @@ As câmaras não deixam a desejar, com 12MP na traseira e 8MP na frontal do celu
 Já faz muito tempo que os utilizadores do Android têm presentes em seus celulares o assistente pessoal Google Now, inclusive [apresentamos dicas e truques do mesmo](http://maningtech.github.io/dicas/2016/04/30/lista-de-comandos-do-google-now.html).
 Todavia a Alphabet ontem apresentou junto com os novos celulares o "Google Assistent", que estabelece um diálogo constante entre você e o Google, para entender a sua rotina e ajudá-lo a realizar tarefas.
 
-Ainda não há previsão de chegada em Moçambique, pelo menos não por meios oficiais, vimos isso com os celulares Nexus. Portanto para quem quiser, poderá encomedar no [ebay](http://ebay.com) por exemplo.
+Ainda não há previsão de chegada em Moçambique, pelo menos não por meios oficiais, vimos isso com os celulares Nexus. Portanto para quem quiser, poderá encomendar no [ebay](http://ebay.com) por exemplo.
 
 Espero que tenham gostado, até a próxima!
