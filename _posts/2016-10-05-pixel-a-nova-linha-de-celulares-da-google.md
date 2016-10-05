@@ -23,10 +23,10 @@ Assista o vídeo abaixo para conhecer-lo melhor:
 
 A empresa Alphabet, resolveu aposentar a conhecida e renomada linha Nexus, embora não muito popular em Moçambique e em um evento que ocorreu ontem (04/10/2016), a mesma apresentou a sua nova linha: Pixel, tendo assim apresentado dois novos smartphones desta nova família: Pixel e Pixel XL.
 
-O Pixel tem 5 polegadas, enquanto que o Pixel XL tem uma tela de 5,5 polegadas, o mesmo tamanho do dos iPhones 6, 6s e 7 Plus. O armazanamento não decepciona, contanto com 32GB e 128GB, na memória são 4GB de RAM e o processador é o mais novo Qualcomm Snapdragon 821.
+O Pixel tem 5 polegadas, enquanto que o Pixel XL tem uma tela de 5,5 polegadas, o mesmo tamanho do dos iPhones 6, 6s e 7 Plus. O armazenamento não decepciona, contando com 32GB e 128GB, na memória são 4GB de RAM e o processador é o mais novo Qualcomm Snapdragon 821.
 Estarão disponíveis em 3 cores diferentes: Quite Black, Very Silver e Really Blue, este último é uma edição limitada para apenas o mercado norte-americano.
 
-As câmeras não deixam a desejar, com 12MP na traseira e 8MP na frontal do celular. Portanto são celulares ideias para nós amantes do Instagram.
+As câmaras não deixam a desejar, com 12MP na traseira e 8MP na frontal do celular. Portanto são celulares ideias para nós amantes do Instagram.
 
 ### Google Assistant
 
