@@ -15,6 +15,7 @@ A Interbrand divulgou nesta quarta-feira (05) seu relatório anual Best Global B
 O predomínio das companhias de tecnologia se estende ao Top 10 da lista. Ao todo, seis empresas de T.I entre as 10 mais valiosas do mundo: além da Apple e Google, também aparecem na lista a Microsoft, IBM, Samsung, e Amazon.
 
 ####  Confira a Lista com as 10 melhores marcas de 2016:
+
 Apple: US$ 178,1 bilhões (+5%);
 
 Google: US$ 133,2 bilhões (+11%);
