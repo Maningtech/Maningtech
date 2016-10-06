@@ -1,7 +1,7 @@
 ---
 title: Unboxing da Canon G7 mark II - A sua Camera perfeita
 date: '2016-10-06 09:03:00'
-image: "/forestryio/images/235882305alt1 (1).jpg"
+image: "/forestryio/images/Untitled-1 (1).png"
 author: nadeem
 categories:
 - analises
