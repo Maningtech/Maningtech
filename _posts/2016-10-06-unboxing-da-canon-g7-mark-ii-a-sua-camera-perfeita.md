@@ -1,7 +1,7 @@
 ---
 title: Unboxing da Canon G7 mark II - A sua Camera perfeita
 date: '2016-10-06 09:03:00'
-image: "/forestryio/images/Untitled-1 (1).png"
+image: "/forestryio/images/Canon-PowerShot-G7X-Mark-II-front-selfie-screen.jpg"
 author: nadeem
 categories:
 - analises
