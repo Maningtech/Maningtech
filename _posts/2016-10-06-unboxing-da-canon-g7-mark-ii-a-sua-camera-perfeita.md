@@ -11,4 +11,6 @@ layout: post
 ---
 ### Assista ao Unboxing da Canon G7 Mark II
 
+hfjhtddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddg
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hIpLxxzHWNg" frameborder="0" allowfullscreen></iframe>
