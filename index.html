@@ -7,9 +7,9 @@ layout: default
     <ul class="slides">
         {% for post in site.posts limit: 4 %}
             <li>
-                <img src="{{ site.github.url | prepend: site.url }}{{ post.image }}" alt="{{ post.title }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
                 <div id="responsive_headline" class="caption left-align">
-                    <a href="{{ site.github.url | prepend: site.url }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                    <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
                     <h5>{{ post.description }}</h5>
                 </div>
             </li>
