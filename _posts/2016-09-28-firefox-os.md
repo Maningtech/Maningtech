@@ -1,6 +1,6 @@
 ---
 title: Fim do FireFox OS
-date: '2016-09-28 14:42:00'
+date: '2016-09-28 00:00:00'
 image: "/forestryio/images/614029-firefox-wallpaper (1).png"
 author: nadeem
 categories:

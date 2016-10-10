@@ -1,6 +1,6 @@
 ---
 title: uTorrent - Como usar
-date: '2016-10-09 17:01:00'
+date: '2016-10-09 00:00:00'
 image: "/forestryio/images/utorrent_metro_app_splash_screen_concept_by_wango911-d4hq1vk
   (1).png"
 author: zinenda
