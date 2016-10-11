@@ -46,7 +46,9 @@ layout: default
         </section>
         {% endfor %}
 
-        {% include mobile-index-post.html %}
+        <div class="hide-on-med-and-up">
+            {% include mobile-index-post.html %}
+        </div>
 
         <div class="center pagination">
             {% if paginator.previous_page %}
