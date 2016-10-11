@@ -1,7 +1,7 @@
 ---
 title: Novo Paint para Windows 10 saiba - como Testar enquanto ainda não tem a versão
   oficial
-date: '2016-10-10 15:56:00'
+date: '2016-10-10 00:00:00'
 image: "/forestryio/images/Microsoft-Windows-10-desktop-wallpaper (1).jpg"
 author: nadeem
 categories:
