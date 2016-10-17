@@ -1,5 +1,5 @@
 ---
-title: Messenger irá ajudar a poupar os Megas
+title: Messenger irá ajudar a poupar os dados móveis
 date: '2016-10-17 15:15:00'
 image: "/forestryio/images/Untitled-1 (1)-1.png"
 author: nadeem
