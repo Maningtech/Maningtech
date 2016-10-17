@@ -5,7 +5,9 @@ image: "/forestryio/images/Untitled-1 (1)-1.png"
 author: nadeem
 categories:
 - Noticias
-tags: []
+tags:
+- Facebook
+- Messenger
 fontes: https://www.noticiasaominuto.com/tech/671508/messenger-vai-ajuda-lo-a-poupar-dados-moveis
 layout: post
 ---
