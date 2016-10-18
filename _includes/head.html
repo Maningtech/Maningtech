@@ -9,6 +9,10 @@
     
     {% seo %}
 
+    {% if page.image %}
+        {% include fb-graph.html %}
+    {% endif %}
+
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" media="screen">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
