@@ -2,11 +2,13 @@
     <div class="slideshow-container">
         {% for post in site.posts limit:4 %}
         <div class="mySlides fade">
-            <a href="{{ post.url }}" title="{{ post.title }}">
+            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
                 <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
             </a>
             <div class="caption">
-                <h2 class="center" title="{{ post.title }}">{{ post.title }}</h2>
+                <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+                    <h2 class="center" title="{{ post.title }}">{{ post.title }}</h2>
+                </a>
             </div>
         </div>
         {% endfor %}
