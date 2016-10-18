@@ -3,18 +3,8 @@ title:
 layout: default
 ---
 
-<header class="slider hide-on-small-only">
-    <ul class="slides">
-        {% for post in site.posts limit: 4 %}
-            <li>
-                <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
-                <div id="responsive_headline" class="caption left-align">
-                    <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
-                    <h5>{{ post.description }}</h5>
-                </div>
-            </li>
-        {% endfor %}
-    </ul>
+<header>
+    {% include slider.html %}
 </header>
 
 <section class="grey lighten-3">

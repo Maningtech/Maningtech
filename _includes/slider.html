@@ -1,0 +1,25 @@
+<div class="hide-on-small-only">
+    <div class="slideshow-container">
+        {% for post in site.posts limit: 4 %}
+        <div class="mySlides fade">
+            <a href="{{ post.url }}" title="{{ post.title }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
+            </a>
+            <div class="caption">
+                <h2 class="center" title="{{ post.title }}">{{ post.title }}</h2>
+            </div>
+        </div>
+        {% endfor %}
+
+        <!-- buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+        <!-- indicators -->
+        <div class="center">
+            <span class="dot" onclick="currentSlide(1)"></span> 
+            <span class="dot" onclick="currentSlide(2)"></span> 
+            <span class="dot" onclick="currentSlide(3)"></span> 
+        </div>
+    </div>
+</div>
