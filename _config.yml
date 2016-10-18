@@ -52,6 +52,7 @@ gems:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
+    - jekyll-paginate-category
 
 # Assets
 sass:

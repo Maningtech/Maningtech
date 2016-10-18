@@ -25,8 +25,9 @@ layout: default
                                 <header>
                                     <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
                                 </header><hr>
-                                <h3 class="flow-text light">Publicado por {{ post.author }}</h3>
-                                <h4 class="flow-text light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></h4>
+                                {% assign author = site.data.authors[post.author ] %}
+                                <h3 class="light">Publicado por {{ author.name }}</h3>
+                                <h4 class="light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></h4>
                             </div>
                         </div>
                     </div>
