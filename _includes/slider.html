@@ -1,6 +1,6 @@
 <div class="hide-on-small-only">
     <div class="slideshow-container">
-        {% for post in site.posts limit: 4 %}
+        {% for post in site.posts limit:4 %}
         <div class="mySlides fade">
             <a href="{{ post.url }}" title="{{ post.title }}">
                 <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
@@ -19,7 +19,8 @@
         <div class="center">
             <span class="dot" onclick="currentSlide(1)"></span> 
             <span class="dot" onclick="currentSlide(2)"></span> 
-            <span class="dot" onclick="currentSlide(3)"></span> 
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span> 
         </div>
     </div>
 </div>

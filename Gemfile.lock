@@ -39,6 +39,7 @@ GEM
       jekyll (~> 3.0)
       uglifier (~> 2.7)
     jekyll-paginate (1.1.0)
+    jekyll-paginate-category (0.1.2)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-seo-tag (2.0.0)
@@ -103,6 +104,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-minifier
   jekyll-paginate
+  jekyll-paginate-category
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-timeago
