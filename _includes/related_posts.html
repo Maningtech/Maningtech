@@ -5,13 +5,13 @@
     <article class="col s12 l4">
         <div class="card hoverable">
             <div class="card-image">
-                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}">
-                    <img src="{{ post.image | prepend: site.github.url | prepend: site.url }}" class="responsive-img">
+                <a href="{{ post.url }}" title="{{ post.title }}">
+                    <img src="{{ post.image }}" class="responsive-img">
                 </a>
             </div>
             
             <div class="card-action">
-                <a href="{{ post.url | prepend: site.github.url | prepend: site.url }}" title="{{ post.title }}" class="btn btn-flat waves-effect waves-light">
+                <a href="{{ post.url }}" title="{{ post.title }}" class="btn btn-flat waves-effect waves-light">
                     {{ post.title }}
                 </a>
             </div>
