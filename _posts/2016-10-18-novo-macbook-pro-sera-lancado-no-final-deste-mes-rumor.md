@@ -1,6 +1,6 @@
 ---
 title: Novo Macbook Pro será lançado no final deste mês [Rumor]
-date: '2016-10-18 15:09:00'
+date: '2016-10-18 00:00:00'
 image: "/forestryio/images/retina-macbook-pro.jpg"
 author: zinenda
 categories:
