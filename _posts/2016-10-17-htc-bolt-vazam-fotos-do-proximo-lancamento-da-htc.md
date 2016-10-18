@@ -1,6 +1,6 @@
 ---
 title: HTC Bolt - Vazam fotos do próximo lançamento da HTC [Rumor]
-date: '2016-10-17 11:12:00'
+date: '2016-10-17 00:00:00'
 image: "/forestryio/images/bolt_hero.jpg"
 author: zinenda
 categories:
