@@ -9,7 +9,7 @@ tags: []
 fontes: https://pplware.sapo.pt/smartphones-tablets/samsung-fugas-informacao-galaxy-s8/
 layout: post
 ---
-Após os estragos com o Galaxy note 7 a samsung alerta que irá evitar fugas de informação sobre o futuro Galaxy S8, a empresa Sul-Koreana esta muito cautelosa com os novos equipamentos que prepara.
+![samsung wallpaper]({{ site.baseurl }}/forestryio/images/samsung_company_logo_blue_white_30995_1920x1080-5.jpg)Após os estragos com o Galaxy note 7 a samsung alerta que irá evitar fugas de informação sobre o futuro Galaxy S8, a empresa Sul-Koreana esta muito cautelosa com os novos equipamentos que prepara.
 
 Então, a Samsung já alertou todos os seus funcionários para que previnam as fugas de informação sobre estes novos equipamentos, mas todo mundo sabe dizer que o dinheiro compra tudo então não será fácil para a Sul-Koreana manter sigílo total nessa informação.
 
