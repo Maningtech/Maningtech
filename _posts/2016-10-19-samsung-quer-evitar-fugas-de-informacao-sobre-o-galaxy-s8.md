@@ -5,7 +5,9 @@ image: "{{ site.baseurl }}/forestryio/images/samsung_company_logo_blue_white_309
 author: nadeem
 categories:
 - Noticias
-tags: []
+tags:
+- Samsung
+- Galaxy S8
 fontes: https://pplware.sapo.pt/smartphones-tablets/samsung-fugas-informacao-galaxy-s8/
 layout: post
 ---
