@@ -1,6 +1,6 @@
 ---
 title: Clientes da Samsung Furiosos
-date: '2016-10-21 13:21:37'
+date: '2016-10-21 00:00:00'
 image: "{{ site.baseurl }}/forestryio/images/galaxy-note-7-explose-1.jpg"
 author: zinenda
 categories:
