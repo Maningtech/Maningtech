@@ -10,9 +10,7 @@ group :jekyll_plugins do
     gem 'jekyll-timeago'
     gem 'jekyll-email-protect'
     gem 'autolink'
-    gem 'jekyll-minifier'
     gem 'jekyll-sitemap'
     gem 'jekyll-seo-tag'
     gem 'jekyll-paginate'
-    gem 'jekyll-paginate-category'
 end

@@ -48,11 +48,9 @@ gems:
     - jekyll-timeago
     - jekyll-email-protect
     - autolink
-    - jekyll-minifier
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
-    - jekyll-paginate-category
 
 # Assets
 sass:
