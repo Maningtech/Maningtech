@@ -1,10 +1,12 @@
 ---
 title: Kodak Ektra - Híbrido entre câmara e smartphone
-date: '2016-10-24 14:42:43'
+date: '2016-10-24 14:42:00'
 image: ''
-author: ''
-categories: []
-tags: []
+author: zinenda
+categories:
+- Noticias
+tags:
+- Kodak
 fontes: ''
-layout: 
+layout: ''
 ---
