@@ -3,7 +3,7 @@
         <ul class="slides">
             {% for post in site.posts limit:4 %}
             <li>
-                <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
+                <img src="{{ post.image }}" alt="{{ post.title }}">
                 <div class="caption left-align">
                     <h4 class="white-text" style="text-shadow: 1px -2px #000;">
                         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

@@ -43,7 +43,6 @@ defaults:
 
 gems: 
     - jekyll-admin
-    - jekyll-github-metadata
     - jekyll-auto-image
     - jekyll-timeago
     - jekyll-email-protect
