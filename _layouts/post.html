@@ -5,7 +5,7 @@ layout: default
 <section class="container">
     <header>
         <div class="row">
-            <img src="{{ site.baseurl }}{% if page.image %} {{ page.image }} {% else %} {{ site.image  }} {% endif %}" alt="{{ page.title }}">
+            <img src="{% if page.image %} {{ page.image }} {% else %} {{ site.image  }} {% endif %}" alt="{{ page.title }}">
             <h2 class="center-align" title="{{ page.title }}">{{ page.title }}</h2><hr>
             {% assign author = site.data.authors[page.author ] %}
             <div class="card horizontal hoverable">
