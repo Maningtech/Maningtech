@@ -5,8 +5,6 @@ gem 'jekyll'
 gem 'jekyll-admin'
 
 group :jekyll_plugins do
-    gem 'jekyll-auto-image'
-    gem 'jekyll-timeago'
     gem 'jekyll-email-protect'
     gem 'autolink'
     gem 'jekyll-sitemap'

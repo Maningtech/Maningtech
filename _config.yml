@@ -43,8 +43,6 @@ defaults:
 
 gems: 
     - jekyll-admin
-    - jekyll-auto-image
-    - jekyll-timeago
     - jekyll-email-protect
     - autolink
     - jekyll-sitemap
