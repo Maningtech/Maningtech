@@ -1,7 +1,7 @@
 ---
 title: Samsung quer evitar fugas de informação sobre o Galaxy S8
 date: '2016-10-19 00:00:00'
-image: /forestryio/images/1-13061QSR2.jpg
+image: "/forestryio/images/1-13061QSR2.jpg"
 author: nadeem
 categories:
 - Noticias
