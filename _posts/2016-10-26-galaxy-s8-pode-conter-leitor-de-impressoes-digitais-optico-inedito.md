@@ -1,7 +1,7 @@
 ---
 title: Galaxy S8 pode conter leitor de impressões digitais óptico inédito
 date: '2016-10-26 00:00:00'
-image: "{{ site.baseurl }}/forestryio/images/A-concept-to-admire-Samsung-Galaxy-S8-edge.jpg"
+image: "/forestryio/images/A-concept-to-admire-Samsung-Galaxy-S8-edge.jpg"
 author: nadeem
 categories:
 - Noticias
