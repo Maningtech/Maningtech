@@ -1,11 +1,12 @@
 ---
 title: Microsoft Surface Studio - o PC com monitor mais fino do mundo
+date: '2016-10-27 00:00:00'
 layout: post
 author: zinenda
 image: "/forestryio/images/Microsoft-Surface-Studio-6.jpg"
-category: Noticias
 tag: Microsoft Surface Studio
 fontes: http://www.theverge.com/circuitbreaker/2016/10/26/13380462/microsoft-surface-studio-pc-computer-announced-features-price-release-date
+categories: Noticias
 ---
 
 A Microsoft decidiu expandir sua linha Surface e por fim apresentou ao mundo uma grande novidade: **Surface Studio**, um concorrente de peso ao iMac.
