@@ -6,7 +6,8 @@ description: analises e dicas de aplicativos disponiveis para smartphones que tr
   seu celular num scanner
 author: nadeem
 image: "/assets/img/voce_sabia/microsoft_office_lens_app_appstore.jpg"
-categories: Voce_Sabia
+categories:
+- Voce_Sabia
 ---
 
 Todo estudante ou trabalhador do ramo corporativo já teve a necessidade de usar um Scanner, se não terá.

@@ -10,7 +10,8 @@ description: 5 dicas do incriveis para uso do seu iPhone
 author: zinenda
 image: "/assets/img/dicas/3dtouch.png"
 fonte: <a href="http://canaltech.com.br/dica/iphone/7-coisas-incriveis-que-voce-pode-fazer-com-seu-iphone-e-nao-sabia//">Canaltech</a>
-categories: Dicas
+categories:
+- Dicas
 ---
 
 Que o iPhone sempre foi listado como um dos melhores smartphones do mundo, não é novidade.

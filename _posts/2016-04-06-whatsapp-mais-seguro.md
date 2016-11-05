@@ -5,7 +5,8 @@ layout: post
 description: Nova aualização do whatsapp melhora a criptográfia das mensagens
 image: "/assets/img/noticias/whatsapp.jpg"
 author: zinenda
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Nos ultimos 2 anos, a segurança na internet tem sido um dos assuntos mais comentados, muito mais quando tratamos de mensageiros instantâneos como o  [Whatsapp](http://whatsapp.com). 

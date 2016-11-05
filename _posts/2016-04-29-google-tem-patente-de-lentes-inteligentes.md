@@ -5,7 +5,8 @@ layout: post
 author: zinenda
 image: "/assets/img/dicas/lentes-de-contacto-inteligentes.jpg"
 fonte: <a href="http://www.engadget.com/2016/04/29/google-patent-injectable-smart-lenses/?sr_source=Twitter">Engadget</a>
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Todos já ficamos impressionados quando nos filmes de ficção científica exibem tecnologias que só existem no Universo cinematográfico.<br>

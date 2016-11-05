@@ -2,7 +2,8 @@
 title: A Microsoft desenvolvelve trackpad minusculo com sensor biométrico
 date: '2016-04-20 00:00:00'
 layout: post
-tag: Microsoft
+tag:
+- Microsoft
 description: Noticia do desenvolvimento do trackpad minusculo com sensor biométrico,
   da Microsoft
 image: "/assets/img/noticias/id168634_1.jpg"

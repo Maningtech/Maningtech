@@ -5,7 +5,8 @@ layout: post
 description: A HTC apresentou oficialmente seu mais novo Top de linha, HTC 10
 author: nadeem
 image: "/assets/img/noticias/HTC-10-Renders-KK-10.jpg"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 A HTC apresentou oficialmente o seu mais novo top de linha, o HTC 10. <br>

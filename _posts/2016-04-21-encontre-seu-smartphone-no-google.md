@@ -7,7 +7,8 @@ tag:
 - Android
 author: zinenda
 image: "/assets/img/noticias/google-find-my-phone.jpg"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Embora seja pouco conhecido cá em Moçambique, existe um recurso nos smartphones Android, denominado por Android Device Manager, o qual permite que descubra a localização do seu aparelho.

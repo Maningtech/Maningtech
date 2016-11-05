@@ -5,7 +5,8 @@ layout: post
 author: nadeem
 fonte: Tecmundo
 image: "/assets/img/noticias/tim-cook-apple-tv-10.jpg"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Washington Post realizou uma entrevista muito interessante com Tim Cook o atual CEO da Apple, o mesmo que acaba de completar 5 anos à frente de uma das maiores empresas de tecnologia do mundo. 

@@ -2,7 +2,8 @@
 title: 
 date: '2016-05-11 00:00:00'
 layout: post
-tag: Google
+tag:
+- Google
 description: Uma ação muito bem-vinda da Google, que pretende criar um emoji representando
   a mulher trabalhadora
 image: "/assets/img/rumores/featured.png"

@@ -2,10 +2,12 @@
 title: 
 date: '2016-05-09 00:00:00'
 layout: post
-tag: Windows 10
+tag:
+- Windows 10
 image: "/assets/img/dicas/windows-10-Satya-Login.jpg"
 author: zinenda
-categories: Dicas
+categories:
+- Dicas
 ---
 
 Faz muito tempo que o Windows e praticamente qualquer sistema no mundo exige uma senha para aceder os respectivos softwares.

@@ -8,7 +8,8 @@ tag:
 author: nadeem
 image: "/assets/img/noticias/26151207162472-t1200x480.jpg"
 fonte: Tecmundo
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Os acessos ao YouTube via dispositivos móveis é gigantesco. 

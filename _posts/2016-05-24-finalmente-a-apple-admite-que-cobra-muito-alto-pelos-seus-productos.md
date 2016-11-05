@@ -2,10 +2,12 @@
 title: Finalmente, Apple admite que os preços do iPhone são altos demais
 date: '2016-05-24 00:00:00'
 layout: post
-tag: Apple
+tag:
+- Apple
 author: zinenda
 image: "/assets/img/noticias/tim-cook.jpg"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Que o iPhone é o smartphone mais caro do mercado, em qualquer parte do mundo, isso não é novidade.

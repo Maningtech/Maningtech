@@ -2,7 +2,8 @@
 title: Vazado o painel frontal do Moto G no ebay da Alemanha
 date: '2016-05-11 00:00:00'
 layout: post
-tag: Motorola
+tag:
+- Motorola
 author: zinenda
 image: "/assets/img/rumores/Moto-G-LTE.jpg"
 fonte: <a href="http://www.ebay.de/itm/351719474338">ebay</a>

@@ -10,7 +10,8 @@ tag:
 author: zinenda
 image: "/assets/img/analises/samsung-galaxy-note-6-konsept.jpg"
 fonte: []
-categories: Analises
+categories:
+- Analises
 ---
 
 Dizer que o Galaxy Note 5 levantou a barra no mercado de smartphone e especialmente no nicho de tela grande, seria absolutamente correto. 

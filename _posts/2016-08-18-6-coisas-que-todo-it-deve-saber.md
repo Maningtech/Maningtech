@@ -4,7 +4,8 @@ date: '2016-08-18 00:00:00'
 layout: post
 author: nadeem
 image: "/assets/img/dicas/Cover.png"
-categories: Dicas
+categories:
+- Dicas
 ---
 
 Para quem está iniciando na carreira de IT ja deve ter visto várias dicas de como começar, entre outras coisas. Aqui no Blog nos sempre tentamos trazer dicas úteis para vocês,
