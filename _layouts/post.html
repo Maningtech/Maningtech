@@ -5,7 +5,7 @@ layout: default
 <section class="container">
     <header>
         <div class="row">
-            <img src="{% if page.image %} {{ page.image }} {% else %} {{ site.image  }} {% endif %}" alt="{{ page.title }}">
+            <img src="{% if page.image %} {{ page.image | prepend: relative_url }} {% else %} {{ site.image  }} {% endif %}" alt="{{ page.title }}">
             <h2 class="center-align" title="{{ page.title }}">{{ page.title }}</h2><hr>
             {% assign author = site.data.authors[page.author ] %}
             <div class="card horizontal hoverable">
@@ -49,7 +49,7 @@ layout: default
             {% for post in site.posts limit: 3 %}
             <div class="card hoverable">
                 <div class="card-image">
-                    <img src="{% if post.image %} {{ site.baseurl }} {{ post.image }} {% else %} {{ site.image }} {% endif %}" alt="{% if post.title %} {{ post.title }} {% else %} {{ site.title }} {% endif %}">
+                    <img src="{% if post.image %} {{ post.image | prepend: relative_url }} {% else %} {{ site.image }} {% endif %}" alt="{% if post.title %} {{ post.title }} {% else %} {{ site.title }} {% endif %}">
                 </div>
                 <div class="card-title">
                     <h5 class="center-align"><a href="{{ site.baseurl  }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>

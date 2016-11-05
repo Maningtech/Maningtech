@@ -1,7 +1,7 @@
 ---
 title: Missão da Huawei - Superar a Apple
 date: '2016-11-04 17:18:57'
-image: forestryio/images/huawei-logo.jpg
+image: '/forestryio/images/huawei-logo.jpg'
 author: zinenda
 categories:
 - Noticias

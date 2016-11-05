@@ -29,6 +29,4 @@ $(document).ready(function () {
     });
     $('.modal-trigger').leanModal();
     $('.dropdown-button').dropdown();
-
-    $('.infinite-scroll').jscroll();
 });
