@@ -2,14 +2,16 @@
     <nav class="nav-wrapper">
         <div class="container">
             <a href="{{ site.baseurl }}/" class="brand-logo center">{{ site.title }}</a>
-            <a href="#" data-activates="sidenav" class="button-collapse waves-effect waves-light"><i class="material-icons">more_vert</i></a>
+            <a href="#" data-activates="sidenav" class="button-collapse waves-effect waves-light">
+                <i class="fa fa-bars" aria-hidden="true"></i>
+            </a>
 
             <ul class="left hide-on-med-and-down">
                 <li>
-                    <a href="{{ site.baseurl }}/" title="Página Inicial" class="waves-effect waves-light"><i class="material-icons">home</i></a>
+                    <a href="{{ site.baseurl }}/" title="Página Inicial" class="waves-effect waves-light"><i class="fa fa-fw fa-home"></i></a>
                 </li>
                 <li>
-                    <a href="#" class="dropdown-button waves-effect waves-light" data-activates="artigos">Artigos<i class="material-icons right">arrow_drop_down</i></a>
+                    <a href="#" class="dropdown-button waves-effect waves-light" data-activates="artigos">Artigos <i class="fa fa-fw fa-chevron-down"></i></a>
                     <ul id="artigos" class="dropdown-content">
                         <li><a href="{{ site.baseurl }}/noticias.html" class="waves-effect waves-light" title="Noticias">Noticias</a></li>
                         <li><a href="{{ site.baseurl }}/dicas.html" class="waves-effect waves-light" title="Dicas">Dicas</a></li>
@@ -20,19 +22,19 @@
 
             <ul class="right hide-on-med-and-down">
                 <li>
-                    <a href="#about" title="Quem Somos" class="modal-trigger waves-effect waves-light">Sobre<i class="material-icons right">supervisor_account</i></a>
+                    <a href="#about" title="Quem Somos" class="modal-trigger waves-effect waves-light">Sobre <i class="fa fa-fw fa-user"></i></a>
                 </li>
             </ul>
 
             <ul id="sidenav" class="side-nav">
-                <li><a href="{{ site.baseurl }}/" title="Página Inicial" class="waves-effect waves-teal"><i class="material-icons">home</i></a></li>
+                <li><a href="{{ site.baseurl }}/" title="Página Inicial" class="waves-effect waves-teal"><i class="fa fa-fw fa-home"></i></a></li>
                 <li><a href="{{ site.baseurl }}/noticias.html" title="Noticias" class="waves-effect waves-teal">Noticias</a></li>
                 <li><a href="{{ site.baseurl }}/dicas.html" title="Dicas" class="waves-effect waves-teal">Dicas</a></li>
                 <li><a href="{{ site.baseurl }}/analises.html" title="Análises" class="waves-effect waves-teal">Análises</a></li>
                 
                 <li class="divider"></li>
 
-                <li><a href="#about" title="Quem Somos" class="modal-trigger waves-effect waves-teal">Sobre<i class="material-icons right">supervisor_account</i></a></li>
+                <li><a href="#about" title="Quem Somos" class="modal-trigger waves-effect waves-teal">Sobre <i class="fa fa-fw fa-user"></i></a></li>
             </ul>
         </div>
     </nav>
