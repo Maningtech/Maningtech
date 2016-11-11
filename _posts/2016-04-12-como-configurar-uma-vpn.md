@@ -8,7 +8,8 @@ tag:
 - VPN
 author: zinenda
 image: "/assets/img/dicas/Virtual_Private_Network_overview.svg"
-categories: Dicas
+categories:
+- Dicas
 ---
 
 Saber como configurar uma VPN é muito importante e essencial para gerenciadores de servidores, ou aos que trabalham muitas vezes na sua própria casa.

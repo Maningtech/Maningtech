@@ -2,12 +2,14 @@
 title: 
 date: '2016-04-17 00:00:00'
 layout: post
-tag: WhatsApp
+tag:
+- WhatsApp
 description: O Whatsapp ganhou suporte a arquivos Office nessa semana, permitindo
   o envio de documentos Word, Excel e PowerPoint
 image: "/assets/img/noticias/whatsapp.jpg"
 author: zinenda
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Semanas atrás, foi publicado na página do facebook do [ManingTech](http://facebook.com/{{ site.facebook }}) que o [Whatsapp](http://whatsapp.com) ganhou suporte a documentos PDF.<br>

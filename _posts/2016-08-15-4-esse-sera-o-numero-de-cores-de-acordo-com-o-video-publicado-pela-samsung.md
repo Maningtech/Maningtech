@@ -5,7 +5,8 @@ layout: post
 author: nadeem
 fonte: Tecmundo
 image: "/assets/img/noticias/note7.jpg"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 De acordo com o vídeo publicado pela Samsung no último domingo (14/08/2016), o unboxing do Galaxy Note 7 revela as principais especificações do aparelho.

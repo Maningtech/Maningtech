@@ -5,7 +5,8 @@ layout: post
 author: nadeem
 fonte: Microsoft
 image: "/assets/img/analises/2016-08-16.png"
-categories: Analises
+categories:
+- Analises
 ---
 
 A Microsoft disponibilizou no meados de Julho a maior atualização do Windows 10 até então.

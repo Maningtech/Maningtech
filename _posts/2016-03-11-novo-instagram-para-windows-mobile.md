@@ -5,7 +5,8 @@ layout: post
 author: nadeem
 description: Camparação do novo beta da atualização do instagram ao antigo beta
 image: "/assets/img/noticias/instagram_windows10mobile_capa.png"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Já faz muito tempo, mas muito tempo mesmo que os desenvolvedores do instagram não atualizam o app do windows phone, deixando os usuários desta plataforma carentes dos novos recursos existentes no Android assim como no iOS.

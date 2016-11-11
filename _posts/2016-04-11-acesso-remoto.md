@@ -8,7 +8,8 @@ tag:
 description: Saiba o que é acesso remoto e como usar
 author: zinenda
 image: "/assets/img/voce_sabia/vpn.jpg"
-categories: Voce_Sabia
+categories:
+- Voce_Sabia
 ---
 
 Uma das dicas mais práticas e necessária aos técnicos de informática, é o acesso remoto a outros PCs. <br>

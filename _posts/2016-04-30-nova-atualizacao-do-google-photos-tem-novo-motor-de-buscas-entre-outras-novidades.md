@@ -5,7 +5,8 @@ layout: post
 author: zinenda
 image: "/assets/img/noticias/google.jpg"
 fonte: <a href="https://plus.google.com/+GooglePhotos/posts/NpDDZuZnhxB">Google</a>
-categories: Noticias
+categories:
+- Noticias
 ---
 
 A Google anunciou ontem (29/04/2016) um novo update para seu aplicativo fotos, mais conhecido por Google Photos.

@@ -7,7 +7,8 @@ image: "/assets/img/analises/samsung-galaxy-note-7-to-come-with-improved-s-pen-f
 description: Nos paragráfos a seguir, poderemos cuidadosamente análisar esse lindo
   smartphone que em alguns meses já estará disponível em Moçambique por meio dos agentes
   de vendas oficias.
-categories: Analises
+categories:
+- Analises
 ---
 
 Dizem que uma imagem vale mil palavras, portanto é o que podemos dizer da mesma abaixo.

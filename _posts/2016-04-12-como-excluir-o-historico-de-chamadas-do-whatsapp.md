@@ -2,11 +2,13 @@
 title: Excluir historico chamadas whatsapp
 date: '2016-04-12 00:00:00'
 layout: post
-tag: Whatsapp
+tag:
+- Whatsapp
 description: Saiba como excluir o historico das chamadas podendo assim ter mais privacidade
 author: zinenda
 image: "/assets/img/noticias/id161818_1.jpg"
-categories: Dicas
+categories:
+- Dicas
 ---
 
 Todos usuários do Whatsapp já experimentaram o recurso de chamadas de voz, técnicamente conhecidos por VoIP.

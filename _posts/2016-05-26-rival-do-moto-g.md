@@ -5,7 +5,8 @@ layout: post
 image: "/assets/img/noticias/LG_Logo.png"
 fonte: <a href="http://www.tudocelular.com/android/noticias/n72290/lg-certifica-o-nome-X5-novo-smartphone-.html">Tudocelular</a>
 author: nadeem
-categories: Noticias
+categories:
+- Noticias
 ---
 
 LG certificou o nome que pode ser usado em seu próximo grande lançamento. 

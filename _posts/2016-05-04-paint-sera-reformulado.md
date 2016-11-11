@@ -4,7 +4,8 @@ date: '2016-05-04 00:00:00'
 layout: post
 author: zinenda
 image: "/assets/img/noticias/id171143_1.jpg"
-categories: Noticias
+categories:
+- Noticias
 ---
 
 O nosso bom e velho amigo Paint, será reformulado.<br>

@@ -11,7 +11,8 @@ fonte:
 - <a href="http://answers.microsoft.com/en-us/office/forum/office_insider-registration/announcing-insider-build-16068682048-for-office/bbb6e0ff-a495-4397-86cb-bf2908edfcdb?auth=1"><Microsoft/a>
 - <a href="www.windowscentral.com/office-2016-insider-update-brings-autocad-support-visio">Windows
   Central</a>
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Muito bom dia, mais um dia elaboral, hoje sexta-feira, dia do homem.

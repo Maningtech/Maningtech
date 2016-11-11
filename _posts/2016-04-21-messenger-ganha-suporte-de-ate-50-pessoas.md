@@ -8,7 +8,8 @@ tag:
 author: zinenda
 image: "/assets/img/noticias/messenger.png"
 fonte: <a href="http://www.androidauthority.com/facebook-messenger-group-calls-688073/"></a>
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Já passa muito tempo em que o messenger tornou-se um dos apps mais bem sucedidos em todas plataformas móveis.

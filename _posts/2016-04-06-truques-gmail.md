@@ -9,7 +9,8 @@ tag:
 - Gmail
 - Google
 author: zinenda
-categories: Dicas
+categories:
+- Dicas
 ---
 
 Todo internauta reconhece que o Gmail é o sirviço de email mais usado no mundo.

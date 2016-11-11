@@ -10,7 +10,8 @@ image: "/assets/img/analises/maxresdefault1.jpg"
 author: zinenda
 fonte: <a href="http://www.macrumors.com/2016/04/17/iphone-glass-casing-amoled-2017/?utm_source=feedly&utm_medium=webfeeds">Mac
   Rumors</a>
-categories: Noticias
+categories:
+- Noticias
 ---
 
 Para quem já acompanha as previsões do analistas acerca do iPhone, já deve conhecer o analista Ming-Chi.
