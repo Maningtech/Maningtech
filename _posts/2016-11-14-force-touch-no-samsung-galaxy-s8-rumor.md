@@ -1,6 +1,6 @@
 ---
 title: Force Touch no Samsung Galaxy S8 [Rumor]
-date: '2016-11-14 15:09:48'
+date: '2016-11-14 00:00:00'
 image: forestryio/images/India-Samsung-Galaxy-S8-Price-and-Release-Date-Update-Galaxy-S8-Galaxy-S8-Edge-and-Galaxy-S8-Edge-Plus.jpg
 author: zinenda
 categories:
