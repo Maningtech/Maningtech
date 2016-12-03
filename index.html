@@ -5,7 +5,7 @@ layout: default
 
 {% include header.html %}
 
-<section class="grey lighten-3">
+<section class="section grey lighten-3">
     <div class="container">
         <div class="row teal white-text">
             <h2 class="center-align">Artigos Recentes</h2>
@@ -24,7 +24,7 @@ layout: default
                                     <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
                                 </header><hr>
                                 {% assign author = site.data.authors[post.author ] %}
-                                <h3 class="light">Publicado por {{ author.name }}</h3>
+                                <h3 class="light">Publicado por <a href="https://fb.com/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a></h3>
                                 <h4 class="light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></h4>
                             </div>
                          </div>
@@ -42,15 +42,15 @@ layout: default
             <div class="pagination center">
                 {% if paginator.previous_page %}
                     <li>
-                        <a href="{{ paginator.previous_page_path }}" class="btn white-text">Anterior</a>
+                        <a href="{{ paginator.previous_page_path }}" class="btn white-text waves-effect waves-light">Anterior</a>
                     </li>
                 {% endif %}
                 {% if paginator.next_page %}
                     <li>
-                        <a href="{{ paginator.next_page_path }}" class="btn white-text">Proxima</a>
+                        <a href="{{ paginator.next_page_path }}" class="btn white-text waves-effect waves-light">Proxima</a>
                     </li>
                 {% endif %}
-        </div>
+            </div>
         </div>
     </div>
 </section>

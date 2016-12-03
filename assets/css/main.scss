@@ -22,7 +22,9 @@ main {
     flex: 1 0 auto;
 }
 
-img {
+img,
+iframe,
+object {
     max-width: 100%;
     height: auto;
 }
@@ -41,53 +43,6 @@ img {
 
 footer {
     margin: 0;
-}
-
-.artigo {
-    p {
-        font-size: 1rem;
-        text-align: justify;
-    }
-}
-
-aside {
-    .card {
-        background: $primary-color;
-        color: #fff;
-
-        &:hover {
-            background: #fff;
-            color: $primary-color;
-        }
-
-        a {
-            color: currentColor;
-            
-            &:hover {
-            color: $primary-color-dark;
-            text-decoration: underline;
-        }
-        }
-    }
-}
-
-/* Add animation to "page content" */
-.animate-bottom {
-  position: relative;
-  -webkit-animation-name: animatebottom;
-  -webkit-animation-duration: 1s;
-  animation-name: animatebottom;
-  animation-duration: 1s
-}
-
-@-webkit-keyframes animatebottom {
-  from { bottom:-100px; opacity:0 } 
-  to { bottom:0px; opacity:1 }
-}
-
-@keyframes animatebottom { 
-  from{ bottom:-100px; opacity:0 } 
-  to{ bottom:0; opacity:1 }
 }
 
 .inline-list {
@@ -115,4 +70,22 @@ aside {
     }
 }
 
-@import "materialize/materialize";
+// post layout
+.page-author {
+    img {
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+    }
+}
+
+.artigo {
+    p {
+        font-size: 1rem;
+        text-align: justify;
+    }
+}
+
+@import
+    "animate-bottom",
+    "materialize/materialize";

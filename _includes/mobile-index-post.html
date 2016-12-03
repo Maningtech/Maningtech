@@ -8,7 +8,7 @@
                 </div>
                 <div class="card-content center">
                     {% assign author = site.data.authors[post.author ] %}
-                    <p class="flow-text">Publicado por {{ author.name }}</p>
+                    <p class="flow-text">Publicado por <a href="https://fb.com/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a></p>
                     <p class="flow-text"><time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></p>
                 </div>
                 <div class="card-action center">

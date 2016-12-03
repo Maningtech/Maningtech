@@ -48,6 +48,11 @@ gems:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
+    - algoliasearch-jekyll
+
+algolia:
+  application_id: '2YLL14XFN5'
+  index_name:     'your_index_name'
 
 # Assets
 sass:
