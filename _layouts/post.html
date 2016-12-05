@@ -1,72 +1,11 @@
 ---
 layout: default
 ---
-<!--
-<section class="section lighten-3">
-    <article class="container section white z-depth-3">
-        <header>
-            <div class="row">
-                <img src="{% if page.image %} {{ page.image | prepend: relative_url }} {% else %} {{ site.image  }} {% endif %}" alt="{{ page.title }}">
-                <h2 class="center-align" title="{{ page.title }}">{{ page.title }}</h2><hr>
-                {% assign author = site.data.authors[page.author ] %}
-                <div class="card horizontal hoverable">
-                    <div class="card-image">
-                        <img src="{% if page.author %} {{ site.baseurl }}{{ author.picture }} {% else %} {{ site.baseurl }}{{ site.image }} {% endif %}" alt="{% if page.author %} {{ author.name }} {% else %} {{ site.title }} {% endif %}" class="rounded-img">
-                    </div>
-                    <div class="card-stacked center">
-                        <h3 title="Autor">Publicado por: {% if page.author %} {{ author.name }} {% else %} {{ site.title }} {% endif %}</h3>
-                        <p title="Data Publicado">
-                            <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
-                        </p>
-                        {% if page.author %}
-                        <p title="Biografia do autor" class="flow-text hide-on-small-only">
-                            {% if page.author %} {{ author.bio }} {% endif %}
-                        </p>
-                        <div class="center">
-                            <ul class="inline-list">
-                                <li>
-                                    <a href="http://fb.com/{{ author.facebook }}" target="_blank" class="btn-floating indigo waves-effect waves-light"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="http://twitter.com/{{ author.twitter }}" target="_blank" class="btn-floating blue waves-effect waves-light"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="http://behance.net/{{ author.behance }}" target="_blank" class="btn-floating light-blue waves-effect waves-light"><i class="fa fa-behance"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        {% endif %}
-                    </div>
-                </div>
-            </div>
-        </header>
-
-        <div class="row">
-            <article class="col 12 l8 artigo">
-                {{ content }}
-            </article>
-            <aside class="col l4 hide-on-small-only">
-                <div class="card-panel teal white-text"><h4 class="center-align">Artigos Recentes</h4></div>
-                {% for post in site.posts limit: 3 %}
-                <div class="card hoverable">
-                    <div class="card-image">
-                        <img src="{% if post.image %} {{ post.image | prepend: relative_url }} {% else %} {{ site.image }} {% endif %}" alt="{% if post.title %} {{ post.title }} {% else %} {{ site.title }} {% endif %}">
-                    </div>
-                    <div class="card-title">
-                        <h5 class="center-align"><a href="{{ site.baseurl  }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
-                    </div>
-                </div>
-                {% endfor %}
-            </aside>
-        </div>
-    </article>
-</section>
--->
 <section class="section grey lighten-3">
     <div class="container">
         <div class="row">
             <article class="section white grey-text z-depth-3">
-                <img src="{{ page.image }}" alt="{{ page.title }}">
+                <img src="{{ page.image | prepend: relative_url }}" alt="{{ page.title }}">
                 <h2 class="center-align" title="{{ page.title }}">{{ page.title }}</h2>
                 <hr>
 

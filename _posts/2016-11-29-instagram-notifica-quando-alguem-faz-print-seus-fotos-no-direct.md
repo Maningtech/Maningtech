@@ -1,7 +1,7 @@
 ---
 title: Instagram notifica quando alguém faz print suas fotos no direct
 date: '2016-11-29 09:13:40'
-image: forestryio/images/instagram.jpg
+image: /forestryio/images/instagram.jpg
 author: zinenda
 categories:
 - Noticias
