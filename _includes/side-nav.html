@@ -1,8 +1,20 @@
-<div class="container">
-    <ul class="side-nav" id="side-nav">
-        <<img src="{{ site.baseurl }}/assets/img/brand/logo.png" alt="logo">
+<aside class="container">
+    <ul class="side-nav" id="sidenav">
+        <img src="{{ site.baseurl }}/assets/img/brand/logo.png" alt="logo" width="80" height="80">
         <li>
             <a href="{{ site.baseurl }}/">Página Inicial</a>
+        </li>
+        <li>
+            <form action="http://search.freefind.com/find.html" method="GET" target="_self" class="black-text">
+                <div class="input-field">
+                    <input type="hidden" name="si" value="79081782">
+                    <input type="hidden" name="pid" value="r">
+                    <input type="hidden" name="n" value="0">
+                    <input type="hidden" name="_charset_" value="">
+                    <input type="hidden" name="bcd" value="&#247;">
+                    <input type="text" name="query" size="15" required  placeholder="Pesquise Aqui">
+                </div>
+            </form>
         </li>
         <li>
             <a href="{{ site.baseurl }}/noticias/" title="Noticias">Noticias</a>
@@ -17,4 +29,4 @@
             <a href="#sobre" class="modal-trigger" title="Quem Somos">Sobre</a>
         </li>
     </ul>
-</div>
+</aside>

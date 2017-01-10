@@ -24,6 +24,7 @@ author: Ivo Zinenda
 markdown: kramdown
 paginate: 10
 paginate_path: /page:num/
+permalink: pretty
 
 
 # forestry.io
