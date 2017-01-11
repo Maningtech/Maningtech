@@ -1,6 +1,6 @@
 ---
 title: A Dell apresentou o XPS 27 - All-in-One com 10 alto-falantes
-date: '2017-01-08 15:45:42'
+date: '2017-01-08 00:00:00'
 image: forestryio/images/Dell-XPS-27-2017%5B1%5D.jpg
 author: zinenda
 categories:
