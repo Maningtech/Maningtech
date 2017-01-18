@@ -86,6 +86,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  activesupport (>= 5.0.1)
   autolink
   html-proofer
   jekyll
