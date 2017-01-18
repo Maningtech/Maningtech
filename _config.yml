@@ -50,10 +50,11 @@ gems:
     - jekyll-seo-tag
     - jekyll-paginate
     - jekyll-feed
-    
+
 # Assets
 sass:
     sass_dir: assets/_sass
     style: compressed
 
 port: 1234
+exclude: [Gemfile.lock]
