@@ -70,6 +70,13 @@ footer {
     }
 }
 
+.post-index {
+    .card {
+        min-height: 400px;
+        max-height: 400px;
+    }
+}
+
 // post layout
 .page-author {
     img {

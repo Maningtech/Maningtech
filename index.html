@@ -1,55 +1,45 @@
 ---
-title: 
 layout: default
 ---
 
 {% include header.html %}
 
-<section class="section grey lighten-3">
+<section class="section post-index">
     <div class="container">
-        <div class="row teal white-text">
-            <h2 class="center-align">Artigos Recentes</h2>
-        </div>
-        {% for post in paginator.posts %}
-        <section class="hide-on-small-only section row">
-            <div class="col s12 l12">
-                <article class="col s12">
-                    <div class="card horizontal hoverable">
+        <div class="row">
+            {% for post in paginator.posts %}
+                <div class="col s12 l4">
+                    <div class="card hoverable">
                         <div class="card-image">
-                            <a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+                            <a href="{{ post.url }}" title="{{ post.title }}">
+                                <img src="{{ post.image }}" alt="{{ post.title }}">
+                            </a>
                         </div>
-                        <div class="card-stacked">
-                            <div id="responsive_headline" class="card-content hide-on-small-only center-align">
-                                <header>
-                                    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                                </header><hr>
-                                {% assign author = site.data.authors[post.author ] %}
-                                <h3 class="light">Publicado por <a href="https://fb.com/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a></h3>
-                                <h4 class="light"><time datetime="{{ post.date}}">{{ post.date | date_to_string }}</time></h4>
-                            </div>
-                         </div>
+                        <div class="card-action">
+                            <span class="card-title">
+                                <a href="{{  post.url }}" title="{{ post.title }}">
+                                    {{ post.title }}
+                                </a>
+                            </span>
+                        </div>
                     </div>
-                </article>
-            </div>
-        </section>
-        {% endfor %}
-
-        <div class="hide-on-med-and-up">
-            {% include mobile-index-post.html %}
+                </div>
+            {% endfor %}
         </div>
 
         <div class="row">
-            <div class="pagination center">
-                {% if paginator.previous_page %}
-                    <li>
-                        <a href="{{ paginator.previous_page_path }}" class="btn white-text waves-effect waves-light">Anterior</a>
-                    </li>
-                {% endif %}
-                {% if paginator.next_page %}
-                    <li>
-                        <a href="{{ paginator.next_page_path }}" class="btn white-text waves-effect waves-light">Proxima</a>
-                    </li>
-                {% endif %}
+            <div class="center">
+                <div class="col s6">
+                    {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path }}" class="btn-large waves-effect waves-light"><i class="fa fa-5x fa-chevron-left"></i></a>
+                    {% endif %}
+                </div>
+
+                <div class="col s6">
+                    {% if paginator.next_page %}
+                        <a href="{{ paginator.next_page_path }}" class="btn-large waves-effect waves-light"><i class="fa fa-5x fa-chevron-right"></i></a>
+                    {% endif %}
+                </div>
             </div>
         </div>
     </div>

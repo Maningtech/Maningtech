@@ -22,7 +22,7 @@ author: Ivo Zinenda
 
 # Build Settings
 markdown: kramdown
-paginate: 10
+paginate: 9
 paginate_path: /page:num/
 permalink: pretty
 
@@ -43,7 +43,6 @@ defaults:
 
 
 gems: 
-    - jekyll-admin
     - jekyll-email-protect
     - autolink
     - jekyll-sitemap
@@ -57,4 +56,6 @@ sass:
     style: compressed
 
 port: 1234
-exclude: [Gemfile.lock]
+
+
+exclude: [vendor]
