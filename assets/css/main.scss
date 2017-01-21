@@ -29,45 +29,12 @@ object {
     height: auto;
 }
 
-.cicle-img {
-    border-radius: 100%;
-    width: 200px;
-    height: 200px;
-}
-
-.rounded-img {
-    border-radius: 15px 50px;
-    width: 200px;
-    height: 200px;
-}
-
 footer {
     margin: 0;
 }
 
 .inline-list {
     display: inline-flex;
-}
-
-.slider {
-    .slides {
-        .caption {
-            color: #fff;
-            text-shadow: 2px -2px #444;
-        }
-    }
-}
-
-#header-index {
-    .card {
-        .card-image {
-            max-height: 300px;
-        }
-        .card-header {
-            background: $primary-color;
-            color: #fff;
-        }
-    }
 }
 
 .post-index {
@@ -80,8 +47,8 @@ footer {
 // post layout
 .page-author {
     img {
-        width: 200px;
-        height: 200px;
+        width: 80px;
+        height: 80px;
         border-radius: 100%;
     }
 }
@@ -95,4 +62,6 @@ footer {
 
 @import
     "animate-bottom",
-    "materialize/materialize";
+    "materialize/materialize",
+    "font-awesome/font-awesome"
+;

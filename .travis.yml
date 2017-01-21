@@ -7,4 +7,3 @@ script: bundle exec rake test
 env: 
   gloabal:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
