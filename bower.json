@@ -15,8 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "materialize": "^0.97.7",
-    "fittext": "*",
-    "jscroll": "^2.3.5"
+    "materialize": "^0.97.8",
+    "font-awesome": "fontawesome#^4.7.0"
   }
 }
