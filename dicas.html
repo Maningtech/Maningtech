@@ -7,7 +7,7 @@ permalink: "/dicas/"
 <section class="section post-index">
     <div class="container">
         <div class="row">
-            {% for post in site.categories.Dicas %}
+            {% for post in site.categories.Dicas limit: 9 %}
                 <div class="col s12 l4">
                     <div class="card hoverable">
                         <div class="card-image">

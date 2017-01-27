@@ -1,8 +1,10 @@
 <div id="sobre" class="modal">
-    <article class="modal-content">
+    <section class="modal-content">
         <div class="container">
             <div class="row">
-                <img src="/assets/img/brand/logotipo.jpg" alt="{{ site.title }}">
+                <div class="center">
+                    <img src="{{ site.image }}" alt="{{ site.title }}">
+                </div>
                 <div class="col s12">
                     <p class="thin" title="Sobre">
                         Somos um grupo de estudantes interessados no desenvolvimento web e sua respectiva inovação.
@@ -13,5 +15,8 @@
                 </div>
             </div>
         </div>
-    </article>
+    </section>
+    <div class="modal-footer">
+        {% include social-contacts.html %}
+    </div>
 </div>
