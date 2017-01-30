@@ -48,9 +48,6 @@ gems:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
-    - jekyll-feed
-    - html-proofer
-    - rake
 
 # Assets
 sass:
