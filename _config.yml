@@ -43,8 +43,6 @@ defaults:
 
 
 gems: 
-    - jekyll-email-protect
-    - autolink
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
@@ -57,4 +55,15 @@ sass:
 port: 1234
 
 
-exclude: [vendor]
+exclude:
+    - vendor
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - LICENSE
+    - CNAME
+
+compress_html:
+  clippings: all
+  endings: all
+comments: ["<!--", "-->"]

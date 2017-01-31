@@ -2,6 +2,10 @@
 source "https://rubygems.org"
 
 gem 'github-pages'
-gem 'jekyll-email-protect'
-gem 'autolink'
 gem 'wdm'
+
+# Test the build
+group :test, :development do
+  gem 'rake'
+  gem 'html-proofer'
+end

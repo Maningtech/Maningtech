@@ -1,22 +1,10 @@
-CACHE MANIFEST
+This zip file contains optimized resources for https://maningtech.github.io/. The optimized resources are listed below in the format of: 
+filename: url
 
-# 2016-09-28 v2
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
 
-http://maningtech.github.io/index.html
-http://maningtech.github.io/noticias.html
-http://maningtech.github.io/dicas.html
-http://maningtech.github.io/analises.html
-http://maningtech.github.io/favicon.ico
-http://maningtech.github.io/apple-touch-icon.png
-http://maningtech.github.io/tile.png
-http://maningtech.github.io/assets/img/brand/logo.png
-
-http://maningtech.github.io/assets/img/authors/zinenda.jpg
-http://maningtech.github.io/assets/img/authors/nadeemhussen.jpg
-
-http://maningtech.github.io/css/main.css
-
-http://maningtech.github.io/assets/js/main.js
-https://code.jquery.com/jquery-3.1.0.min.js
-https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js
-http://maningtech.github.io/assets/js/modernizr-2.8.3.min.js
+js/main.js: https://maningtech.github.io/assets/js/main.js
+image/logo.png: https://maningtech.github.io/assets/img/brand/logo.png
