@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    min-height: 100vh;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    font: {
+        family: 'Ubuntu', sans-serif;
+        size: 100%;
+    }
+    overflow-x: hidden;
+    color: #333;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+img,
+iframe,
+object {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    margin: 0;
+}
+
+.inline-list {
+    display: inline-flex;
+}
+
+.post-index {
+    .card {
+        min-height: 400px;
+        max-height: 400px;
+    }
+}
+
+// post layout
+.page-author {
+    img {
+        width: 80px;
+        height: 80px;
+        border-radius: 100%;
+    }
+}
+
+.artigo {
+    p {
+        font-size: 1rem;
+        text-align: justify;
+    }
+}
