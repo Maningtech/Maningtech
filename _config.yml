@@ -39,9 +39,7 @@ defaults:
             author: ""
             categories: []
             tags: []
-            fontes: ""
-
-
+            
 gems: 
     - jekyll-sitemap
     - jekyll-seo-tag
