@@ -10,7 +10,8 @@ tag:
 - Microsoft
 - Google
 - Amazon
-fonte: <a href="http://www.winbeta.org/news/microsoft-made-1-trillion-total-cumulative-revenue-according-report">WinBeta</a>
+fonte:
+- <a href="http://www.winbeta.org/news/microsoft-made-1-trillion-total-cumulative-revenue-according-report">WinBeta</a>
 author: zinenda
 categories:
 - Noticias

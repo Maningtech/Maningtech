@@ -8,7 +8,8 @@ description: Uma ação muito bem-vinda da Google, que pretende criar um emoji r
   a mulher trabalhadora
 image: "/assets/img/rumores/featured.png"
 author: zinenda
-fonte: <a href="http://www.phonearena.com/news/Google-wants-to-create-emoji-to-represent-professional-women_id80966">PhoneArena</a>
+fonte:
+- <a href="http://www.phonearena.com/news/Google-wants-to-create-emoji-to-represent-professional-women_id80966">PhoneArena</a>
 categories:
 - Noticias
 - Rumores

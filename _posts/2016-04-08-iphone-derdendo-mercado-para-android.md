@@ -10,7 +10,8 @@ description: Analíse da perda do mercado do iPhone para o Android nos principai
   do mundo
 author: zinenda
 image: "/assets/img/noticias/3dtouchsnapshot_00.57.png"
-fonte: <a href="http://canaltech.com.br/noticia/smartphones/iphone-esta-perdendo-espaco-nos-principais-mercados-do-mundo-61649/">Canaltech</a>
+fonte:
+- <a href="http://canaltech.com.br/noticia/smartphones/iphone-esta-perdendo-espaco-nos-principais-mercados-do-mundo-61649/">Canaltech</a>
 categories:
 - Noticias
 ---

@@ -1,14 +1,15 @@
 ---
 title: Apple se prepara para o maior lançamento de todos os tempos
-date: '2017-02-08 14:16:27'
+date: '2017-02-08 00:00:00'
 image: "/assets/img/dicas/adblock1.jpg"
 author: zinenda
 categories:
 - Dicas
-tags: 
+tags: []
 fontes: http://www.apple.com/pt/macos/sierra/
 layout: post
-fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
+fonte:
+- <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
   target="_blank">Tudocelular</a>
 description: Camparação do novo beta da atualização do instagram ao antigo beta
 tag:

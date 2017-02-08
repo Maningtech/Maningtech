@@ -9,7 +9,8 @@ description: A Microsoft criou um simulador do seu mais novo SO para ajudar seus
   a conhcerem o Windows 10
 image: "/assets/img/noticias/windows10.jpg"
 author: zinenda
-fonte: <a href="http://www.tecmundo.com.br/windows-10/103747-tal-simular-windows-10-instalar-nada-veja-site-microsoft.htm">Tecmundo</a>
+fonte:
+- <a href="http://www.tecmundo.com.br/windows-10/103747-tal-simular-windows-10-instalar-nada-veja-site-microsoft.htm">Tecmundo</a>
 categories:
 - Dicas
 ---

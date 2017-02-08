@@ -6,7 +6,8 @@ tag:
 - instagram
 author: zinenda
 image: "/assets/img/noticias/instagram-logo-1024x278_tendances-2016.png"
-fonte: <a href="http://9to5mac.com/2016/04/26/instagram-redesign-monochromatic/">9to5Mac</a>
+fonte:
+- <a href="http://9to5mac.com/2016/04/26/instagram-redesign-monochromatic/">9to5Mac</a>
 categories:
 - Noticias
 ---

@@ -9,7 +9,8 @@ tag:
 description: 5 dicas do incriveis para uso do seu iPhone
 author: zinenda
 image: "/assets/img/dicas/3dtouch.png"
-fonte: <a href="http://canaltech.com.br/dica/iphone/7-coisas-incriveis-que-voce-pode-fazer-com-seu-iphone-e-nao-sabia//">Canaltech</a>
+fonte:
+- <a href="http://canaltech.com.br/dica/iphone/7-coisas-incriveis-que-voce-pode-fazer-com-seu-iphone-e-nao-sabia//">Canaltech</a>
 categories:
 - Dicas
 ---

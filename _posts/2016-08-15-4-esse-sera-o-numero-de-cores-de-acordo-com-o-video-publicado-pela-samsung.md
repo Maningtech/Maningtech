@@ -3,7 +3,8 @@ title: 4 - Esse será o número de cores do Samsung Galaxy Note 7
 date: '2016-08-15 00:00:00'
 layout: post
 author: nadeem
-fonte: Tecmundo
+fonte:
+- Tecmundo
 image: "/assets/img/noticias/note7.jpg"
 categories:
 - Noticias

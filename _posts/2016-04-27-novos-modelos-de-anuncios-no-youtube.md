@@ -7,7 +7,8 @@ tag:
 - Google
 author: nadeem
 image: "/assets/img/noticias/26151207162472-t1200x480.jpg"
-fonte: Tecmundo
+fonte:
+- Tecmundo
 categories:
 - Noticias
 ---
