@@ -5,9 +5,10 @@ image: "/assets/img/dicas/adblock1.jpg"
 author: zinenda
 categories:
 - Dicas
-tags: 
+tags: []
 layout: post
-fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
+fonte:
+- <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
   target="_blank">Tudocelular</a>
 description: Camparação do novo beta da atualização do instagram ao antigo beta
 tag:
