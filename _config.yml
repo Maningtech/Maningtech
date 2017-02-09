@@ -26,20 +26,6 @@ paginate: 9
 paginate_path: /page:num/
 permalink: pretty
 
-
-# forestry.io
-defaults:
-    -
-        scope:
-            path: ""
-            type: posts
-        values:
-            title:
-            image: ""
-            author: ""
-            categories: []
-            tags: []
-            
 gems: 
     - jekyll-sitemap
     - jekyll-seo-tag
