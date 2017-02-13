@@ -1,35 +1,28 @@
 ---
 layout: default
 ---
-
-<article class="section">
+<section class="post-wrapper">
     <div class="container">
         <!-- article image -->
         <img src="{{ page.image }}" alt="{{ page.title }}" class="post-image">
-
-        <div class="row">
+        
+        <article class="row">
             <div class="col s12 l8">
-                <div class="container">
-                    <!-- artcile title -->
-                    <h1 class="center-align">{{ page.title }}</h1>
-                    <div class="row">
-                        {% assign author = site.data.authors[page.author ] %}
+                <!-- artcile title -->
+                <h1>{{ page.title }}</h1>
+                <div class="row">
+                    {% assign author = site.data.authors[page.author ] %}
                         <div class="col s12 l4">
-                            <img src="{{ author.picture }}" alt="{{ author.name }}" class="circle">
+                            <img src="{{ author.picture }}" alt="{{ author.name }}" class="circle" width="80" height="80">
                         </div>
                         <div class="col s12 l8">
-                            <p class="flow-text">
-                            Publicado por <a href="https://facebook/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a>
-                            </p>
-                            <p class="flow-text center-align">{{ page.date | date_to_string }}</p>
+                            <p>Publicado por <a href="https://facebook/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a></p>
+                            <p>{{ page.date | date_to_string }}</p>
                         </div>
                     </div>
                     <hr>
                     <!-- end of article title and the bigining of the article-->
-                    <div class="row">
-                        {{ content }}
-                    </div>
-                </div>
+                {{ content }}
             </div>
 
             <div class="hide-on-small-only col l4">
@@ -46,6 +39,6 @@ layout: default
                     </div>
                 {% endfor %}
             </div>
-        </div>
+        </article>
     </div>
-</article>
+</section>
