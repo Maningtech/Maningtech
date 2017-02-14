@@ -5,7 +5,8 @@ layout: post
 description: Rumores sobre o lançamento do Surface Book 2
 author: zinenda
 image: "/assets/img/rumores/Surface-Book2.jpg"
-fonte: <a href="http://www.winbeta.org/news/surface-book-2-rumors-swirl-next-month-next-year">WinBeta</a>
+fonte:
+- <a href="http://www.winbeta.org/news/surface-book-2-rumors-swirl-next-month-next-year">WinBeta</a>
 categories:
 - Noticias
 - Rumores

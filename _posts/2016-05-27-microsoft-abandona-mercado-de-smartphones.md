@@ -5,7 +5,8 @@ layout: post
 tag:
 - Microsoft
 author: nadeem
-fonte: <a href="http://corporate.canaltech.com.br/noticia/microsoft/e-o-fim-microsoft-abandona-o-mercado-de-smartphones-para-consumidores-67405/">CanalTech</a>
+fonte:
+- <a href="http://corporate.canaltech.com.br/noticia/microsoft/e-o-fim-microsoft-abandona-o-mercado-de-smartphones-para-consumidores-67405/">CanalTech</a>
 image: "/assets/img/noticias/Microsoft-Lumia-950-XL.jpg"
 categories:
 - Noticias
