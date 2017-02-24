@@ -1,5 +1,5 @@
 ---
-title: Mais sal - Video quase confirma o Lançamento do Nokia 3310 2016
+title: Mais sal - Video quase confirma o Lançamento do Nokia 3310 2017
 image: "/forestryio/images/nokia-3310.jpg"
 author: zinenda
 categories:
@@ -34,7 +34,7 @@ Contudo isso, a HMD, atual associação responsável pela marca Nokia, está con
 
 De acordo com os rumores internacionais, a Nokia apresentará vários celulares, desde de baixo custo a top de linha, e entre as novidades, teremos um celular homenageando o íconico e lendário Nokia 3310.
 
-De acordo com a mídia internacional espera se as seguintes especificações: 
+De acordo com a mídia internacional espera se as seguintes especificações:
 
 Tela de 1,5 polegadas com 256 mil cores
 
@@ -54,6 +54,6 @@ Bateria de 1.650 mAh com standby de até 10 dias
 
 Enquanto o celular não é lançado, a Nokia fez questão de acrescentar sal no molho publicando um vídeo que deixa-nos esperançosos, curta:
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/h6-E5RWr80M" frameborder="0" allowfullscreen="">&amp;lt;/div&amp;gt;</iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/h6-E5RWr80M" frameborder="0" allowfullscreen="">&amp;amp;amp;amp;lt;/div&amp;amp;amp;amp;gt;</iframe>
 
-Deixe seu comentário no [nosso facebook](https://fb.com/maningtech) falando o que tu achas da volta da Nokia e do Nokia 3310 2016.
+Deixe seu comentário no [nosso facebook](https://fb.com/maningtech) falando o que tu achas da volta da Nokia e do Nokia 3310 2017.
