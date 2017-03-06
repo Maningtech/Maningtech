@@ -7,20 +7,16 @@ permalink: "/noticias/"
 <section class="section post-index">
     <div class="container">
         <div class="row">
-            {% for post in site.categories.Noticias limit: 9 %}
-                <div class="col s12 l4">
-                    <div class="card hoverable">
+            {% for post in site.categories.Noticias limit: 12 %}
+                <div class="col s12 m4 l3">
+                    <div class="card small hoverable">
                         <div class="card-image">
                             <a href="{{ post.url }}" title="{{ post.title }}">
                                 <img src="{{ post.image }}" alt="{{ post.title }}">
                             </a>
                         </div>
                         <div class="card-action">
-                            <span class="card-title">
-                                <a href="{{  post.url }}" title="{{ post.title }}">
-                                    {{ post.title }}
-                                </a>
-                            </span>
+                            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                         </div>
                     </div>
                 </div>

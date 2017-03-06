@@ -3,7 +3,7 @@
 title: ManingTech
 description: Moçambique TechConectado
 email: maningtech@outlook.com
-image: /assets/img/brand/logotipo.jpg
+image: /assets/img/brand/logotipo.svg
 url: ""
 
 twitter:
@@ -12,7 +12,7 @@ facebook:
     app_id: 1034422419934923
     publisher: maningtech
     admins: maningtech
-logo: /assets/img/brand/logo.png
+logo: /assets/img/brand/logotipo.svg
 social:
     name: maningtech
     links:
@@ -22,7 +22,7 @@ author: Ivo Zinenda
 
 # Build Settings
 markdown: kramdown
-paginate: 9
+paginate: 12
 paginate_path: /page:num/
 permalink: pretty
 
@@ -35,9 +35,6 @@ gems:
 sass:
     sass_dir: assets/_sass
     style: compressed
-
-port: 1234
-
 
 exclude:
     - vendor

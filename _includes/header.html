@@ -1,14 +1,16 @@
-<div class="hide-on-med-and-down">
-    <header class="slider">
+<header class="hide-on-med-and-down">
+    <div class="slider">
         <ul class="slides">
             {% for post in site.posts limit: 3 %}
-            <li>
-                <img src="{{ post.image }}" alt="{{ post.title }}">
-                <div class="caption left-align ">
-                    <a href="{{ post.url }}"><h4 class="white-text" style="text-shadow: 2px -2px #000;">{{ post.title }}</h4></a>
-                </div>
-            </li>
+                <li>
+                    <img src="{{ post.image }}" alt="{{ post.title }}">
+                    <div class="caption center-align">
+                        <a href="{{ post.url }}" title="{{ post.title }}" class="white-text">
+                            <h2 class="white-text" title="{{ post.title }}" style="text-shadow: 2px -2px #444;">{{ post.title }}</h2>
+                        </a>
+                    </div>
+                </li>
             {% endfor %}
         </ul>
-    </header>
-</div>
+    </div>
+</header>

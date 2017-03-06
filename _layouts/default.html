@@ -7,12 +7,18 @@ layout: compress
 {% include head.html %}
 
 <body id="page-top" class="grey lighten-4">
+	
 	{% include navbar.html %}
+
 	<main class="animate-bottom">
 		{{ content }}
+
+		{% include fab.html %}
+		{% include modals.html %}
 	</main>
-	{% include fab.html %}
-	{% include modals.html %} 
+
     {% include footer.html %} 
-    {% include scripts.html %} 
+    {% include scripts.html %}
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,700" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     {% include google-analytics.html %}

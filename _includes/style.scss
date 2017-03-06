@@ -10,7 +10,7 @@ body {
         size: 100%;
     }
     overflow-x: hidden;
-    color: #333;
+    color: #444;
 }
 
 main {
@@ -32,13 +32,12 @@ footer {
     display: inline-flex;
 }
 
-.post-index {
-    .card {
-        min-height: 400px;
-        max-height: 400px;
-    }
-}
-
 .post-wrapper {
     margin: auto;
 }
+
+@import
+    "variables",
+    "animate-bottom",
+    "materialize/materialize"
+;
