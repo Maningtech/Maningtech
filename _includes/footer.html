@@ -1,15 +1,10 @@
 <footer class="page-footer white-text">
     <div class="container">
         <div class="row">
-            <div class="col s12 l4">
-                <p class="light">
-                    {{ site.title }} foi desenvolvido por <a href="http://izitag.github.io/" title="IZItag">IZItag</a>
-                </p>
-            </div>
-            <div class="col s12 l4">
+            <div class="col s12 l6">
                 {% include social-contacts.html %}
             </div>
-            <div class="col s12 l4">
+            <div class="col s12 l6">
                 <a href="#about" title="Quem Somos" class="modal-trigger">Quem Somos</a><br>
                 <a href="#policy" class="modal-trigger" title="Políticas de Privacidade">Políticas de Privacidade</a>
             </div>
@@ -17,7 +12,10 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            <div class="center">&copy;2017 {{ site.title }} - {{ site.description }}</div>
+            <div class="left">&copy;  {{ site.time | date: "%Y" }} {{ site.title }} - {{ site.description }}</div>
+            <div class="right">
+                Powered by <a href="https://izitag.site/" title="IZItag">IZItag</a>
+            </div>
         </div>
     </div>
 </footer>

@@ -1,44 +1,40 @@
 <nav>
     <div class="nav-wrapper">
-    <div class="container">
-        <a href="/" title="{{ site.title }}" class="brand-logo center">{{ site.title }}</a>
-                <a href="#" data-activates="sidenav" class="button-collapse"><i class="fa fa-bars" aria-hidden="true"></i></a>
+        <a href="/" title="{{ site.title }}" class="brand-logo">{{ site.title }}</a>
+        <a href="#" data-activates="sidenav" class="button-collapse"><i class="fa fa-bars" aria-hidden="true"></i></a>
 
-                <ul class="left hide-on-med-and-down">
-                    {% if page.title == "Noticias" %}
-                        <li class="active"><a href="/noticias/" title="Noticias" class="waves-effect waves-light">Noticias</a></li>
-                        {% else %}
-                            <li><a href="/noticias/" title="Noticias" class="waves-effect waves-light">Noticias</a></li>
-                    {% endif %}
+        <ul class="right hide-on-med-and-down">
+            {% if page.title == "Noticias" %}
+                <li class="active"><a href="/noticias/" title="Noticias" class="waves-effect waves-light">Noticias</a></li>
+                {% else %}
+                    <li><a href="/noticias/" title="Noticias" class="waves-effect waves-light">Noticias</a></li>
+            {% endif %}
 
-                    {% if page.title == "Dicas" %}
-                        <li class="active"><a href="/dicas/" title="Dicas" class="waves-effect waves-light">Dicas</a></li>
-                        {% else %}
-                            <li><a href="/dicas/" title="Dicas" class="waves-effect waves-light">Dicas</a></li>
-                    {% endif %}
+            {% if page.title == "Dicas" %}
+                <li class="active"><a href="/dicas/" title="Dicas" class="waves-effect waves-light">Dicas</a></li>
+                {% else %}
+                    <li><a href="/dicas/" title="Dicas" class="waves-effect waves-light">Dicas</a></li>
+            {% endif %}
 
-                    {% if page.title == "Análises" %}
-                        <li class="active"><a href="/analises/" title="Análises" class="waves-effect waves-light">Análises</a></li>
-                        {% else %}
-                            <li><a href="/analises/" title="Análises" class="waves-effect waves-light">Análises</a></li>
-                    {% endif %}
-                </ul>
-                <ul class="right hide-on-med-and-down">
-                    <li><a href="#sobre" title="Quem Somos" class="modal-trigger waves-effect waves-light">Sobre</a></li>
-                    <li>
-                        <form action="http://search.freefind.com/find.html" method="GET" target="_self" class="black-text">
-                            <div class="input-field">
-                                <input type="hidden" name="si" value="79081782">
-                                <input type="hidden" name="pid" value="r">
-                                <input type="hidden" name="n" value="0">
-                                <input type="hidden" name="_charset_" value="">
-                                <input type="hidden" name="bcd" value="&#247;">
-                                <input type="text" name="query" size="15" required  placeholder="Pesquise Aqui">
-                            </div>
-                        </form>
-                    </li>
-                </ul>
-            </div>
+            {% if page.title == "Análises" %}
+                <li class="active"><a href="/analises/" title="Análises" class="waves-effect waves-light">Análises</a></li>
+                {% else %}
+                    <li><a href="/analises/" title="Análises" class="waves-effect waves-light">Análises</a></li>
+            {% endif %}
+        </ul>
+    </div>
+</nav>
+
+<nav>
+    <form action="http://search.freefind.com/find.html" method="GET" target="_self" class="black-text">
+        <div class="input-field">
+            <input type="hidden" name="si" value="79081782">
+            <input type="hidden" name="pid" value="r">
+            <input type="hidden" name="n" value="0">
+            <input type="hidden" name="_charset_" value="">
+            <input type="hidden" name="bcd" value="&#247;">
+            <input id="search" type="text" name="query" size="15" required  placeholder="Pesquise Aqui">
+            <label for="search"><i class="fa fa-search"></i></label>
         </div>
-        {% include side-nav.html %}
-    </nav>
+    </form>
+</nav>
