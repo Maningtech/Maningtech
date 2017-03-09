@@ -13,7 +13,7 @@ description: Vazam detalhes sobre o novo Robozinho
 tag:
 - Apple
 - iPod
-picture: ''
+picture: "/forestryio/images/6tag_130816-170027-2.jpg"
 Description: Vazam detalhes sobre o novo Robozinho
 fontes: http://venturebeat.com/2017/03/07/google-is-building-new-smart-features-for-android/
 ---
