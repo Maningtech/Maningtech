@@ -1,7 +1,7 @@
 ---
 title: Android 8.0 Chegando
 image: "/forestryio/images/08115536285224-t1200x480-1.jpg"
-author: zinenda
+author: nadeem hussen
 categories:
 - Noticias
 tags: 
