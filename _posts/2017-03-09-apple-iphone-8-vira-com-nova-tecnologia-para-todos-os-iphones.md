@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone 8 Virá com nova Tecnologia para todos os iPhones
 image: "/forestryio/images/07125817820457-t1200x480.jpg"
-author: nadeem hussen
+author: Nadeem Hussen
 categories:
 - Noticias
 tags: 
