@@ -1,7 +1,7 @@
 ---
 title: Android 8.0 Chegando
 image: "/forestryio/images/08115536285224-t1200x480-1.jpg"
-author: nadeem hussen
+author: nadeem
 categories:
 - Noticias
 tags: 
@@ -13,7 +13,7 @@ description: Vazam detalhes sobre o novo Robozinho
 tag:
 - Apple
 - iPod
-picture: "/forestryio/images/6tag_130816-170027.jpg"
+picture: ''
 Description: Vazam detalhes sobre o novo Robozinho
 fontes: http://venturebeat.com/2017/03/07/google-is-building-new-smart-features-for-android/
 ---
