@@ -2,7 +2,7 @@
 title: Confira os Melhores Smartphones de 2017 apresentados na Mobile World Congress
   2017
 image: "/forestryio/images/Mobile-World-Congress-2017-mailer-header.jpg"
-author: nadeem hussen
+author: nadeem
 categories:
 - Análises
 tags: 
