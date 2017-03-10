@@ -1,6 +1,6 @@
 ---
 title: 'Análise: smartwatch Samsung Gear S3 Classic'
-image: "/forestryio/images/Untitled-1 (1)-2.png"
+image: "/forestryio/images/Untitled-1 (1) (1).png"
 author: nadeem
 categories:
 - Análises
