@@ -3,7 +3,7 @@ title: Galaxy S8 poderá vir com tecnologia semelhante ao 3D Touch da Apple
 image: "/forestryio/images/maxresdefault-2.jpg"
 author: zinenda
 categories:
-- Dicas
+- Noticias
 tags: 
 date: 2017-03-15 14:26
 layout: post
