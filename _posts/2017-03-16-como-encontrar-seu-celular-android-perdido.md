@@ -9,7 +9,7 @@ date: 2017-03-16 12:19
 layout: post
 fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
   target="_blank">Tudocelular</a>
-description: Camparação do novo beta da atualização do instagram ao antigo beta
+description: Ache o smartphone perdido facilmente
 tag:
 - Android Device Manager
 - Google
@@ -57,10 +57,10 @@ Eu pelo menos testei com o meu celular o Huawei p8 LITE que temo como referênci
 
 ![]({{ site.baseurl }}/forestryio/images/2017-03-15%20(4).png)![]({{ site.baseurl }}/forestryio/images/2017-03-15%20(5).png)
 
-Por fim tenho o meu dispositivo foi localizado, testei a funcionalidade do toque e ele fez um barulhão... 
+Por fim tenho o meu dispositivo foi localizado, testei a funcionalidade do toque e ele fez um barulhão...
 
 > NB: Se for roubado o seu celular seria apropriado chamar as autoridades para que acompanhe-o na localização onde se encontra atualmente o seu dispositivo, por motivos de segurança.
 
-Gostou da nossa dica? Deixe o seu comentário e continue ligado
+Gostou da nossa dica? Deixe o seu comentário na  fanpage do facebook e continue ligado.
 
 Até a próxima!
