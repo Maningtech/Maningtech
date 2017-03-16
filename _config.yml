@@ -30,6 +30,8 @@ gems:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
+    - jekyll-twitter-plugin
+    - jemoji
 
 # Assets
 sass:
