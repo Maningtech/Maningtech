@@ -16,7 +16,7 @@ picture: "/assets/img/author/zinenda.jpg"
 Description: ''
 fontes: opais.sapo.mz/index.php/sociedade/45-sociedade/44020-mocambicano-lidera-equipa-da-sony-no-japao.html
 ---
-Pois é, não leu errado, de acordo com o jornal [O País](opais.sapo.mz/index.php/), que publicou o artigo afirmando que "[jovem moçambicano lidera uma equipe da Sony em Japão](opais.sapo.mz/index.php/sociedade/45-sociedade/44020-mocambicano-lidera-equipa-da-sony-no-japao.html)".
+Pois é, não leu errado, de acordo com o jornal [O](opais.sapo.mz/index.php/) [Paí](http://opais.sapo.mz/index.php/)[s](opais.sapo.mz/index.php/), que publicou o artigo afirmando que "[jovem moçambicano lidera uma equipe da Sony em Japão](http://opais.sapo.mz/index.php/sociedade/45-sociedade/44020-mocambicano-lidera-equipa-da-sony-no-japao.html)".
 
 Sérgio Carrilho é o jovem que é responsável por uma equipe de desenvolvimento de várias tecnologias de dispositivos móveis na Sony, que sua sede encontra-se no Japão.  
 
