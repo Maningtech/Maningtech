@@ -5,7 +5,7 @@ author: zinenda
 categories:
 - Noticias
 tags: 
-date: 2017-03-17 17:31
+date: 2017-03-18 19:31
 layout: post
 fonte: <a href="http://www.tudocelular.com/android/noticias/n67996/videochamadas-no-android-via-booyah-app.html"
   target="_blank">Tudocelular</a>
