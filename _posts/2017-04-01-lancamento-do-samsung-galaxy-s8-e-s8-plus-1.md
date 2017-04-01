@@ -33,3 +33,12 @@ Abaixo seguem os vídeos com suas respectivas descrições:
 <div class="video-container"><iframe width="100%" height="auto" src="https://www.youtube.com/embed/hX6gdm5_YS0" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
 
 </div><iframe width="100%" height="auto" src="https://www.youtube.com/embed/D8Ert5yjMV4" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+
+
+
+
+A Samsung também apresentou alguns dispositivos que serão complementos do S8, nós preparamos mais novidades e análises de cada um deles.
+
+Continue conectado para mais novidades
+
+Até a próxima!
