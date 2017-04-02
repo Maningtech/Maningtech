@@ -27,9 +27,6 @@ A poucos minutos publicamos sobre o evento de lançamento do Samsung Galaxy S8 e
 
 Todavia de acordo com vídeo que segue abaixo,este não é um método seguro para bloquear seu celular, veja:<iframe width="100%" height="auto" src="https://www.youtube.com/embed/uS1NmvJvHNk" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
 
-
-
-
 Como podem notar, o utilizador conseguiu ter acesso ao celular usando uma fotografia parecida com a gravada no sistema da Samsung, como ele mesmo disse: esperamos que esse erro seja corrigido até a chegada do aparelho ao mercado.
 
 PS: A Samsung também​ sugeriu que o desbloqueio facial não seja o padrão do dispositivo por ser menos seguro comparando com as impressões digitais e o leitor de íris.
