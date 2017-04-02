@@ -28,17 +28,27 @@ Embora ainda falte algum tempo para comprarmos uma dessas belezas por enquanto p
 
 Bem simples quanto a um clique:![]({{ site.baseurl }}/forestryio/images/samsung-galaxy-s8-wallpaper-Midnight-Black-FullHD.jpg)
 
-https://goo.gl/photos/8LqXnQwK95or568k6![]({{ site.baseurl }}/forestryio/images/samsung-galaxy-s8-wallpaper-Orchid-Grey-FullHD.jpg)
+https://goo.gl/photos/8LqXnQwK95or568k6
 
-https://goo.gl/photos/XuEnCLcM5VKHU1tJ8![]({{ site.baseurl }}/forestryio/images/samsung-galaxy-s8-wallpaper-Arctic-Silver.jpg)
-
- https://goo.gl/photos/w5z3hSYqdpcT4ZDN8
-
-E como bônus, a nova versão do ringtone da família Galaxy,o Over The Horizon: http://androidpit-br.digidip.net/visit?url=http%3A%2F%2Fcdn.droidviews.com%2Fwp-content%2Fuploads%2F2017%2F03%2FGalaxy_S8_Over_the-Horizon.mp3&ppref=http%3A%2F%2Fwww.androidpit.com.br%2F
-
-E assista o vídeo oficial do novo ringtone:<iframe width="100%" height="auto" src="https://www.youtube.com/embed/ecJEECYUhYk" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+![]({{ site.baseurl }}/forestryio/images/samsung-galaxy-s8-wallpaper-Orchid-Grey-FullHD.jpg)
 
 
 
+https://goo.gl/photos/XuEnCLcM5VKHU1tJ8
+
+![]({{ site.baseurl }}/forestryio/images/samsung-galaxy-s8-wallpaper-Arctic-Silver.jpg)
+
+
+
+https://goo.gl/photos/w5z3hSYqdpcT4ZDN8
+
+E como bônus, a nova versão do ringtone da família Galaxy,o Over The Horizon:
+
+http://androidpit-br.digidip.net/visit?url=http%3A%2F%2Fcdn.droidviews.com%2Fwp-content%2Fuploads%2F2017%2F03%2FGalaxy_S8_Over_the-Horizon.mp3&ppref=http%3A%2F%2Fwww.androidpit.com.br%2F
+
+E assista o vídeo oficial do novo ringtone:
+
+
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/ecJEECYUhYk" frameborder="0" allowfullscreen="" async="" preload=""></iframe><iframe width="100%" height="auto" src="https://www.youtube.com/embed/ecJEECYUhYk" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
 
 Espero que curtam, até a próxima!
