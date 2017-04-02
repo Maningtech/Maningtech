@@ -25,7 +25,10 @@ Enquanto alguns trabalham em meios de melhorar a nossa segurança, outros trabal
 
 A poucos minutos publicamos sobre o evento de lançamento do Samsung Galaxy S8 e S8+, um dos recursos presentes nesses aparelhos é o desbloqueio facial.
 
-Todavia de acordo com vídeo que segue abaixo,este não é um método seguro para bloquear seu celular, veja:<iframe width="100%" height="auto" src="https://www.youtube.com/embed/uS1NmvJvHNk" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+Todavia de acordo com vídeo que segue abaixo,este não é um método seguro para bloquear seu celular, veja:
+
+
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/uS1NmvJvHNk" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
 
 Como podem notar, o utilizador conseguiu ter acesso ao celular usando uma fotografia parecida com a gravada no sistema da Samsung, como ele mesmo disse: esperamos que esse erro seja corrigido até a chegada do aparelho ao mercado.
 
