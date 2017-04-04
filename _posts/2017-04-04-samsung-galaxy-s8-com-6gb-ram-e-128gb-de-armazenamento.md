@@ -22,12 +22,12 @@ fontes: ''
 
 Uma das maiores reclamações dos fãs da Samsung foi por ter apenas 4GB RAM, enquanto que para mim acho que seja o suficiente para um celular.
 
-Embora a versão básica e o pois tenham 4GB RAM, a Samsung poderá lançar no mercado chinês e na Coreia do sul uma versão com 6GB RAM e 128GB de armazenamento.
+Embora a versão básica e o plus tenham 4GB RAM, a Samsung poderá lançar no mercado chinês e na Coreia do sul uma versão com 6GB RAM e 128GB de armazenamento.
 
 Só para ressaltar o aparelho poderá custar muito mais caro, obviamente. Só na China, há previsão de que seja comercializado no valor aproximadamente a US$ 1030, equivalente a 72 100 MZN na câmbio atual.
 
 Caso interesse se pela versão mais sofisticada do s8+, espere pelo anúncio e poderá importar-ló da China porque oficialmente  esses celulares​ não serão lançados em Moçambique, pelo menos não tão já.
 
-Espero que estejam curtindo a semana elaborado da boa maneira.
+Espero que estejam curtindo a semana das mulheres.
 
 Até a próxima!
