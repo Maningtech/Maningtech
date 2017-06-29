@@ -30,8 +30,6 @@ gems:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
-    - jekyll-twitter-plugin
-    - jemoji
 
 # Assets
 sass:
@@ -45,6 +43,7 @@ exclude:
     - README.md
     - LICENSE
     - CNAME
+    - bower_components
 
 compress_html:
   clippings: all
