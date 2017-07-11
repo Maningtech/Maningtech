@@ -5,11 +5,10 @@ permalink: "/noticias/"
 ---
 
 <section class="section post-index">
-    <div class="container">
-        <div class="row">
+    <div class="row">
             {% for post in site.categories.Noticias limit: 12 %}
                 <div class="col s12 m4 l3">
-                    <div class="card small hoverable">
+                    <div class="card medium hoverable">
                         <div class="card-image">
                             <a href="{{ post.url }}" title="{{ post.title }}">
                                 <img src="{{ post.image }}" alt="{{ post.title }}">
@@ -21,6 +20,5 @@ permalink: "/noticias/"
                     </div>
                 </div>
             {% endfor %}
-        </div>
     </div>
 </section>
