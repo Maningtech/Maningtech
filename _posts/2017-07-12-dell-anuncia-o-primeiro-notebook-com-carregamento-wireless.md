@@ -1,19 +1,19 @@
 ---
-author: ''
+author: zinenda
 categories:
 - Noticias
 date: 2017-07-12 10:09
 description: Conheça o novo Dell Latitude 7285, o híbrido com carregamento wireless
+fontes: ''
 image: "/forestryio/images/dell-latitude-7285-2-in-1-image.jpg"
 layout: post
+picture: ''
 tag:
 - hidrido
 - Latitude
 - Dell
 tags: []
 title: DELL anuncia o primeiro notebook com carregamento wireless
-picture: ''
-fontes: ''
 ---
 
 
