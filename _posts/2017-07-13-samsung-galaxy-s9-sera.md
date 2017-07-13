@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy S9 - Será?
-image: "{{ site.baseurl }}/forestryio/images/29132106655137.jpg"
+image: "{{ site.baseurl }}/forestryio/images/29132245778139 (1).jpg"
 author: zinenda
 categories:
 - Rumores
