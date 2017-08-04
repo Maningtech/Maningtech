@@ -1,6 +1,6 @@
 ---
 title: Apple e Huawei juntam forças para superar o declínio dos tablets
-image: ''
+image: "/forestryio/images/ipad-wifi-select-gold-201703_GEO_US.jpg"
 author: zinenda
 categories: []
 tags: []
