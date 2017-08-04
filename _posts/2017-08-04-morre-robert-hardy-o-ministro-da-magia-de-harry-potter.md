@@ -1,15 +1,16 @@
 ---
-title: Morre Robert Hardy, o Ministro da Magia de Harry Potter
-image: "/forestryio/images/20170803-robert-hardy.jpg"
 author: zinenda
-categories: []
-tags: []
+categories:
+- Noticias
 date: 2017-08-04 11:58
-layout: post
-tag: []
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/20170803-robert-hardy.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Morre Robert Hardy, o Ministro da Magia de Harry Potter
 ---
 
 
