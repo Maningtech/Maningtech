@@ -1,15 +1,16 @@
 ---
-title: 3ª temporada da série Legends of Tomorrow terá o Gorila Grodd
-image: "/forestryio/images/legends-tomorrow-season-2.jpg"
 author: zinenda
-categories: []
-tags: []
+categories:
+- Noticias
 date: 2017-08-04 12:12
-layout: post
-tag: []
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/legends-tomorrow-season-2.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: 3ª temporada da série Legends of Tomorrow terá o Gorila Grodd
 ---
 
 
