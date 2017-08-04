@@ -2,7 +2,7 @@
 title: Brevemente! Android poderá exibir o consumo da carga dos dispositivos Bluetooth
   conectados
 image: "/forestryio/images/android-basics-connect-bluetooth-device.1280x600.jpg"
-author: ''
+author: zinenda
 categories: []
 tags: []
 date: 2017-08-01 14:24
