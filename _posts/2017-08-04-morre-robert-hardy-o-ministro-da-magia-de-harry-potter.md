@@ -1,0 +1,22 @@
+---
+title: Morre Robert Hardy, o Ministro da Magia de Harry Potter
+image: "/forestryio/images/20170803-robert-hardy.jpg"
+author: zinenda
+categories: []
+tags: []
+date: 2017-08-04 11:58
+layout: post
+tag: []
+description: ''
+picture: ''
+fontes: ''
+---
+
+
+Infelizmente o Ministro da Magia dos filmes que acompanharam nossa infência, morreu aos 91 anos #RIP.
+
+A familia do actor Robert Hardy comunicou ontem dia 03/08/2017 sobre o seu desaparecimento físico, todavia não informou a causa da morte.
+
+A carreira de Hardy durou 70 anos nos cinemas, na televisãos e nos teatros. O ator teve como destaque a interpretação do político Winston Churchill nas minisséries Winston Churchill: The Wilderness Years, o que lhe rendeu indicação a prêmios, e War and Remembrance, na série Agatha Christie's Marple, nos telefilmes The Woman He Loved, Bomber Harris e Churchill: 100 Days That Saved Britain. Ele também interpretou Sir John Middleton em Razão e Sensibilidade, sem contar Fudge em quatro filmes da franquia Harry Potter. Sua última produção foi o curta Joseph's Reel, em 2015.
+
+Fonte: [AdoroCinema](http://www.adorocinema.com/noticias/filmes/noticia-132904/)
