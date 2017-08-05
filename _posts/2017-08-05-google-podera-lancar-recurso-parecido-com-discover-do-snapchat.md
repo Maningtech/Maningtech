@@ -1,15 +1,16 @@
 ---
-title: Google poderá lançar recurso parecido com Discover do SnapChat
-image: "/forestryio/images/1-LvmgojLvrDwUshGP3xnFFw.jpeg"
 author: zinenda
-categories: []
-tags: []
+categories:
+- Noticias
 date: 2017-08-05 00:00:00 +00:00
-layout: post
-tag: []
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/1-LvmgojLvrDwUshGP3xnFFw.jpeg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Google poderá lançar recurso parecido com Discover do SnapChat
 ---
 
 
