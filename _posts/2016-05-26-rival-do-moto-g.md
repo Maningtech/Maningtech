@@ -1,6 +1,6 @@
 ---
 title: Rival do Moto G4 a caminho? LG ganha os direitos para usar o nome X5
-date: '2016-05-26 00:00:00'
+date: 2016-05-26 00:00:00 +0000
 layout: post
 image: "/assets/img/noticias/LG_Logo.png"
 fonte:

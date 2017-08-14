@@ -1,6 +1,6 @@
 ---
 title: BlackBerry abandona fábrico de telemóveis
-date: '2016-09-28 00:00:00'
+date: 2016-09-28 00:00:00 +0000
 image: "/forestryio/images/blackberry-awesome-hd-wallpapers.jpg"
 author: nadeem
 categories:

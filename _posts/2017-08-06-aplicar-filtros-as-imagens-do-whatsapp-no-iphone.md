@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - Dicas
 tags: []
-date: 2017-08-06 00:00:00 +00:00
+date: 2017-08-06 00:00:00 +0000
 layout: post
 tag: []
 fontes: https://pplware.sapo.pt/apple/dica-aplicar-filtros-as-imagens-do-whatsapp-no-iphone/

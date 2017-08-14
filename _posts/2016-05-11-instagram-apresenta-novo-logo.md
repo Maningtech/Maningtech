@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-05-11 00:00:00'
+date: 2016-05-11 00:00:00 +0000
 layout: post
 description: Depois de várias especulações, a equipe do Instagram apresentou o seu
   novo logo, com design totalmente reformuladi

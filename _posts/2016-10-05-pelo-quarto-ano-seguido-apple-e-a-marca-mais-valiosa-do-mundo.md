@@ -1,6 +1,6 @@
 ---
 title: Pelo quarto ano seguido Apple é a marca mais valiosa do Mundo
-date: '2016-10-05 00:00:00'
+date: 2016-10-05 00:00:00 +0000
 image: "/forestryio/images/1463705-2.jpg"
 author: nadeem
 categories:

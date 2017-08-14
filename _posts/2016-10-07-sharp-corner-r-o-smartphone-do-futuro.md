@@ -1,6 +1,6 @@
 ---
 title: Sharp Corner R - O smartphone do futuro
-date: '2016-10-07 00:00:00'
+date: 2016-10-07 00:00:00 +0000
 image: "/forestryio/images/sharp-003 (1).jpg"
 author: zinenda
 categories:

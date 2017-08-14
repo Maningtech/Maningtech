@@ -1,6 +1,6 @@
 ---
 title: Laptop Velho? Veja quatro dicas para deixar o computador mais potente
-date: '2016-04-29 00:00:00'
+date: 2016-04-29 00:00:00 +0000
 layout: post
 author: nadeem
 image: "/assets/img/dicas/imac_three_quarter_large.jpg"

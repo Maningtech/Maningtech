@@ -1,6 +1,6 @@
 ---
 title: Vovó de 72 anos de idade é uma gamer viciada
-date: '2016-10-01 00:00:00'
+date: 2016-10-01 00:00:00 +0000
 image: "/forestryio/images/blog_game_1-800x500.jpg"
 author: zinenda
 categories:

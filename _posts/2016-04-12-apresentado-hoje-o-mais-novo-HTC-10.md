@@ -1,6 +1,6 @@
 ---
 title: Apresentado hoje o mais novo HTC 10
-date: '2016-04-12 00:00:00'
+date: 2016-04-12 00:00:00 +0000
 layout: post
 description: A HTC apresentou oficialmente seu mais novo Top de linha, HTC 10
 author: nadeem

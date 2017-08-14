@@ -1,7 +1,7 @@
 ---
 author: nadeem
 categories: []
-date: 2017-08-06 00:00:00 +00:00
+date: 2017-08-06 00:00:00 +0000
 description: ''
 fontes: https://pplware.sapo.pt/
 image: "/forestryio/images/CAPA-1.jpg"

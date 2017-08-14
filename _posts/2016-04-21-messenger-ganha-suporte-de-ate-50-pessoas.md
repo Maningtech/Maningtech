@@ -1,6 +1,6 @@
 ---
 title: Messenger agora suporta chamadas em grupo de até 50 pessoas
-date: '2016-04-21 00:00:00'
+date: 2016-04-21 00:00:00 +0000
 layout: post
 tag:
 - facebook

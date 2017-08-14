@@ -5,7 +5,7 @@ author: zinenda
 categories:
 - Noticias
 tags: []
-date: 2017-08-04 13:24
+date: 2017-08-04 00:00:00 +0000
 layout: post
 tag: []
 description: ''

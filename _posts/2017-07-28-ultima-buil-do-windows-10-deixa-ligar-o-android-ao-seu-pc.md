@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - Notícias
 tags: []
-date: 2017-07-28 08:56
+date: 2017-07-28 00:00:00 +0000
 layout: post
 tag: []
 fontes: https://pplware.sapo.pt/smartphones-tablets/android/ultima-build-do-windows-10-ligar-android-ao-pc/

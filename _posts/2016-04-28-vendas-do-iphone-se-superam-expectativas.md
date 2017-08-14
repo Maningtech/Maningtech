@@ -1,6 +1,6 @@
 ---
 title: Vendas do iPhone SE superam expectativas
-date: '2016-04-28 00:00:00'
+date: 2016-04-28 00:00:00 +0000
 layout: post
 tag:
 - Apple

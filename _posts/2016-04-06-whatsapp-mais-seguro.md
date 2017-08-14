@@ -1,6 +1,6 @@
 ---
 title: Whatsapp mais seguro para todos
-date: '2016-04-06 00:00:00'
+date: 2016-04-06 00:00:00 +0000
 layout: post
 description: Nova aualização do whatsapp melhora a criptográfia das mensagens
 image: "/assets/img/noticias/whatsapp.jpg"

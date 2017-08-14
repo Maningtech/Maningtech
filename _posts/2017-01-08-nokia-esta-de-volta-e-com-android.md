@@ -1,6 +1,6 @@
 ---
 title: Nokia está de volta e com Android
-date: '2017-01-08 00:00:00'
+date: 2017-01-08 00:00:00 +0000
 image: "/forestryio/images/nokia-6.jpg"
 author: zinenda
 categories:

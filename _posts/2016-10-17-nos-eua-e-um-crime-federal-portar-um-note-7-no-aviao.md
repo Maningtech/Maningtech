@@ -1,6 +1,6 @@
 ---
 title: Nos EUA - é um crime federal portar um Note 7 no avião
-date: '2016-10-17 00:00:00'
+date: 2016-10-17 00:00:00 +0000
 image: "/forestryio/images/samsung-galaxy-note-7.jpg"
 author: zinenda
 categories:

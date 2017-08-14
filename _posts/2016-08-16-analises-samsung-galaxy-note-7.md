@@ -1,6 +1,6 @@
 ---
 title: Análise - Samsung Galaxy Note 7
-date: '2016-08-16 00:00:00'
+date: 2016-08-16 00:00:00 +0000
 layout: post
 author: nadeem
 image: "/assets/img/analises/samsung-galaxy-note-7-to-come-with-improved-s-pen-functions-price-hike-expected.jpg"

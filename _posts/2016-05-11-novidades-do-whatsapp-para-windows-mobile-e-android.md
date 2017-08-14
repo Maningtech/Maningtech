@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-05-11 00:00:00'
+date: 2016-05-11 00:00:00 +0000
 layout: post
 description: Whatsapp essa semana está cheio de supresas inclusive a plataforma do
   Windows Mobile, que é dita por muitos a de menos recursos

@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-03-08 00:00:00'
+date: 2016-03-08 00:00:00 +0000
 layout: post
 author: zinenda
 image: "/assets/img/analises/Galaxy-S7-header-2.jpg"

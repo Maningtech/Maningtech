@@ -1,7 +1,7 @@
 ---
 author: zinenda
 categories: []
-date: 2017-08-04 11:28
+date: 2017-08-04 00:00:00 +0000
 image: "/forestryio/images/ios-stories.png"
 layout: post
 tag: []

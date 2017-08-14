@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-05-11 00:00:00'
+date: 2016-05-11 00:00:00 +0000
 layout: post
 description: Finalmente a equipe dos engenheiros do Whatsapp anunciaram o app para
   usuários PC e Mac OS X

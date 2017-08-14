@@ -1,6 +1,6 @@
 ---
 title: Messenger irá ajudar a poupar os dados móveis
-date: '2016-10-17 00:00:00'
+date: 2016-10-17 00:00:00 +0000
 image: "/forestryio/images/facebook-messenger.png"
 author: nadeem
 categories:

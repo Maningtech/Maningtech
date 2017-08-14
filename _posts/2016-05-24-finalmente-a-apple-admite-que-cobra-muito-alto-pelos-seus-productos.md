@@ -1,6 +1,6 @@
 ---
 title: Finalmente, Apple admite que os preços do iPhone são altos demais
-date: '2016-05-24 00:00:00'
+date: 2016-05-24 00:00:00 +0000
 layout: post
 tag:
 - Apple

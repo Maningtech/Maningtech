@@ -1,6 +1,6 @@
 ---
 title: Lançada a primeira grande atualização do Windows 10
-date: '2016-04-23 00:00:00'
+date: 2016-04-23 00:00:00 +0000
 layout: post
 author: zinenda
 tag:

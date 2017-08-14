@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-03-11 00:00:00'
+date: 2016-03-11 00:00:00 +0000
 layout: post
 author: nadeem
 description: Camparação do novo beta da atualização do instagram ao antigo beta

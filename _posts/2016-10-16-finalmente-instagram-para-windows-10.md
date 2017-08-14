@@ -1,6 +1,6 @@
 ---
 title: Finalmente! Instagram para Windows 10
-date: '2016-10-16 00:00:00'
+date: 2016-10-16 00:00:00 +0000
 image: "/forestryio/images/instagram.PNG"
 author: zinenda
 categories:

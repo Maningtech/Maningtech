@@ -1,6 +1,6 @@
 ---
 title: Microsoft Surface Studio - o PC com monitor mais fino do mundo
-date: '2016-10-27 00:00:00'
+date: 2016-10-27 00:00:00 +0000
 layout: post
 author: zinenda
 image: "/forestryio/images/Microsoft-Surface-Studio-6.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Quanto as empresas multibilionárias facturaram durante esses anos de existência
-date: '2016-05-10 00:00:00'
+date: 2016-05-10 00:00:00 +0000
 layout: post
 description: Relatório de facturamento das gigantes de tecnologias de acordo com um
   especialista da área

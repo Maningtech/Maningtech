@@ -1,6 +1,6 @@
 ---
 title: Pixel - A nova linha de celulares da Google
-date: '2016-10-05 00:00:00'
+date: 2016-10-05 00:00:00 +0000
 image: "/forestryio/images/Google-Pixel.jpg"
 author: zinenda
 categories:

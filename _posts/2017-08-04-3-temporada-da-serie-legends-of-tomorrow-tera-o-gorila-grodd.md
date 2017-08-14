@@ -2,7 +2,7 @@
 author: zinenda
 categories:
 - Noticias
-date: 2017-08-04 12:12
+date: 2017-08-04 00:00:00 +0000
 description: ''
 fontes: ''
 image: "/forestryio/images/legends-tomorrow-season-2.jpg"

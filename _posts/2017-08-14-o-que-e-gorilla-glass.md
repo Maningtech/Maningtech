@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - noticias
 tags: []
-date: 2017-08-14 22:49:00 +0200
+date: 2017-08-14 20:49:00 +0000
 layout: post
 tag: []
 fontes: https://www.androidpit.com/

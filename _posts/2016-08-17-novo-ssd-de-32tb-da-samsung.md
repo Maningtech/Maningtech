@@ -1,6 +1,6 @@
 ---
 title: Incrível SSD de 32TB é anunciado pela Samsung
-date: '2016-08-17 00:00:00'
+date: 2016-08-17 00:00:00 +0000
 layout: post
 author: nadeem
 image: "/assets/img/noticias/ssd-samsung.jpg"

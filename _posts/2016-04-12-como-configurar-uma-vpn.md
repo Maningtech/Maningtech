@@ -1,6 +1,6 @@
 ---
 title: Como configurar uma VPN
-date: '2016-04-12 00:00:00'
+date: 2016-04-12 00:00:00 +0000
 layout: post
 description: Já sabe o que é uma VPN e gostaria de ter uma, saiba como configurar
 tag:

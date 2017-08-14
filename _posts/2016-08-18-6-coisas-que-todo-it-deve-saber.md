@@ -1,6 +1,6 @@
 ---
 title: 6 Coisas que todo IT deve saber
-date: '2016-08-18 00:00:00'
+date: 2016-08-18 00:00:00 +0000
 layout: post
 author: nadeem
 image: "/assets/img/dicas/Cover.png"

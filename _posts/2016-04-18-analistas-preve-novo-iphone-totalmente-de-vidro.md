@@ -1,6 +1,6 @@
 ---
 title: Previsão de novos iPhones com carcaça totalmente de vidro
-date: '2016-04-18 00:00:00'
+date: 2016-04-18 00:00:00 +0000
 layout: post
 tag:
 - iPhone

@@ -1,6 +1,6 @@
 ---
 title: 4 - Esse será o número de cores do Samsung Galaxy Note 7
-date: '2016-08-15 00:00:00'
+date: 2016-08-15 00:00:00 +0000
 layout: post
 author: nadeem
 fonte:

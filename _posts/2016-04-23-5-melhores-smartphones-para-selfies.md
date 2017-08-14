@@ -1,6 +1,6 @@
 ---
 title: Conheça os 5 melhores smartphones para fazer selfie
-date: '2016-04-23 00:00:00'
+date: 2016-04-23 00:00:00 +0000
 layout: post
 tag:
 - selfie

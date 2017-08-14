@@ -1,6 +1,6 @@
 ---
 title: iPhone 7 não terá grandes mudanças, aponta analista
-date: '2016-04-26 00:00:00'
+date: 2016-04-26 00:00:00 +0000
 layout: post
 tag:
 - iPhone

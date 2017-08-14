@@ -1,6 +1,6 @@
 ---
 title: Tete tem primeira sala de Cinema com tecnologia 3D
-date: '2016-10-18 00:00:00'
+date: 2016-10-18 00:00:00 +0000
 image: "/forestryio/images/slcntt.jpg"
 author: nadeem
 categories:

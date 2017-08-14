@@ -1,6 +1,6 @@
 ---
 title: Google patentea lentes inteligentes que serão injectadas no seu olho
-date: '2016-04-29 00:00:00'
+date: 2016-04-29 00:00:00 +0000
 layout: post
 author: zinenda
 image: "/assets/img/dicas/lentes-de-contacto-inteligentes.jpg"

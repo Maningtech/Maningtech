@@ -5,7 +5,7 @@ image: "/forestryio/images/android-basics-connect-bluetooth-device.1280x600.jpg"
 author: zinenda
 categories: []
 tags: []
-date: 2017-08-01 14:24
+date: 2017-08-01 00:00:00 +0000
 layout: post
 tag: []
 description: ''

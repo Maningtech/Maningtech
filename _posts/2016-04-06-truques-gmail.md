@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-04-06 00:00:00'
+date: 2016-04-06 00:00:00 +0000
 layout: post
 description: Truques que facilitarão o uso do Gmail
 image: "/assets/img/dicas/gmail.png"

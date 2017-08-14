@@ -1,6 +1,6 @@
 ---
 title: Instagram notifica quando alguém faz print suas fotos no direct
-date: '2016-11-29 00:00:00'
+date: 2016-11-29 00:00:00 +0000
 image: "/forestryio/images/instagram.jpg"
 author: zinenda
 categories:

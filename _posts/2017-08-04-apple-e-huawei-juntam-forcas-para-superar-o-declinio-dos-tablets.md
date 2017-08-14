@@ -4,7 +4,7 @@ image: "/forestryio/images/ipad-wifi-select-gold-201703_GEO_US.jpg"
 author: zinenda
 categories: []
 tags: []
-date: 2017-08-04 11:04
+date: 2017-08-04 00:00:00 +0000
 layout: post
 tag: []
 description: ''

@@ -1,6 +1,6 @@
 ---
 title: iPhone está perdendo espaço para Android
-date: '2016-04-08 00:00:00'
+date: 2016-04-08 00:00:00 +0000
 layout: post
 tag:
 - iPhone

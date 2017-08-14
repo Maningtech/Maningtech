@@ -1,6 +1,6 @@
 ---
 title: Confirmado! A Nokia estará de volta no ano que vêm
-date: '2016-12-05 00:00:00'
+date: 2016-12-05 00:00:00 +0000
 image: "/forestryio/images/maxresdefault-1.jpg"
 author: zinenda
 categories:

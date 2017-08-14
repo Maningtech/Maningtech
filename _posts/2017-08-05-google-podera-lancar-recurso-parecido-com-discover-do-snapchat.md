@@ -2,7 +2,7 @@
 author: zinenda
 categories:
 - Noticias
-date: 2017-08-05 00:00:00 +00:00
+date: 2017-08-05 00:00:00 +0000
 description: ''
 fontes: ''
 image: "/forestryio/images/1-LvmgojLvrDwUshGP3xnFFw.jpeg"

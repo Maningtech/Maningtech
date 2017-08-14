@@ -1,6 +1,6 @@
 ---
 title: Sabias que o primeiro iPhone 2G é mais caro que o iPhone 7
-date: '2016-09-30 00:00:00'
+date: 2016-09-30 00:00:00 +0000
 image: "/forestryio/images/modell-iphone-2g.jpg"
 author: zinenda
 categories:

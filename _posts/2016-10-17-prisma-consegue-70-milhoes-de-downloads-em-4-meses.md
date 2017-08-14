@@ -1,6 +1,6 @@
 ---
 title: Prisma consegue 70 Milhões de downloads em 4 meses
-date: '2016-10-17 00:00:00'
+date: 2016-10-17 00:00:00 +0000
 image: "/forestryio/images/prisma-app.jpg"
 author: zinenda
 categories:

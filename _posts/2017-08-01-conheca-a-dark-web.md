@@ -1,7 +1,7 @@
 ---
 author: zinenda
 categories: []
-date: 2017-07-31 23:56
+date: 2017-07-31 00:00:00 +0000
 description: ''
 fontes: ''
 image: "/forestryio/images/dark-web-infographic.jpg"

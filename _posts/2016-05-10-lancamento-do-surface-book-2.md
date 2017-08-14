@@ -1,6 +1,6 @@
 ---
 title: Rumores apontam o lançamento do Surface Book 2 bem próximo!
-date: '2016-05-10 00:00:00'
+date: 2016-05-10 00:00:00 +0000
 layout: post
 description: Rumores sobre o lançamento do Surface Book 2
 author: zinenda

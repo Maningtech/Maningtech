@@ -1,6 +1,6 @@
 ---
 title: Vaza primeira imagem real do Samsung Galaxy S8
-date: '2017-02-09 00:00:00'
+date: 2017-02-09 00:00:00 +0000
 image: "/forestryio/images/168224-Galaxy-S8-1.jpg"
 author: zinenda
 categories:

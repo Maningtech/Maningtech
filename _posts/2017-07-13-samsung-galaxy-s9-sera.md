@@ -6,7 +6,7 @@ categories:
 - Rumores
 - Noticias
 tags: []
-date: 2017-07-13 19:26
+date: 2017-07-13 00:00:00 +0000
 layout: post
 tag:
 - S9

@@ -2,7 +2,7 @@
 author: zinenda
 categories:
 - Noticias
-date: 2017-07-12 11:13
+date: 2017-07-12 00:00:00 +0000
 description: '5 anos depois, o fenómeno de views no YouTube - Gangnam Style perde
   a sua corroa para o hit "See You Again" '
 image: "/forestryio/images/gangnam-style.jpg"

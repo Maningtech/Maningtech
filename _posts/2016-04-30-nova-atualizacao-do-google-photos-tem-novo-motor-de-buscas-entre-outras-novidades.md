@@ -1,6 +1,6 @@
 ---
 title: Google Fotos tem novo motor de buscas entre outras novidades
-date: '2016-04-30 00:00:00'
+date: 2016-04-30 00:00:00 +0000
 layout: post
 author: zinenda
 image: "/assets/img/noticias/google.jpg"

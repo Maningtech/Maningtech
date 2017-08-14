@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-04-30 00:00:00'
+date: 2016-04-30 00:00:00 +0000
 layout: post
 author: zinenda
 image: "/assets/img/dicas/google-now-ui-layout_original.jpg"

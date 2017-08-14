@@ -1,6 +1,6 @@
 ---
 title: Gigantes da tecnologia na luta contra Trump
-date: '2017-02-01 00:00:00'
+date: 2017-02-01 00:00:00 +0000
 image: "/forestryio/images/58904b7a20ed7.image.jpg"
 author: zinenda
 categories:

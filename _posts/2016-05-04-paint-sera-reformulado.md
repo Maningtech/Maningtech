@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-05-04 00:00:00'
+date: 2016-05-04 00:00:00 +0000
 layout: post
 author: zinenda
 image: "/assets/img/noticias/id171143_1.jpg"

@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2016-03-24 00:00:00'
+date: 2016-03-24 00:00:00 +0000
 layout: post
 description: analises e dicas de aplicativos disponiveis para smartphones que transformam
   seu celular num scanner

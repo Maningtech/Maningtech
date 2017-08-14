@@ -1,6 +1,6 @@
 ---
 title: Vazado o painel frontal do Moto G no ebay da Alemanha
-date: '2016-05-11 00:00:00'
+date: 2016-05-11 00:00:00 +0000
 layout: post
 tag:
 - Motorola

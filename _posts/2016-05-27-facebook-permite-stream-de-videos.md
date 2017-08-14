@@ -1,6 +1,6 @@
 ---
 title: Facebook agora permite fazer streamings ao vivo
-date: '2016-05-27 00:00:00'
+date: 2016-05-27 00:00:00 +0000
 layout: post
 author: nadeem
 image: "/assets/img/noticias/Facebook-HD-Desktop-Backgrounds.jpg"
