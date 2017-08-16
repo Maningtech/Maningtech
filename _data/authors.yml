@@ -1,17 +1,17 @@
 ---
-zinenda:
-  name: Ivo Zinenda
-  picture: "/assets/img/author/zinenda.jpg"
-  twitter: Imaz_3g
-  facebook: zinenda.jerk
-  behance: https://www.behance.net/izinenda5eb7
-  bio: Estudante de Informática. Fundador do Blogue ManingTech e da marca de Web e
-    Design Gráfico IZItag.
 nadeem:
+  behance: https://behance.net/nadeemhussd05c
+  bio: Estudante de Informática. Co-fundador e autor do Blogue ManingTech, apaixonado
+    por Design Gráfico.
+  facebook: nadimhussen.hussen
   name: Nadeem Hussen
   picture: "/assets/files/DSC_4070.JPG"
   twitter: VanBuuren007
-  facebook: nadimhussen.hussen
-  behance: nadeemhussed05cb
-  bio: Estudante de Informática. Co-fundador e autor do Blogue ManingTech, apaixonado
-    por Design Gráfico.
+zinenda:
+  behance: https://www.behance.net/izinenda5eb7
+  bio: Estudante de Informática. Fundador do Blogue ManingTech e da marca de Web e
+    Design Gráfico IZItag.
+  facebook: zinenda.jerk
+  name: Ivo Zinenda
+  picture: "/assets/img/author/zinenda.jpg"
+  twitter: Imaz_3g
