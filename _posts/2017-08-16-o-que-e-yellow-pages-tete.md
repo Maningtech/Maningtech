@@ -16,7 +16,7 @@ title: O que é Yellow Pages Tete
 
 [Yellow pages Tete](http://www.yptete.com/), é uma Aplicação Web (WebApp), que funciona como serviço de Páginas Amarelas, Somente na cidade de Tete.
 
-Diferente do serviço Nacional de Páginas Amarelas, O [Yptete](http://www.yptete.com/) conta com o Mapeamento do local, isso é, se precisar de chegar num local, é só acessar o [www.yptete.com](http://www.yptete.com/) apartir do Smartphone, ou Tablet e escolher o lugar em que precisa ir, o [Yptete](http://www.yptete.com/) fornecerá os números de contacto, assim como uma Geo-Localização e indicações de como chegar ao local, apartir do suporte que o [Yptete](http://www.yptete.com/) tem do Google Maps.
+Diferente do serviço Nacional de Páginas Amarelas, O [Yptete](http://www.yptete.com/) conta com o mapeamento do local, isso é, se precisar de chegar num local, é só acessar o [www.yptete.com](http://www.yptete.com/) apartir do Smartphone, ou Tablet e escolher o lugar em que precisa ir, o [Yptete](http://www.yptete.com/) fornecerá os números de contacto, assim como uma Geo-Localização e indicações de como chegar ao local, apartir do suporte que o [Yptete](http://www.yptete.com/) tem do Google Maps.
 
 Podemos assim chamá – lo de nosso salvador. O [Yptete](http://www.yptete.com/) já conta com várias empresas subscritas nos planos Basic Free, e Premium.
 
