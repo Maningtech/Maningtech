@@ -1,16 +1,16 @@
 ---
-title: O que é Yellow Pages Tete
-image: "/assets/files/wallpaper.png"
 author: nadeem
 categories:
 - Noticias
-tags: []
-date: 2017-08-16 12:30:19 +0200
-layout: post
-tag: []
+date: 2017-08-16 15:57:00 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/assets/files/wallpaper.png"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: O que é Yellow Pages Tete
 ---
 
 
