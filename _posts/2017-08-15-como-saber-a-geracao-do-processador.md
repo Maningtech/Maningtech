@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Dicas
-date: 2017-08-01 12:10:00 +0200
+date: 2017-08-15 00:00:00 +0200
 image: "/forestryio/images/images.jpg"
 layout: post
 tag: []
