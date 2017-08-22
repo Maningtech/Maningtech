@@ -6,7 +6,7 @@ categories:
 date: 2017-08-16 17:21:00 +0200
 description: ''
 fontes: ''
-image: "/assets/files/yptete.jpg"
+image: "/forestryio/images/yptete-1.jpg"
 layout: post
 picture: ''
 tag: []
