@@ -1,11 +1,12 @@
 ---
 author: nadeem
 categories:
+- Dicas
 - Noticias
 date: 2017-08-16 17:21:00 +0200
 description: ''
 fontes: ''
-image: "/assets/files/yellow pages road.png"
+image: "/assets/files/yptete.jpg"
 layout: post
 picture: ''
 tag: []
