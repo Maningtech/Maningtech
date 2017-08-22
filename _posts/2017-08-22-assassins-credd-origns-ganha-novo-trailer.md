@@ -1,17 +1,17 @@
 ---
-title: Assassins Credd Origns ganha novo trailer
-image: "/assets/files/2324ec96-3670-4d9f-b06f-756d8247687a.jpg"
 author: zinenda
 categories:
 - Jogos
 - Noticias
-tags: []
 date: 2017-08-22 00:00:00 +0000
-layout: post
-tag: []
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/2324ec96-3670-4d9f-b06f-756d8247687a-1.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Assassins Credd Origns ganha novo trailer
 ---
 
 
