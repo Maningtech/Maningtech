@@ -2,15 +2,15 @@
 author: nadeem
 categories:
 - Noticias
-date: 2017-08-24 00:00:00 +0000
+date: 2017-08-24 22:27:12 +0200
+description: ''
 fontes: https://www.tudocelular.com/android/noticias/n96806/ifa-2017-lista-smartphones.html
 image: "/forestryio/images/IFA_Logo_2017_datum_SEP_Versalien_eng.png"
 layout: post
+picture: ''
 tag: []
 tags: []
 title: IFA 2017 Lançamentos mais esperados
-description: ''
-picture: ''
 ---
 
 
