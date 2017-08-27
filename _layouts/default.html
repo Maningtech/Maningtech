@@ -10,14 +10,25 @@ layout: compress
 <body id="page-top" class="grey lighten-4">
 	
 	{% include navbar.html %}
-	{% include sidenav.html %}
+
+	{% if page.title == "Destaques" %}
+		{% include header.html %}
+
+		{% elsif page.layout == "post" %}
+			{% include post-header.html %}
+	{% endif %}
 
 	<main class="animate-bottom">
-		{{ content }}
-	</main>
+		{% include post-index.html %}
 
-	{% include fab.html %}
-	{% include modals.html %}
+		{{ content }}
+
+		{% include pagination.html %}
+
+		{% include sobre.html %}
+		
+		{% include fab.html %}
+	</main>
 
     {% include footer.html %} 
     {% include scripts.html %}

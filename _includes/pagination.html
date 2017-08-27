@@ -1,0 +1,37 @@
+<div class="container">
+    <div class="container">
+        <div class="center">
+            <div class="row">
+                {% if page.title == "Destaques" %}
+                    <div class="pagination">
+                        {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path }}" class="previous btn-large btn-floating waves-effect waves-light">
+                            <i class="fa fa-2x fa-chevron-left"></i>
+                        </a>
+                        {% else %}
+                        <span class="previous">Anterior</span>
+                        {% endif %}
+                        <span class="page_number ">Pag.: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+                        {% if paginator.next_page %}
+                        <a href="{{ paginator.next_page_path }}" class="next btn-large btn-floating waves-effect waves-light">
+                                <i class="fa fa-2x fa-chevron-right"></i>
+                        </a>
+                        {% else %}
+                        <span class="next ">Próximo</span>
+                        {% endif %}
+                    </div>
+                {% endif %}
+
+                {% if page.layout == "post" %}
+                    {% if page.previous.url %}
+                        <a href="{{ page.previous.url }}" class="btn-large waves-effect waves-light">&laquo; {{ page.previous.title }}</a>
+                    {% endif %}
+                            
+                    {% if page.next.url %}
+                        <a href="{{ page.next.url }}" class="btn-large waves-effect waves-light">{{ page.next.title }} &raquo;</a>
+                    {% endif %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

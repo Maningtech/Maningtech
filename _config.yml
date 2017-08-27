@@ -21,14 +21,15 @@ author: Ivo Zinenda
 
 # Build Settings
 markdown: kramdown
-paginate: 12
+paginate: 9
 paginate_path: /page:num/
 permalink: pretty
 
-gems: 
+plugins: 
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-paginate
+    - jekyll-feed
 
 # Assets
 sass:

@@ -3,22 +3,3 @@ title: Dicas
 layout: default
 permalink: "/dicas/"
 ---
-
-<section class="section post-index">
-    <div class="row">
-            {% for post in site.categories.Dicas limit: 12 %}
-                <div class="col s12 m4 l3">
-                    <div class="card medium hoverable">
-                        <div class="card-image">
-                            <a href="{{ post.url }}" title="{{ post.title }}">
-                                <img src="{{ post.image }}" alt="{{ post.title }}">
-                            </a>
-                        </div>
-                        <div class="card-action">
-                            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
-    </div>
-</section>
