@@ -24,11 +24,15 @@
 
                 {% if page.layout == "post" %}
                     {% if page.previous.url %}
-                        <a href="{{ page.previous.url }}" class="btn-large waves-effect waves-light">&laquo; {{ page.previous.title }}</a>
+                        <a href="{{ page.previous.url }}" class="btn-large btn-floating waves-effect waves-light">
+                            <i class="fa fa-2x fa-chevron-left"></i>
+                        </a>
                     {% endif %}
                             
                     {% if page.next.url %}
-                        <a href="{{ page.next.url }}" class="btn-large waves-effect waves-light">{{ page.next.title }} &raquo;</a>
+                        <a href="{{ page.next.url }}" class="btn-large btn-floating waves-effect waves-light">
+                            <i class="fa fa-2x fa-chevron-right"></i>
+                        </a>
                     {% endif %}
                 {% endif %}
             </div>

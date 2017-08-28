@@ -1,7 +1,9 @@
 <section class="section">
     <section class="container">
         <section class="row">
-            {% include infeed_ad.html %}
+            <div class="col s12 l4">
+                {% include infeed_ad.html %}
+            </div>
             {% if page.title == "Destaques" %}
                 {% for post in paginator.posts %}
                     <div class="col s12 l4">
