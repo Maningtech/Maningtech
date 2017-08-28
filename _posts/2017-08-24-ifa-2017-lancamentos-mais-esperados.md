@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Noticias
-date: 2017-08-24 22:27:12 +0200
+date: 2017-08-24 20:27:12 +0000
 description: ''
 fontes: https://www.tudocelular.com/android/noticias/n96806/ifa-2017-lista-smartphones.html
 image: "/forestryio/images/IFA_Logo_2017_datum_SEP_Versalien_eng.png"

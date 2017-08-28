@@ -1,11 +1,9 @@
-- link: /noticias/
+---
+- link: "/noticias/"
   title: Notícias
-
-- link: /dicas/
+- link: "/dicas/"
   title: Dicas
-
-- link: /analises/
+- link: "/analises/"
   title: Análises
-
 - link: "#sobre"
   title: Sobre
