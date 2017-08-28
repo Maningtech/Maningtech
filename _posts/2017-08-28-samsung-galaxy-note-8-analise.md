@@ -1,16 +1,16 @@
 ---
-title: Samsung Galaxy Note 8 Análise
-image: "/forestryio/images/Note-8-Analise-maningtech-optimized.png"
 author: nadeem
 categories:
-- Análises
-tags: []
+- Analises
 date: 2017-08-28 23:23:08 +0200
-layout: post
-tag: []
-fontes: http://www.gsmarena.com/samsung_galaxy_note8-8505.php
 description: ''
+fontes: http://www.gsmarena.com/samsung_galaxy_note8-8505.php
+image: "/forestryio/images/Note-8-Analise-maningtech-optimized.png"
+layout: post
 picture: ''
+tag: []
+tags: []
+title: Samsung Galaxy Note 8 Análise
 ---
 
 
