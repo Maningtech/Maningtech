@@ -1,13 +1,15 @@
 <div class="container">
     <div class="row">
         {% assign author = site.data.authors[ page.author ] %}
-            <div class="col s12 l4">
-                <img src="{{ author.picture }}" alt="{{ author.name }}" class="circle" style="width: 80px; height: 80px;">
-            </div>
-                    
-            <div class="col s12 l8">
-                <p class="light">Publicado por <a href="https://facebook/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a></p>
-                <p class="light">{{ page.date | date_to_string }}</p>
+            <div class="center-on-small-only">
+                <div class="col s12 l4">
+                    <img src="{{ author.picture }}" alt="{{ author.name }}" class="circle" style="width: 80px; height: 80px;">
+                </div>
+                        
+                <div class="col s12 l8">
+                    <p class="light">Publicado por <a href="https://facebook/{{ author.facebook }}" rel="author" title="{{ author.name }}">{{ author.name }}</a></p>
+                    <p class="light">{{ page.date | date_to_string }}</p>
+                </div>
             </div>
     </div>
 </div>
