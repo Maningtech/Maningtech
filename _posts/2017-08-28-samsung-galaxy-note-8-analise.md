@@ -14,7 +14,7 @@ title: Samsung Galaxy Note 8 Análise
 ---
 
 
-O Samsung Galaxy Note 8 é um smartphone Android com especificações inivadoras que o tornam uma excelente opção para qualquer tipo de pessoa. Abaixo confira as especificações do novo membro da família Note, depois do fracasso com o Note 7. A Samsung voltou com grandes novidades no Note:
+O Samsung Galaxy Note 8 é um smartphone Android com especificações inovadoras que o tornam uma excelente opção para qualquer tipo de pessoa. Abaixo confira as especificações do novo membro da família Note, depois do fracasso com o Note 7. A Samsung voltou com grandes novidades no Note:
 
 **Sistema Operacional: Android 7.1.1 Grace UI Nougat**
 
@@ -48,4 +48,4 @@ O Samsung Galaxy Note 8 é um smartphone Android com especificações inivadoras
 
 **Bateria: 3300 mAh**
 
-Quanto ao preço ainda nao temos um certo, mas brevemente em Moçambique as Revendedoras autorizadas ja estarão disponibilizando o nosso querido Note 8, mas um palpite, o Note 8 não estará abaixo dos 60.000,00 mts
+Quanto ao preço ainda não temos um certo, mas brevemente em Moçambique as Revendedoras autorizadas ja estarão disponibilizando o nosso querido Note 8, mas um palpite, o Note 8 não estará abaixo dos 60.000,00 mts
