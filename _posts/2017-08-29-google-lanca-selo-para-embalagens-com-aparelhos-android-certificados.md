@@ -1,16 +1,16 @@
 ---
-title: Google lança selo para embalagens com aparelhos Android certificados
-image: "/forestryio/images/Google-IO-2017-play-protect-stephanie-saad-cuthbertson-android-1.jpg"
 author: nadeem
 categories:
 - Noticias
-tags: []
-date: 2017-08-29 00:00:00 +0000
-layout: post
-tag: []
-fontes: https://canaltech.com.br/android/google-lanca-selo-para-embalagens-com-aparelhos-android-certificados-99662/
+date: 2017-08-29 15:39:04 +0200
 description: ''
+fontes: https://canaltech.com.br/android/google-lanca-selo-para-embalagens-com-aparelhos-android-certificados-99662/
+image: "/forestryio/images/Google-IO-2017-play-protect-stephanie-saad-cuthbertson-android-1.jpg"
+layout: post
 picture: ''
+tag: []
+tags: []
+title: Google lança selo para embalagens com aparelhos Android certificados
 ---
 
 
