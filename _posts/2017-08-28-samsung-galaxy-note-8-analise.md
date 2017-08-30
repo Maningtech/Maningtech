@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Analises
-date: 2017-08-28 23:23:08 +0200
+date: 2017-08-28 21:23:08 +0000
 description: ''
 fontes: http://www.gsmarena.com/samsung_galaxy_note8-8505.php
 image: "/forestryio/images/Note-8-Analise-maningtech-optimized.png"

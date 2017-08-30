@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - Noticias
 tags: []
-date: 2017-08-29 10:32:00 +0200
+date: 2017-08-29 08:32:00 +0000
 layout: post
 tag: []
 fontes: http://www.techtudo.com.br/noticias/2017/08/galaxy-note-8-vs-iphone-7-comparativo-desvenda-ficha-tecnica-dos-celulares.ghtml

@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Noticias
-date: 2017-08-29 15:39:04 +0200
+date: 2017-08-29 13:39:04 +0000
 description: ''
 fontes: https://canaltech.com.br/android/google-lanca-selo-para-embalagens-com-aparelhos-android-certificados-99662/
 image: "/forestryio/images/Google-IO-2017-play-protect-stephanie-saad-cuthbertson-android-1.jpg"
