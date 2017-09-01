@@ -1,16 +1,16 @@
 ---
-title: 'Conheça a maior feira de tecnologias: IFA'
-image: "/forestryio/images/IFA-2017.jpg"
 author: zinenda
 categories:
 - Curiosidades
-tags: []
-date: 2017-09-01 02:00:00 +0200
-layout: post
-tag: []
+date: 2017-09-01 10:00:00 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/IFA-2017.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: 'Conheça a maior feira de tecnologias: IFA'
 ---
 
 
