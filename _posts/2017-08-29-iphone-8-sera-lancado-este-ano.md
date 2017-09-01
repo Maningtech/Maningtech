@@ -14,6 +14,18 @@ picture: ''
 ---
 
 
+## Atualização
+
+A companhia de Cupertino já começou a enviar os convites a imprensa para um evento que será realizado no dia 12 de Setembro, confirmando assim os rumores.
+
+Evento esse que será realizado na Apple Park as 10h do horário dos Estados Unidos.
+
+No convite enviado a imprensa tem os seguintes dizeres:  “*Let’s meet at our place*”, traduzindo: Vamos reunir-nos na nossa casa.
+
+O evento deste ano não será apenas mais um evento anual, mas sim, o marco de uma década desde o lançamento do 1º iPhone em 2007. Uma década de inovações marcadas não só pela Apple, mas sim pela industria toda.
+
+## O que esperar
+
 A Apple vai apresentar o iPhone 8 em evento agendado para dia 12 de Setembro de 2017 de acordo com o “Wall Street Journal”.
 
 Além do iPhone que irá usar maior parte de tempo do evento, a empresa da maçã deverá ainda mostrar as versões S como de sempre, desta vez para os iPhone 7, isto é iPhone 7s e 7s Plus. Tendo também na lista de apresentações um apple watch com cartão SIM de rede 4G, e uma Apple TV 4K.
