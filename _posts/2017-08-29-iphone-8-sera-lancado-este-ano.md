@@ -1,11 +1,11 @@
 ---
-title: iPhone 8 será lançado este ano
+title: "[Atualização] Confirmado! iPhone 8 será lançado este ano"
 image: "/forestryio/images/img_iPhone-8.png"
 author: nadeem
 categories:
 - Noticias
 tags: []
-date: 2017-08-29 00:00:00 +0000
+date: 2017-09-01 02:00:00 +0200
 layout: post
 tag: []
 fontes: http://www.cmjornal.pt/tecnologia/detalhe/apple-mostra-iphone-8-a-12-de-setembro
