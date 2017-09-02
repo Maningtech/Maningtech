@@ -1,16 +1,16 @@
 ---
-title: Quanto ganham atores de Game of Thrones e de outras séries de TV
-image: "/forestryio/images/o63dz51jwwo6.jpg"
 author: nadeem
 categories:
 - Noticias
-tags: []
-date: 2017-09-02 00:00:00 +0000
-layout: post
-tag: []
-fontes: https://super.abril.com.br/cultura/quanto-ganham-atores-de-game-of-thrones-e-de-outras-series-de-tv/
+date: 2017-09-02 23:48:20 +0200
 description: ''
+fontes: https://super.abril.com.br/cultura/quanto-ganham-atores-de-game-of-thrones-e-de-outras-series-de-tv/
+image: "/forestryio/images/o63dz51jwwo6.jpg"
+layout: post
 picture: ''
+tag: []
+tags: []
+title: Quanto ganham atores de Game of Thrones e de outras séries de TV
 ---
 
 
