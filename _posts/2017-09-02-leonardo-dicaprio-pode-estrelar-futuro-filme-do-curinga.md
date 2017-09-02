@@ -1,7 +1,7 @@
 ---
 author: zinenda
 categories:
-- Noticias
+- Cinema
 - Rumores
 date: 2017-09-01 00:00:00 +0000
 image: "/forestryio/images/b316fcee-c415-4e78-89eb-f4b2c9cc327b.jpg"
