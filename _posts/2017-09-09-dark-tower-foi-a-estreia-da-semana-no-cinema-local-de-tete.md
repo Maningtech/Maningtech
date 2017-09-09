@@ -18,7 +18,7 @@ Para quem não sabia, a província de Tete é a única, excepto a capital Maputo
 
 Nesta semana não foi diferente, na Quinta-Feira que calhou no dia 7 de Setembro, dia dos Acordos Lusaka, o Cine Aniz teve o prazer de estrear um dos filmes recém lançado no mundo: [Dark Tower](https://g.co/kgs/KVdChk), ou A Torre Negra.
 
-## Sipnose
+## Sinopse
 
 ## Avaliação
 
