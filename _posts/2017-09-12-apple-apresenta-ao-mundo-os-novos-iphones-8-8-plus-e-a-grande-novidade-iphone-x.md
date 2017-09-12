@@ -21,9 +21,10 @@ Confira abaixo alguns Videos Introdutórios dos novos Smartphones da Apple
 
 <iframe src="https://www.youtube.com/embed/K4wEI5zhHB0" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
-<span style="font-size: 1rem;">Brevemente encontre a Análise completa de cada um dos dispositivo</span><span style="font-size: 1rem;"></span>
-<span style="font-size: 1rem;"></span><span style="font-size: 1rem;"></span>
+<span style="font-size: 1rem;">Brevemente encontre a Análise completa de cada um dos dispositivo</span>
 
-Como apontavam os rumores, a Apple vai usar o padrão Qi em seu sistema de recarga wireless, com direito a parceria com algumas companhias para a produção de bases de recarga. A novidade é bem interessante, pois cria mais opções para quem procura mais praticidade para manter o aparelho carregado.<span style="font-size: 1rem;"><br></span>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/UL3K5QJKOLg" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+
+Como apontavam os rumores, a Apple vai usar o padrão Qi em seu sistema de recarga wireless, com direito a parceria com algumas companhias para a produção de bases de recarga. A novidade é bem interessante, pois cria mais opções para quem procura mais praticidade para manter o aparelho carregado.
 
 Fique Ligado...
