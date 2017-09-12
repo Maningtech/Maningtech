@@ -1,16 +1,16 @@
 ---
-title: Ao Vivo! Assista o Evento da Apple - Lançamnto dos novos iPhones
-image: "/forestryio/images/10-anos-desde-a-existencia-do-iPhone.png"
 author: nadeem
 categories:
 - Noticias
-tags: []
-date: 2017-09-12 00:00:00 +0000
-layout: post
-tag: []
+date: 2017-09-12 19:36:10 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/10-anos-desde-a-existencia-do-iPhone.png"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Ao Vivo! Assista o Evento da Apple - Lançamento dos novos iPhones
 ---
 
 
