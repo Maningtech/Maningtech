@@ -82,11 +82,17 @@ A grande Novidade no evento da Apple, foi o iPhone X. Desde 2014, a Maçã não
 ### **Especificações iPhone X**
 
 * Tela AMOLED de 5,8 polegadas
+
 * Resolução de 2.436 x 1.125 pixels, cerca de 462 pixels por polegada
+
 * 3 GB de RAM, assim como no iPhone 7 Plus
+
 * 64 GB, 256 GB ou 512 GB de memória para o armazenamento interno, sem expansão via cartão microSD
+
 * Chipset Apple A11 rodando em até 2,5 GHz (possivelmente com seis núcleos, dois potentes e quatro eficientes)
+
 * Câmeras de 12 MP com estabilização óptica de imagem (dupla, alinhadas de modo vertical, ao contrário dos iPhones atuais)
+
 * Cores disponíveis: preto, prateado e dourado
 
 *Say Hello to the Future (Diga Ola para o futuro.)*
@@ -97,3 +103,6 @@ Meu Deus, sem comentários, de facto a Apple quebrou os Recordes. Não só na be
 
 Tanto o iPhone 8 quanto o iPhone 8 Plus serão vendidos nas cores dourado, preto, prateado, cinza espacial e rosa dourado. Eles estarão disponíveis em versões com 64 GB e 256 GB de armazenamento interno, com preços a partir de US$ 699 - 44.000,00mts (iPhone 8) e US$ 799 - 50.000,00mts (iPhone 8 Plus). A pré-venda começa em 15 de setembro e os dispositivos chegarão às prateleiras a partir da semana seguinte, no dia 22 de setembro. Quanto a Moçambique devemos ter muita calma e aguardar até finais deste ano, as revendedoras Autorizadas trarão a Novidade pra nos.
 
+Quanto ao iPhone X a Apple terá apenas três cores para esse modelo no mercado: preto, prata e dourado. O preço do modelo desbloqueado mais básico nos EUA é US$ 999 (63.000,00mts sem impostos), e o mais caro sairá por US$ 1.149 (70.000,00mts) . Por lá, a pré-venda se inicia em 27 de outubro, e as vendas de fato ficam para 3 de novembro. Infelizmente, ainda não temos informações sobre a chegada desse produto em Moçambique. Seja como for, a Maçã Envenenada deve trazê-lo para cá antes das vendas de Fim do Ano.
+
+Fique ligado para mais novidades dos dispositivos da Apple.
