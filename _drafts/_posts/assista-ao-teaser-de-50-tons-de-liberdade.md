@@ -18,6 +18,8 @@ Leio correctamente e viu muito bem, Cinquenta Tons de Liberdade, o 3º e último
 
 ## Sinopse
 
+Após os eventos de Fifty Shades Darker, Christian e Ana agora são casados. No entanto, a vida de Ana é ameaçada quando seu ex-chefe, Jack Hyde, jura vingança por ser demitido da SIP. Elena também retorna para assombrar Christian e torna a vida do casal muito mais problemática.
+
 ## Teaser
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/QiWN_Y5dl5g" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
