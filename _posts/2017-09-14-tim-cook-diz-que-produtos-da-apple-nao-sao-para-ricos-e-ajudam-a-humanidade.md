@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - Noticias
 tags: []
-date: 2017-09-14 10:37:23 +0200
+date: 2017-09-14 10:44:23 +0200
 layout: post
 tag: []
 description: ''
@@ -28,7 +28,7 @@ A fala veio em tréplica a uma provocação do jornalista [Adam Lashinsky](http:
 
 É de referir que estes preços são baixos lá nos E.U.A , mas para quem vive em Moçambique o preço muda de acordo com o Câmbio e os impostos que pagará até ter o dispositivo na mão, razão pela qual os preços dos aparelhos da Apple nas lojas cá em Moçambique são um pouco altos.
 
-Tendo em conta que o salário mínimo federal é de US$ 7,25 a hora, o que equivale a US$ 1.595 (98.890,00mts) por mês para uma jornada de 44 horas semanais. Neste cenário, um iPhone SE, que custa US$ 399 (25.935,00mts), toma cerca de 25% do salário mais baixo do país.
+Tendo em conta que o salário mínimo federal é de US$ 7,25 (449.000,00mts) a hora, o que equivale a US$ 1.595 (98.890,00mts) por mês para uma jornada de 44 horas semanais. Neste cenário, um iPhone SE, que custa US$ 399 (25.935,00mts), toma cerca de 25% do salário mais baixo do país.
 
 Agora em Moçambique o Salário mínimo é uma Lástima, razão pela qual, muita gente acha que aparelhos da Apple são para Ricos.
 
