@@ -1,11 +1,11 @@
 ---
 title: Tim Cook diz que Produtos da Apple não são para ricos e ajudam a humanidade
-image: ''
+image: "/forestryio/images/Tim-cook-1.jpg"
 author: nadeem
 categories:
 - Noticias
 tags: []
-date: 2017-09-14 00:00:00 +0000
+date: 2017-09-14 10:37:23 +0200
 layout: post
 tag: []
 description: ''
@@ -25,3 +25,13 @@ A fala veio em tréplica a uma provocação do jornalista [Adam Lashinsky](http:
 “Nós precificamos nossos produtos com base nos seus valores, e tentamos fazer os melhores produtos. Isso significa que não fazemos simplesmente mercadorias ou atuamos em vários segmentos. Nós não criticamos quem o faz, é um modelo de negócios perfeitamente aceitável. Mas não é o nosso modelo”, comentou [Cook](https://en.wikipedia.org/wiki/Tim_Cook).
 
 “Se você olhar a nossa linha de produtos, você pode comprar hoje um iPad por menos de US$ 300. Você pode comprar um iPhone, dependendo do que você escolhe, por algo em torno desse preço. Ou seja, isso não é para ricos. Obviamente nós não teríamos mais de um bilhão de produtos em nossa base ativa instalada se estivéssemos fazendo produtos só para os ricos porque este é um número enorme, não importa quem está analisando”
+
+É de referir que estes preços são baixos lá nos E.U.A , mas para quem vive em Moçambique o preço muda de acordo com o Câmbio e os impostos que pagará até ter o dispositivo na mão, razão pela qual os preços dos aparelhos da Apple nas lojas cá em Moçambique são um pouco altos.
+
+Tendo em conta que o salário mínimo federal é de US$ 7,25 a hora, o que equivale a US$ 1.595 (98.890,00mts) por mês para uma jornada de 44 horas semanais. Neste cenário, um iPhone SE, que custa US$ 399 (25.935,00mts), toma cerca de 25% do salário mais baixo do país.
+
+Agora em Moçambique o Salário mínimo é uma Lástima, razão pela qual, muita gente acha que aparelhos da Apple são para Ricos.
+
+Fique ligado ao nosso Site para mais Novidades.
+
+Até breve
