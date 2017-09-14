@@ -14,7 +14,7 @@ fontes: ''
 ---
 
 
-Setembro e Outubro são meses das novas temporadas, embora que nem todas, mas isso não impede que mais noticias bombardem por aqui.
+Setembro e Outubro são meses das novas temporadas, embora que nem todas, mas isso não impede que mais noticias bombardearem por aqui.
 
 A CW, estudio norte-americano responsável por várias séries de sucesso por cá, apresentou sua nova contractação para interpretar o vilão da 5ª temporada de *The 100*. William Miller, actor espanhol que interpretará um prisioneiro misterioso chamado Robert McCreary.
 
@@ -23,6 +23,8 @@ Para quem assistiu a *Season 4 Finale*, notou que uma nova nave foi apresentada 
 O vilão é “um antigo membro de um poderoso sindicato do crime, cujos métodos implacáveis e violentos o tornam um formidável antagonista de nossos heróis”.
 
 ## SINOPSE
+
+Por quatro temporadas, os 100 lutaram para sobreviver. Essa luta os despedaçou, os fez ficarem uns contra os outros e tirou a vida de seus amigos mais próximos. A quarta temporada introduziu nossos heróis à dura verdade de que a raça humana estava condenada a enfrentar um inimigo imbatível: os reatores nucleares remanescentes na Terra derreteram e estão incendiando a atmosfera. Nossos heróis tinham muito pouco tempo para se preparar para o pior, com todas as soluções possíveis desaparecendo quase tão rapidamente como eles conseguiram encontra-las. Com literalmente uma contagem regressiva até o fim do mundo, nossos heróis serão forçados a ir para lugares inimagináveis ​​para continuarem vivos – com ou sem os outros. No que sobrou de Praimfaya, eles devem começar de novo, e com a quinta temporada nossos heróis terão que avaliar suas responsabilidades com o novo lugar que eles chamam de lar e para as gerações futuras que irão habitá-lo. Podem eles começarem de novo e comemorar o que restou, ou será que as fraquezas da natureza humana lhes tiraram a sua única chance de se levantar das cinzas?
 
 ## TEMA DA TEMPORADA
 
