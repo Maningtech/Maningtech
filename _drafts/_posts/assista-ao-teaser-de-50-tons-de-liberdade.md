@@ -1,20 +1,20 @@
 ---
-title: Assista ao Teaser de 50 Tons de Liberdade
-image: "/forestryio/images/maxresdefault-6.jpg"
 author: zinenda
 categories:
 - Cinema
-tags: []
-date: 2017-09-14 00:00:00 +0000
-layout: post
-tag: []
+date: 2017-09-16 09:31:04 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/maxresdefault-6.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Assista ao Teaser de 50 Tons de Liberdade
 ---
 
 
-Leio correctamente e viu muito bem, Cinquenta Tons de Liberdade, o 3º e último da trilogia 50 Tons contará com o casamento de Cristian Grey e Anastacia Steele, tornando assim casal Mr & Mrs Grey.
+Novidade da semana: leo correctamente e viu muito bem, Cinquenta Tons de Liberdade, o 3º e último da trilogia 50 Tons contará com o casamento de Cristian Grey e Anastacia Steele, tornando assim casal Mr & Mrs Grey.
 
 ## Sinopse
 
