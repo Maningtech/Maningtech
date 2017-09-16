@@ -1,16 +1,16 @@
 ---
-title: Assista o Video Promo da 3ª temporada de Lúcifer
-image: "/forestryio/images/Lucifer-cast.jpg"
 author: zinenda
 categories:
 - Series
-tags: []
-date: 2017-09-16 17:21:39 +0200
-layout: post
-tag: []
+date: 2017-09-16 08:34:39 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/Lucifer-cast.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Assista o Video Promo da 3ª temporada de Lúcifer
 ---
 
 
