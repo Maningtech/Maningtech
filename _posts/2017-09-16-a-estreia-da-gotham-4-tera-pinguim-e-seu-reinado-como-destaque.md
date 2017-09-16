@@ -1,16 +1,16 @@
 ---
-title: A Estreia da Gotham 4 terá Pinguim e seu reinado como destaque
-image: "/forestryio/images/Gotham-TV-Show-Cast.jpg"
 author: zinenda
 categories:
 - Series
-tags: []
-date: 2017-09-14 00:00:00 +0000
-layout: post
-tag: []
+date: 2017-09-16 09:30:44 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/Gotham-TV-Show-Cast.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: A Estreia da Gotham 4 terá Pinguim e seu reinado como destaque
 ---
 
 
