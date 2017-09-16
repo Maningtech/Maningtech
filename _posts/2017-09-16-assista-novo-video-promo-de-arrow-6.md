@@ -1,16 +1,16 @@
 ---
-title: Assista novo video Promo de Arrow 6
-image: "/forestryio/images/Arrow-4-1280x500.jpg"
 author: zinenda
 categories:
 - Series
-tags: []
-date: 2017-09-14 00:00:00 +0000
-layout: post
-tag: []
+date: 2017-09-16 09:33:32 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/Arrow-4-1280x500.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Assista novo video Promo de Arrow 6
 ---
 
 
