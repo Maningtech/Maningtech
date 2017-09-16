@@ -1,16 +1,16 @@
 ---
-title: Scorpion 4 conta com volta de Mark Collins, o génio rival da Team Scorpion
-image: "/forestryio/images/scorpiondkndf.jpg"
 author: zinenda
 categories:
 - Series
-tags: []
-date: 2017-09-14 00:00:00 +0000
-layout: post
-tag: []
+date: 2017-09-16 09:18:48 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/scorpiondkndf.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Scorpion 4 conta com volta de Mark Collins, o génio rival da Team Scorpion
 ---
 
 
