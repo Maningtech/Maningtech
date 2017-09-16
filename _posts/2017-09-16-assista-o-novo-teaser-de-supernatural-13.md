@@ -1,16 +1,16 @@
 ---
-title: Assista o novo teaser de Supernatural 13
-image: "/forestryio/images/promo325179288.jpg"
 author: zinenda
 categories:
 - Series
-tags: []
-date: 2017-09-14 00:00:00 +0000
-layout: post
-tag: []
+date: 2017-09-16 09:30:54 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/promo325179288.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: Assista o novo teaser de Supernatural 13
 ---
 
 
