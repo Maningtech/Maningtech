@@ -1,16 +1,16 @@
 ---
-title: 5 Novidades que o iOS 11 tem e você deveria conhecer
-image: "/forestryio/images/iOS 11 iPhone.jpg"
 author: nadeem
 categories:
 - Noticias
-tags: []
-date: 2017-09-21 10:53:30 +0200
-layout: post
-tag: []
+date: 2017-09-21 11:18:30 +0200
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/iOS-11-main.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: 5 Novidades que o iOS 11 tem e você deveria conhecer
 ---
 
 
