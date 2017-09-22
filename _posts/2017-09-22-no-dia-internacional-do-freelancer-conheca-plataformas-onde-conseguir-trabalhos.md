@@ -20,8 +20,7 @@ Atualmente, o freelancer conta com a tecnologia para impulsionar sua atividade, 
 
 ### **Conheça, portanto, plataformas que ajudam o freelancer a alcançar seus objetivos:**
 
-**[Freelancer.com](https://www.freelancer.com/?t=a&utm_expid=294858-552.eUevUWsPRlyvMhcmmK5wmw.1&utm_referrer=https%3A%2F%2Fcanaltech.com.br%2Finternet%2Fno-dia-internacional-do-freelancer-conheca-plataformas-onde-conseguir-trabalhos%2F)
-**
+**[Freelancer.com](https://www.freelancer.com/?t=a&utm_expid=294858-552.eUevUWsPRlyvMhcmmK5wmw.1&utm_referrer=https%3A%2F%2Fcanaltech.com.br%2Finternet%2Fno-dia-internacional-do-freelancer-conheca-plataformas-onde-conseguir-trabalhos%2F)**
 
 ![](/forestryio/images/187310.401798-Freelancercom.jpg)
 
