@@ -1,15 +1,15 @@
 ---
-title: O Google define o iPhone com o HTC
-image: "/forestryio/images/pixel-4-2-1220x686.jpg"
 author: nadeem
 categories: []
-tags: []
 date: 2017-09-22 10:25:35 +0200
-layout: post
-tag: []
 description: ''
-picture: ''
 fontes: ''
+image: "/forestryio/images/pixel-4-2-1220x686.jpg"
+layout: post
+picture: ''
+tag: []
+tags: []
+title: O Google desafia o iPhone com o HTC
 ---
 
 
