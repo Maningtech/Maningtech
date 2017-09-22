@@ -20,7 +20,7 @@ O mesmo não se passa com os atalhos para o Wi-Fi e Bluetooth que, mesmo desliga
 
 Numa primeira análise poderíamos estar a falar de um bug no iOS 11 (eles vão aparecer)…mas parece que não. Basicamente quando acedemos à Central de Controlo para desligar o Wi-fi ou Bluetooth as interfaces de comunicação mantêm-se a funcionar como mostra o vídeo seguinte que criado pelo site Motherboard.
 
-src="https://www.youtube.com/embed/zgfpIMXEyXU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgfpIMXEyXU" frameborder="0" allowfullscreen></iframe>
 
 ### **Afinal para que servem os atalhos do Wi-Fi e Bluetooth?**
 
@@ -29,4 +29,3 @@ src="https://www.youtube.com/embed/zgfpIMXEyXU" frameborder="0" allowfullscreen>
 No entanto, as interfaces de comunicação continuam ativas para que o iPhone possa usar o AirDrop, AirPlay, Apple Pencil, comunicar com o Apple Watch, usar os serviços de localização, entre outras funcionalidades.
 
 Fique Ligado
-
