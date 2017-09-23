@@ -1,16 +1,16 @@
 ---
-title: Ferrari apresenta novo modelo de entrada
-image: "/forestryio/images/170578-ferrari-portofino-1.jpg"
 author: nadeem
 categories:
 - Auto
-tags: []
-date: 2017-09-19 00:00:00 +0000
-layout: post
-tag: []
-fontes: https://autopapo.com.br/noticia/ferrari-portofino-lancamento/
+date: 2017-09-23 21:02:00 +0200
 description: ''
+fontes: https://autopapo.com.br/noticia/ferrari-portofino-lancamento/
+image: "/forestryio/images/170578-ferrari-portofino-1.jpg"
+layout: post
 picture: ''
+tag: []
+tags: []
+title: Ferrari apresenta novo modelo de entrada
 ---
 
 
