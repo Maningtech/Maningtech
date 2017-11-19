@@ -16,9 +16,9 @@ Na minha infância, animações como, Os Incríveis, Liga da Justiça, Os Vingad
 
 Mas uma novidade tivemos essa semana, grande novidade de facto, porque 13 anos depois, a Incrível Família terá uma continuação.
 
-A Disney Pixar lançou um teaser e data de lançamento, assista: 
+A Disney Pixar lançou um teaser e data de lançamento, assista:
 
-<iframe width="360" height="203" src="[https://www.youtube.com/embed/IwS8puJXQao](https://www.youtube.com/embed/IwS8puJXQao "https://www.youtube.com/embed/IwS8puJXQao")" frameborder="0" gesture="media" allowfullscreen></iframe>
+[IwS8puJXQao](https://youtu.be/IwS8puJXQao "IwS8puJXQao")
 
 Foi revelado pela Pixar que **Os Incríveis 2 vai começar minutos após o final do primeiro filme**, quando a família finalmente descobre que Zezé possui diversos poderes.
 
