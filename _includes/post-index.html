@@ -1,83 +1,27 @@
 <section class="section">
     <section class="container">
         <section class="row">
-            <div class="col s12 l4">
+            <div class="col s12 m6 l4">
                 {% include infeed_ad.html %}
             </div>
             {% if page.title == "Destaques" %}
                 {% for post in paginator.posts %}
-                    <div class="col s12 l4">
-                        <div class="card medium hoverable">
-                            <div class="card-image">
-                                <a href="{{ post.url }}" title="{{ post.title }}">
-                                    <img src="{{ post.image }}" alt="{ post.title {}}">
-                                </a>
-                            </div>
-                            <div class="card-content center">
-                                <span class="card-title center">{{ post.title }}</span>
-                            </div>
-                            <div class="card-action center">
-                                <a href="{{ post.url }}" title="{{ post.title }}" class="btn-flat waves-effect waves-teal">Leia Mais</a>
-                            </div>
-                        </div>
-                    </div>
+                    {% include cards-loop.html %}
                 {% endfor %}
 
                 {% elsif page.title == "Noticias" %}
                     {% for post in site.categories.Noticias limit: 11 %}
-                        <div class="col s12 l4">
-                            <div class="card medium hoverable">
-                                <div class="card-image">
-                                    <a href="{{ post.url }}" title="{{ post.title }}">
-                                        <img src="{{ post.image }}" alt="{ post.title {}}">
-                                    </a>
-                                </div>
-                                <div class="card-content center">
-                                    <span class="card-title center">{{ post.title }}</span>
-                                </div>
-                                <div class="card-action center">
-                                    <a href="{{ post.url }}" title="{{ post.title }}" class="btn-flat waves-effect waves-teal">Leia Mais</a>
-                                </div>
-                            </div>
-                        </div>
+                        {% include cards-loop.html %}
                     {% endfor %}
 
                 {% elsif page.title == "Dicas" %}
                     {% for post in site.categories.Dicas limit: 11 %}
-                        <div class="col s12 l4">
-                            <div class="card medium hoverable">
-                                <div class="card-image">
-                                    <a href="{{ post.url }}" title="{{ post.title }}">
-                                        <img src="{{ post.image }}" alt="{ post.title {}}">
-                                    </a>
-                                </div>
-                                <div class="card-content center">
-                                    <span class="card-title center">{{ post.title }}</span>
-                                </div>
-                                <div class="card-action center">
-                                    <a href="{{ post.url }}" title="{{ post.title }}" class="btn-flat waves-effect waves-teal">Leia Mais</a>
-                                </div>
-                            </div>
-                        </div>
+                        {% include cards-loop.html %}
                     {% endfor %}
 
                 {% elsif page.title == "Análises" %}
                     {% for post in site.categories.Analises limit: 11 %}
-                        <div class="col s12 l4">
-                            <div class="card medium hoverable">
-                                <div class="card-image">
-                                    <a href="{{ post.url }}" title="{{ post.title }}">
-                                        <img src="{{ post.image }}" alt="{ post.title {}}">
-                                    </a>
-                                </div>
-                                <div class="card-content center">
-                                    <span class="card-title center">{{ post.title }}</span>
-                                </div>
-                                <div class="card-action center">
-                                    <a href="{{ post.url }}" title="{{ post.title }}" class="btn-flat waves-effect waves-teal">Leia Mais</a>
-                                </div>
-                            </div>
-                        </div>
+                        {% include cards-loop.html %}
                     {% endfor %}
             {% endif %}
         </section>
