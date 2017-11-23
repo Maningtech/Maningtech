@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - Noticias
 tags: []
-date: 2017-09-01 02:00:00 +0200
+date: 2017-09-01 00:00:00 +0000
 layout: post
 tag: []
 fontes: http://www.cmjornal.pt/tecnologia/detalhe/apple-mostra-iphone-8-a-12-de-setembro

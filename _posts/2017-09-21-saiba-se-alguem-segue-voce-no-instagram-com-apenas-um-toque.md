@@ -5,7 +5,7 @@ author: nadeem
 categories:
 - Dicas
 tags: []
-date: 2017-09-21 10:40:27 +0200
+date: 2017-09-21 08:40:27 +0000
 layout: post
 tag: []
 description: ''

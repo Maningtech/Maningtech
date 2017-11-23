@@ -2,7 +2,7 @@
 author: zinenda
 categories:
 - Curiosidades
-date: 2017-09-01 10:00:00 +0200
+date: 2017-09-01 08:00:00 +0000
 description: ''
 fontes: ''
 image: "/forestryio/images/IFA-2017.jpg"

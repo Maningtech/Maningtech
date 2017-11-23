@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Noticias
-date: 2017-09-21 11:18:30 +0200
+date: 2017-09-21 09:18:30 +0000
 description: ''
 fontes: ''
 image: "/forestryio/images/iOS-11-main.jpg"

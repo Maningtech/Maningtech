@@ -2,7 +2,7 @@
 author: zinenda
 categories:
 - Series
-date: 2017-09-16 08:34:39 +0200
+date: 2017-09-16 06:34:39 +0000
 description: ''
 fontes: ''
 image: "/forestryio/images/Lucifer-cast.jpg"

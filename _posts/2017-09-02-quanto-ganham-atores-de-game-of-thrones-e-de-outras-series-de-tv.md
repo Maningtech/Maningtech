@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Noticias
-date: 2017-09-02 23:48:20 +0200
+date: 2017-09-02 21:48:20 +0000
 description: ''
 fontes: https://super.abril.com.br/cultura/quanto-ganham-atores-de-game-of-thrones-e-de-outras-series-de-tv/
 image: "/forestryio/images/o63dz51jwwo6.jpg"

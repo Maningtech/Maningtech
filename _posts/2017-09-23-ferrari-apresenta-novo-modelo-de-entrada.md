@@ -2,7 +2,7 @@
 author: nadeem
 categories:
 - Auto
-date: 2017-09-23 21:02:00 +0200
+date: 2017-09-23 19:02:00 +0000
 description: ''
 fontes: https://autopapo.com.br/noticia/ferrari-portofino-lancamento/
 image: "/forestryio/images/170578-ferrari-portofino-1.jpg"
