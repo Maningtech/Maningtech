@@ -1,11 +1,11 @@
 ---
-title: iPhone 8 será lançado este ano
+title: "[Atualização] Confirmado! iPhone 8 será lançado este ano"
 image: "/forestryio/images/img_iPhone-8.png"
 author: nadeem
 categories:
 - Noticias
 tags: []
-date: 2017-08-29 00:00:00 +0000
+date: 2017-09-01 02:00:00 +0200
 layout: post
 tag: []
 fontes: http://www.cmjornal.pt/tecnologia/detalhe/apple-mostra-iphone-8-a-12-de-setembro
@@ -13,6 +13,18 @@ description: ''
 picture: ''
 ---
 
+
+## Atualização
+
+A companhia de Cupertino já começou a enviar os convites a imprensa para um evento que será realizado no dia 12 de Setembro, confirmando assim os rumores.
+
+Evento esse que será realizado na Apple Park as 10h do horário dos Estados Unidos.
+
+No convite enviado a imprensa tem os seguintes dizeres:  “*Let’s meet at our place*”, traduzindo: Vamos reunir-nos na nossa casa.
+
+O evento deste ano não será apenas mais um evento anual, mas sim, o marco de uma década desde o lançamento do 1º iPhone em 2007. Uma década de inovações marcadas não só pela Apple, mas sim pela industria toda.
+
+## O que esperar
 
 A Apple vai apresentar o iPhone 8 em evento agendado para dia 12 de Setembro de 2017 de acordo com o “Wall Street Journal”.
 
