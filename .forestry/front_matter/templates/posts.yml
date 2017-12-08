@@ -254,9 +254,10 @@ fields:
   hidden: false
 - name: author
   default: ''
-  label: Author
+  label: Autor
   type: text
   hidden: false
+  description: Nome do escritor do  artigo
 - name: image
   default: ''
   label: Image
