@@ -258,13 +258,28 @@ fields:
   type: text
   hidden: false
   description: Nome do escritor do  artigo
-- name: image
-  default: ''
-  label: Image
-  type: file
-  hidden: false
 - name: categories
   default: []
-  label: Categories
+  label: Categorias
   type: list
   hidden: false
+  description: Categoria do artigo
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Noticias
+    - Rumores
+    - Analises
+    - Dicas
+    - Series
+    - Cinema
+- name: image
+  default: ''
+  label: Imagem
+  type: file
+  hidden: false
+  description: Imagem principal do artigo
+  config:
+    maxSize: '1'
