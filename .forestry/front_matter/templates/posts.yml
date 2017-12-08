@@ -252,12 +252,6 @@ fields:
   label: Layout
   type: text
   hidden: false
-- name: author
-  default: ''
-  label: Autor
-  type: text
-  hidden: false
-  description: Nome do escritor do  artigo
 - name: categories
   default: []
   label: Categorias
@@ -275,6 +269,16 @@ fields:
     - Dicas
     - Series
     - Cinema
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+    options:
+    - zinenda
+    - nadeem
+  label: Autor
+  description: Nome do escritor
 - name: image
   default: ''
   label: Imagem
