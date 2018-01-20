@@ -1,51 +1,55 @@
-# Jekyll Config file
-
 title: ManingTech
-description: Moçambique TechConectado
-email: info@izitag.site
-image: /assets/img/brand/logotipo.svg
+email: info@dreamdressnoiva.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Moçambique TechConectado
+url: "https://maning.tech"
 
-twitter:
-    username: maning_tech
-facebook:
-    app_id: 1034422419934923
-    publisher: maningtech
-    admins: maningtech
-logo: /assets/img/brand/logotipo.svg
-social:
-    name: maningtech
-    links:
-google_analytics_code: UA-73721868-1 # replace with the your analytics code
-
-author: Ivo Zinenda
-
-# Build Settings
+# Build settings
 markdown: kramdown
-paginate: 8
-paginate_path: /page:num/
 permalink: pretty
 
-plugins: 
-    - jekyll-sitemap
-    - jekyll-seo-tag
-    - jekyll-paginate
-    - jekyll-feed
+plugins:
+  - jekyll-email-protect 
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-analytics
+  - jekyll-feed
 
-# Assets
-sass:
-    sass_dir: assets/_sass
-    style: compressed
-
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 exclude:
-    - vendor
-    - Gemfile
-    - Gemfile.lock
-    - README.md
-    - LICENSE
-    - CNAME
-    - bower_components
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - bower_components
 
-compress_html:
-  clippings: all
-  endings: all
-comments: ["<!--", "-->"]
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+image: /assets/img/logotipo.jpeg
+
+pagination:
+  enabled: true
+  per_page: 15
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
+
+image:
+logo: /assets/img/brand/logotipo.svg
+color: "#009688"
+
+jekyll_analytics: 
+  GoogleAnalytics:
+    id: 
+    anonymizeIp: false

@@ -1,0 +1,12 @@
+{% for item in site.data.social %}
+    <li>
+        <a 
+            href="{{ item.link }}" 
+            class="btn-floating btn-large waves-effect waves-circle waves-light tooltipped" 
+            data-position="top" 
+            data-delay="50" 
+            data-tooltip="{{ item.title }}">
+            <i class="fab fa-{{ item.icon }}"></i>
+        </a>
+    </li>
+{% endfor %}

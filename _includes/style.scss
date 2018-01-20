@@ -6,7 +6,7 @@ body {
     -ms-flex-direction: column;
     flex-direction: column;
     font: {
-        family: 'Ubuntu', sans-serif;
+        family: 'Ubuntu Mono', monospace;
         size: 100%;
     }
     overflow-x: hidden;
@@ -39,7 +39,6 @@ footer {
 }
 
 @import
-    "variables",
     "animate-bottom",
     "materialize/materialize"
 ;

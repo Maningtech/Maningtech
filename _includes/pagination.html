@@ -1,41 +1,25 @@
-<div class="container">
-    <div class="container">
-        <div class="center">
-            <div class="row">
-                {% if page.title == "Destaques" %}
-                    <div class="pagination">
-                        {% if paginator.previous_page %}
-                        <a href="{{ paginator.previous_page_path }}" class="previous btn-large btn-floating waves-effect waves-light">
-                            <i class="fa fa-2x fa-chevron-left"></i>
-                        </a>
-                        {% else %}
-                        <span class="previous">Anterior</span>
-                        {% endif %}
-                        <span class="page_number ">Pag.: {{ paginator.page }} de {{ paginator.total_pages }}</span>
-                        {% if paginator.next_page %}
-                        <a href="{{ paginator.next_page_path }}" class="next btn-large btn-floating waves-effect waves-light">
-                                <i class="fa fa-2x fa-chevron-right"></i>
-                        </a>
-                        {% else %}
-                        <span class="next ">Próximo</span>
-                        {% endif %}
-                    </div>
-                {% endif %}
+<div class="center">
+    <ul class="pagination">
+        {% if paginator.total_pages > 1 %}
+            {% if paginator.previous_page %}
+                <li>
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+                </li>
+            {% endif %}
+        {% endif %}
 
-                {% if page.layout == "post" %}
-                    {% if page.previous.url %}
-                        <a href="{{ page.previous.url }}" class="btn-large btn-floating waves-effect waves-light">
-                            <i class="fa fa-2x fa-chevron-left"></i>
-                        </a>
-                    {% endif %}
-                            
-                    {% if page.next.url %}
-                        <a href="{{ page.next.url }}" class="btn-large btn-floating waves-effect waves-light">
-                            <i class="fa fa-2x fa-chevron-right"></i>
-                        </a>
-                    {% endif %}
-                {% endif %}
-            </div>
-        </div>
-    </div>
+        {% if paginator.page_trail %}
+            {% for trail in paginator.page_trail %}
+                <li {% if page.url == trail.path %}class="active"{% endif %}>
+                    <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+                </li>
+            {% endfor %}
+        {% endif %}
+
+        {% if paginator.next_page %}
+            <li>
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+            </li>
+        {% endif %}
+    </ul>
 </div>

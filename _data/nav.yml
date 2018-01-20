@@ -1,9 +1,14 @@
----
-- link: "/noticias/"
-  title: Notícias
-- link: "/dicas/"
+- link: /noticias
+  title: Noticias
+
+- link: /cinema
+  title: Cinema
+
+- link: /seriados
+  title: Seriados
+
+- link: /dicas
   title: Dicas
-- link: "/analises/"
+
+- link: /analises
   title: Análises
-- link: "#sobre"
-  title: Sobre

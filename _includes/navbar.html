@@ -1,18 +1,17 @@
 <div class="navbar-fixed">
-    <nav class="nav-wrapper">
-        <div class="container">
+    <nav>
+        <div class="nav-wrapper">
             <a href="/" title="{{ site.title }}" class="brand-logo">{{ site.title }}</a>
-            <a href="#" data-activates="sidenav" class="button-collapse"><i class="fa fa-2x fa-bars" aria-hidden="true"></i></a>
+            <a href="#" class="sidenav-trigger" data-target="sideNav">
+                <i class="fas fa-bars"></i>
+            </a>
 
             <ul class="right hide-on-med-and-down">
                 {% include nav.html %}
+                <li>
+                    {% include navbar-form.html %}
+                </li>
             </ul>
         </div>
     </nav>
 </div>
-{% include navbar-form.html %}
-<aside>
-    <ul class="side-nav" id="sidenav">
-        {% include nav.html %}
-    </ul>
-</aside>

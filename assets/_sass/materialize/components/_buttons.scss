@@ -43,11 +43,11 @@
 .btn-floating,
 .btn-large,
 .btn-flat {
-
+  font-size: $button-font-size;
   outline: 0;
 
   i {
-    font-size: $button-font-size;
+    font-size: $button-icon-font-size;
     line-height: inherit;
   }
 }
@@ -68,7 +68,7 @@
   text-align: center;
   letter-spacing: .5px;
   @extend .z-depth-1;
-  transition: .2s ease-out;
+  transition: background-color .2s ease-out;
   cursor: pointer;
 
   &:hover {
@@ -79,6 +79,38 @@
 
 // Floating button
 .btn-floating {
+  &:hover {
+    background-color: $button-floating-background-hover;
+    @extend .z-depth-1-half;
+  }
+
+  &:before {
+    border-radius: 0;
+  }
+
+  &.btn-large {
+    &.halfway-fab {
+      bottom: -$button-floating-large-size / 2;
+    }
+
+    width: $button-floating-large-size;
+    height: $button-floating-large-size;
+    i {
+      line-height: $button-floating-large-size;
+    }
+  }
+
+  &.halfway-fab {
+    &.left {
+      right: auto;
+      left: 24px;
+    }
+
+    position: absolute;
+    right: 24px;
+    bottom: -$button-floating-size / 2;
+  }
+
   display: inline-block;
   color: $button-floating-color;
   position: relative;
@@ -91,7 +123,7 @@
   background-color: $button-floating-background;
   border-radius: $button-floating-radius;
   @extend .z-depth-1;
-  transition: .3s;
+  transition: background-color .3s;
   cursor: pointer;
   vertical-align: middle;
 
@@ -102,23 +134,6 @@
     color: $button-floating-color;
     font-size: $button-large-icon-font-size;
     line-height: $button-floating-size;
-  }
-
-  &:hover {
-    background-color: $button-floating-background-hover;
-    @extend .z-depth-1-half;
-  }
-
-  &:before {
-    border-radius: 0;
-  }
-
-  &.btn-large {
-    width: $button-floating-large-size;
-    height: $button-floating-large-size;
-    i {
-      line-height: $button-floating-large-size;
-    }
   }
 }
 
@@ -135,7 +150,9 @@ button.btn-floating {
     }
   }
 
-  &.horizontal {
+  // Directions
+  &.direction-left,
+  &.direction-right {
     padding: 0 0 0 15px;
 
     ul {
@@ -149,7 +166,37 @@ button.btn-floating {
 
       li {
         display: inline-block;
-        margin: 15px 15px 0 0;
+        margin: 7.5px 15px 0 0;
+      }
+    }
+  }
+
+  &.direction-right {
+    padding: 0 15px 0 0;
+
+    ul {
+      text-align: left;
+      direction: rtl;
+      left: 64px;
+      right: auto;
+
+      li {
+        margin: 7.5px 0 0 15px;
+      }
+    }
+  }
+
+  &.direction-bottom {
+    padding: 0 0 15px 0;
+
+    ul {
+      top: 64px;
+      bottom: auto;
+      display: flex;
+      flex-direction: column-reverse;
+
+      li {
+        margin: 15px 0 0 0;
       }
     }
   }
@@ -168,6 +215,7 @@ button.btn-floating {
       display: flex;
       top: 0;
       bottom: 0;
+      z-index: 1;
 
       li {
         flex: 1;
@@ -201,7 +249,7 @@ button.btn-floating {
   bottom: 23px;
   padding-top: 15px;
   margin-bottom: 0;
-  z-index: 998;
+  z-index: 997;
 
   ul {
     left: 0;
@@ -243,18 +291,12 @@ button.btn-floating {
   transition: background-color .2s;
 
   &:focus,
-  &:active {
-    background-color: transparent;
-  }
-
-  &:focus,
   &:hover {
-    background-color: rgba(0,0,0,.1);
     box-shadow: none;
   }
 
-  &:active {
-    background-color: rgba(0,0,0,.2);
+  &:focus {
+    background-color: rgba(0,0,0,.1);
   }
 
   &.disabled {

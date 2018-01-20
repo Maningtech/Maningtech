@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-bower_components
+bower_components/
 Gemfile.lock
-vendor
+vendor/
+node_modules

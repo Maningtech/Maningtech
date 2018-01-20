@@ -1,0 +1,12 @@
+{
+  "name": "ManingTech",
+  "version": "3.5",
+  "description": "Moçambique TechConectado",
+  "main": "index.js",
+  "repository": "https://github.com/maningtech/maningtech.github.io.git",
+  "author": "Ivo Zinenda <izinenda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "materialize-css": "next"
+  }
+}
