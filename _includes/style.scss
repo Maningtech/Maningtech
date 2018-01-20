@@ -38,6 +38,20 @@ footer {
     }
 }
 
+.cartao {
+    position: relative;
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px -2px #444;
+    
+    .center-title {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
 @import
     "animate-bottom",
     "materialize/materialize"
