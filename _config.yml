@@ -13,7 +13,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-analytics
+  #- jekyll-analytics
   - jekyll-feed
 
 # Exclude from processing.
@@ -49,7 +49,7 @@ image:
 logo: /assets/img/brand/logotipo.svg
 color: "#009688"
 
-jekyll_analytics: 
-  GoogleAnalytics:
-    id: 
-    anonymizeIp: false
+#jekyll_analytics: 
+#  GoogleAnalytics:
+#    id: UA-73721868-1
+#    anonymizeIp: false
