@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<section class="section">
+    <section class="container">
+        <section id="masonry-grid" class="row">
+            {% for post in paginator.posts %}
+                {% include grid-loop.html %}
+            {% endfor %}
+        </section>
+
+        {% include pagination.html %}
+    </section>
+</section>
