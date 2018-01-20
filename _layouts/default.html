@@ -1,0 +1,25 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="pt">
+    {% include head.html %}
+    <body class="grey lighten-4">
+        {% include navbar.html %}
+        {% include sidenav.html %}
+
+        <main class="animate-bottom">
+            {% unless page.layout == "post" %}
+                {% include header.html %}
+            {% endunless %}
+
+            <section class="section">
+                {{ content }}
+            </section>
+
+            {% include footer.html %}
+            {% include scripts.html %}
+        </main>
+    </body>
+</html>
