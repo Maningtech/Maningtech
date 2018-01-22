@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  accept_roles:
+    - admin
+    - editor
+  branch: master 
+
+media_folder: "assets/img/uploads"
+
+collections:
+  - label: "Posts"
+    name: "posts"
+    folder: _posts
+    create: true
+    fields:
+      - {label: "Titulo", name: "title", widget: "string"}
+      - {label: "Data", name: "date", widget: "datetime"}
+      - {label: "Imagem", name: "image", widget: "image"}
+      - label: "Categorias"
+        name: "category"
+        widget: "select"
+        fields: ["Noticias", "Cinema", "Series", "Dicas", "Analises", "Automoveis"]
+      - {label: "Layout", name: "layout", default: "post", widget: "hidden"}
+      - {label: "Corpo", name: "body", widget: "markdown"}
