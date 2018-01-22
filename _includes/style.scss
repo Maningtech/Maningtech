@@ -6,7 +6,7 @@ body {
     -ms-flex-direction: column;
     flex-direction: column;
     font: {
-        family: 'Ubuntu Mono', monospace;
+        family: 'Ubuntu', sans-serif;
         size: 100%;
     }
     overflow-x: hidden;
@@ -36,13 +36,30 @@ footer {
     h1, h2, h3, h4, h5, h6 {
         text-align: center;
     }
+
+    p {
+        text-align: justify;
+    }
+}
+
+.page-header {
+    position: relative;
+    height: 20vh;
+    
+    .page-title {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        text-shadow: 2px -2px #444;
+    }
+
 }
 
 .cartao {
     position: relative;
     text-align: center;
-    color: #fff;
-    text-shadow: 2px -2px #444;
     
     .center-title {
         position: absolute;

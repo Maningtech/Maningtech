@@ -1,6 +1,6 @@
 ---
 title: Incríveis 2 ganha teaser
-image: "/forestryio/images/Hyppers-Os-Incríveis-2-Adiantado.jpg"
+image: "/forestryio/images/incriveis2.jpg"
 author: zinenda
 categories:
 - Cinema

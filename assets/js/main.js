@@ -3,6 +3,7 @@ $(document).ready(function(){
     $(".dropdown-trigger").dropdown({
         constrainWidth: false,
     });
+    $('.parallax').parallax();
     $('.slider').slider();
     // Pause slider
     $('.slider').slider('pause');

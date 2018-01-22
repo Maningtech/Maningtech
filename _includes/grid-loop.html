@@ -8,13 +8,15 @@
 
         <div class="card-content">
             <span class="card-title">
-                <a href="{{ post.url }}" class="grey-text text-darken-4">
-                    {{ post.title }}
+                <a href="{{ post.url }}">
+                    <strong>
+                        {{ post.title }}
+                    </strong>
                 </a>
             </span>
             <hr>
             <a href="{{ post.url }}" class="grey-text text-darken-4">
-                {{ post.content | truncate_words: 50 }}
+                {{ post.content | truncatewords: 20 }}
             </a>
         </div>
     </article>
