@@ -4,6 +4,9 @@ $(document).ready(function(){
         constrainWidth: false,
     });
     $('.parallax').parallax();
+    $('.fixed-action-btn').floatingActionButton({
+        direction: 'left'
+    });
     $('.slider').slider();
     // Pause slider
     $('.slider').slider('pause');
