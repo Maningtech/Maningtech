@@ -13,8 +13,13 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  #- jekyll-analytics
+  - jekyll-analytics
   - jekyll-feed
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-73721868-1       # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -48,8 +53,3 @@ pagination:
 image:
 logo: /assets/img/brand/logotipo.svg
 color: "#009688"
-
-#jekyll_analytics: 
-#  GoogleAnalytics:
-#    id: UA-73721868-1
-#    anonymizeIp: false
