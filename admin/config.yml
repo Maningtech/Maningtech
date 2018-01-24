@@ -19,6 +19,10 @@ collections:
       - label: "Categorias"
         name: "category"
         widget: "select"
-        fields: ["Noticias", "Cinema", "Series", "Dicas", "Analises", "Automoveis"]
+        options: ["Noticias", "Cinema", "Series", "Dicas", "Analises", "Automoveis"]
+      - label: "Autor"
+        name: "author"
+        widget: "select"
+        option: ["nadeem", "zinenda"]
       - {label: "Layout", name: "layout", default: "post", widget: "hidden"}
       - {label: "Corpo", name: "body", widget: "markdown"}

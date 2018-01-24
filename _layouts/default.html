@@ -5,14 +5,14 @@ layout: compress
 <!DOCTYPE html>
 <html lang="pt">
     {% include head.html %}
-    <body class="grey lighten-4">
+    <body id="top" class="grey lighten-4">
         {% include navbar.html %}
         {% include sidenav.html %}
 
         <main class="animate-bottom">
             {{ content }}
         </main>
-
+        {% include fab.html %}
         {% include footer.html %}
         {% include scripts.html %}
     </body>

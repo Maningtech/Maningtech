@@ -14,33 +14,57 @@ layout: default
     <h4 title="{{ page.title }}">{{ page.title }}</h4>
 </header>
 <hr>
+{% include in_article_ad.html %}
+<hr>
 
 <section class="section">
     <div class="row">
         <article class="blog col s12 m8 white">
             <div class="container">
                 {{ content }}
+
+                {% assign author = site.data.authors[page.author] %}
+                <em>Escrito por: <a href="{{ author.facebook }}" rel="author">{{ author.name }}</a></em>
+            </div>
+
+            <div class="center">
+                {% if page.previous.url %}
+                    <a href="{{ page.previous.url }}" class="btn-large btn-floating waves-effect waves-light">
+                        <i class="fas fa-2x fa-chevron-left"></i>
+                    </a>
+                {% endif %}
+                            
+                {% if page.next.url %}
+                    <a href="{{ page.next.url }}" class="btn-large btn-floating waves-effect waves-light">
+                        <i class="fas fa-2x fa-chevron-right"></i>
+                    </a>
+                {% endif %}
             </div>
         </article>
 
         <section class="col s12 m4">
             <div class="container">
                 <h4 class="center-align">Relacionados</h4><hr>
+                <div class="row">
+                    <div class="col s12">
+                        {% include in_feed_ad.html %}
+                    </div>
+                </div>
                 {% for post in site.related_posts limit: 3 %}
-                    <article class="cartao card hoverable">
+                    <div class="card small hoverable">
                         <div class="card-image">
                             <a href="{{ post.url }}" title="{{ post.title }}">
                                 <img src="{{ post.image }}" alt="{{ post.title }}">
-                                <div class="center-title">
-                                    <h5 style="text-shadow: -2px 2px #fff;">{{ post.title }}</h5>
-                                </div>
                             </a>
                         </div>
-                    </article>
+                        <div class="card-content center">
+                            <a href="{{ post.url }}" title="{{ post.title }}" class="grey-text text-darken-4">
+                                <span class="card-title">{{ post.title }}</span>
+                            </a>
+                        </div>
+                    </div>
                 {% endfor %}
             </div>
         </section>
     </div>
 </section>
-
-{% include fab.html %}
