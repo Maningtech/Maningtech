@@ -1,11 +1,9 @@
 ---
 title: Retrospectiva ManingTech Relembre o que rolou na Tecnologia em 2017
-image: "/forestryio/images/MANINGTECH-RETROSPECTIVE-2017 (1).png"
+date: '2017-12-28 10:45:21 +0200'
+image: /assets/img/uploads/wallpaper.jpg
+category: Noticias
 author: nadeem
-categories:
-- Noticias
-tags: []
-date: 2017-12-28 10:45:21 +0200
 layout: post
 ---
 O Final de Ano chegou e hora de recordar os que marcaram o Ano, E não foram poucas as novidades. Por isso, o compilado abaixo é um resumo, ou seja, deixamos vários acontecimentos de fora. Se você acha que algum feito foi deixado de lado e merece mais atenção, deixe o seu comentário na nossa Fan page do facebook que adicionamos a contribuição.  
