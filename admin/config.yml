@@ -23,6 +23,6 @@ collections:
       - label: "Autor"
         name: "author"
         widget: "select"
-        option: ["nadeem", "zinenda"]
+        options: ["nadeem", "zinenda"]
       - {label: "Layout", name: "layout", default: "post", widget: "hidden"}
       - {label: "Corpo", name: "body", widget: "markdown"}
