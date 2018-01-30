@@ -12,6 +12,7 @@ collections:
     name: "posts"
     folder: _posts
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Titulo", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
