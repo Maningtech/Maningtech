@@ -1,6 +1,6 @@
 ---
 title: Assista em direto o lançamento oficial do Samsung Galaxy S9 e S9+
-date: 2018-02-25T18:55:48+02:00
+date: 2018-02-26T03:00:48+02:00
 image: /assets/img/uploads/samsung-galaxy-s9-invitejpg.jpg
 category: Noticias
 author: nadeem
