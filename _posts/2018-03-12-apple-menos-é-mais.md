@@ -14,15 +14,10 @@ Por isso, a empresa “não precisa” fazer campanhas para fidelizar seus clien
 
 Os aspectos foram divididos em 4 vídeos com 15 segundos cada, veja:
 
-1. \[
-   Ease;
-   ](<<iframe width="560" height="315" src="https://www.youtube.com/embed/i9vx-Cm6EjA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>>)
-2. \[Safe;
-   ](<<iframe width="560" height="315" src="https://www.youtube.com/embed/EmU76dGh8wE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>>)
-3. \[Apple Support;
-   ](<<iframe width="560" height="315" src="https://www.youtube.com/embed/1znDlFzyUpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>>)
-4. \[Environment.
-   ](<<iframe width="560" height="315" src="https://www.youtube.com/embed/IlIr-kxot2M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>>)
+1. Ease;<iframe width="854" height="480" src="https://www.youtube.com/embed/i9vx-Cm6EjA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+2. <iframe width="854" height="480" src="https://www.youtube.com/embed/EmU76dGh8wE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+3. <iframe width="854" height="480" src="https://www.youtube.com/embed/1znDlFzyUpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+4. <iframe width="854" height="480" src="https://www.youtube.com/embed/IlIr-kxot2M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Enfim, a Apple sempre nos surpreendendo, por mais que não seja com os produtos, mas também com a Tecnologia, Marketing, entre outros. Como já diz aquele velho ditado "Quem não é visto, não é lembrado"
 
