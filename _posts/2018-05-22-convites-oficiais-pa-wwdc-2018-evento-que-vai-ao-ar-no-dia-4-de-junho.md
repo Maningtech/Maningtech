@@ -1,5 +1,5 @@
 ---
-title: 'Convites oficiais pa WWDC 2018: evento que vai ao ar no dia 4 de Junho'
+title: 'Convites oficiais para WWDC 2018: evento que vai ao ar no dia 4 de Junho'
 date: '2018-05-22T22:20:08+02:00'
 image: /assets/img/uploads/wwdc-2018-1.jpg
 category: Noticias
