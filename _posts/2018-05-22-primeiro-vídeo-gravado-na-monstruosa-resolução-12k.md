@@ -1,7 +1,7 @@
 ---
 title: Primeiro vídeo gravado na monstruosa resolução 12K
-date: '2018-05-22T23:40:52+02:00'
-image: /assets/img/uploads/12k-resolution.png
+date: '2018-05-23T07:38:52+02:00'
+image: /assets/img/uploads/challenge.png
 category: Noticias
 author: nadeem
 layout: post
