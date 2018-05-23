@@ -2,7 +2,7 @@
 title: >-
   O presidente dos Estados Unidos usa dois iPhones, um especificamente para o
   Twitter 
-date: '2018-05-23T10:00:39+02:00'
+date: '2018-05-23T10:30:39+02:00'
 image: /assets/img/uploads/presidente.jpg
 category: Noticias
 author: nadeem
