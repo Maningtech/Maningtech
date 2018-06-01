@@ -1,6 +1,6 @@
 ---
 title: 'Battlefield 5: Data de Lançamento, Trailer e muito mais novidades'
-date: '2018-06-01T15:15:00+02:00'
+date: '2018-06-01T18:06:00+02:00'
 image: /assets/img/uploads/battlefield-5-1-2.jpg
 category: Noticias
 author: zinenda
