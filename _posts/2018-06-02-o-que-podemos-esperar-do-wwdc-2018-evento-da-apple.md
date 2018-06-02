@@ -1,6 +1,6 @@
 ---
 title: O que podemos esperar do WWDC 2018 evento da Apple
-date: '2018-06-02T00:45:47+02:00'
+date: '2018-06-02T09:00:47+02:00'
 image: /assets/img/uploads/338456.jpeg
 category: Noticias
 author: nadeem
