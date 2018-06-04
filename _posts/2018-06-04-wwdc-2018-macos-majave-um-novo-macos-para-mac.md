@@ -1,6 +1,6 @@
 ---
 title: 'WWDC 2018: macOS Majave um novo macOS para Mac'
-date: '2018-06-04T21:28:30+02:00'
+date: '2018-06-04T23:05:30+02:00'
 image: /assets/img/uploads/macos_mojave_desktop_by_macoscrazy-db6gzzu-1-.png
 category: Noticias
 author: zinenda
