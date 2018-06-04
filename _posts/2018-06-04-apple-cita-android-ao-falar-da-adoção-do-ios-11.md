@@ -1,5 +1,5 @@
 ---
-title: Apple cita Android ao falar da adoção do iOS 11
+title: 'Provocação: Apple cita Android ao falar da adoção do iOS 11'
 date: '2018-06-04T21:52:10+02:00'
 image: /assets/img/uploads/androidkkkk.jpg
 category: Noticias
