@@ -6,10 +6,6 @@ category: Noticias
 author: nadeem
 layout: post
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fWSsEQzRnOw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
 Bom dia Moçambique, Bom dia Planeta. É com muita alegria, que informamos a todos os nossos seguidores que iremos transmitir Sim a Conferência mundial de Desenvolvedores da Apple, que está prevista para hoje dia 4 de Junho de 2018 as 10h da manhã de Califórnia, que será mais ou menos 19h00 de Moçambique.
 
 A partir das 18h45 iremos disponibilizar o Link para o acesso a Transmissão ao vivo da Conferência. 
