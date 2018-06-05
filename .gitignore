@@ -3,3 +3,4 @@ _site/
 bower_components/
 vendor/
 node_modules
+Gemfile.lock
