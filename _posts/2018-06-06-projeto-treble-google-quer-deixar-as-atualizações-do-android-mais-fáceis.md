@@ -1,6 +1,6 @@
 ---
 title: 'Projeto Treble: Google quer deixar as atualizações do Android mais fáceis'
-date: '2018-06-06T12:19:19+02:00'
+date: '2018-06-06T12:50:19+02:00'
 image: /assets/img/uploads/treble.jpg
 category: Noticias
 author: nadeem
