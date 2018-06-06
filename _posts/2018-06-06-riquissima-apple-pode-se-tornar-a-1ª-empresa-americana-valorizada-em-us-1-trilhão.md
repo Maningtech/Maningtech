@@ -1,6 +1,6 @@
 ---
 title: >-
-  "RIQUISSIMA" Apple pode se tornar a 1ª empresa americana valorizada em US$ 1
+  "RIQUÍSSIMA" Apple pode se tornar a 1ª empresa americana valorizada em US$ 1
   trilhão
 date: '2018-06-06T09:16:51+02:00'
 image: /assets/img/uploads/jobs.jpeg
