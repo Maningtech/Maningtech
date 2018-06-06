@@ -1,6 +1,6 @@
 ---
 title: 'Mais uma Vez: Apple humilha publicamente o Android da Google'
-date: '2018-06-06T12:04:00+02:00'
+date: '2018-06-06T12:50:00+02:00'
 image: /assets/img/uploads/android.jpeg
 category: Noticias
 author: nadeem
