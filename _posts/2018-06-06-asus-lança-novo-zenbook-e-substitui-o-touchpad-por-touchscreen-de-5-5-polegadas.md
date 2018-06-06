@@ -3,7 +3,7 @@ title: >-
   ASUS lança novo Zenbook, e substitui o touchpad por touchscreen de 5,5
   polegadas
 date: '2018-06-06T11:16:40+02:00'
-image: /assets/img/uploads/asus-zenbook-pro-15.jpg
+image: /assets/img/uploads/zenbookpro15.jpg
 category: Noticias
 author: nadeem
 layout: post
