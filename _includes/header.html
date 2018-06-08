@@ -1,14 +1,16 @@
-<header class="slider hide-on-small-only">
-    <ul class="slides">
-        {% for post in paginator.posts limit: 4 %}
-            <li>
-                <a href="{{ post.url }}" title="{{ post.title }}">
-                    <img src="{{ post.image }}" alt="{{ post.title }}">
-                    <div class="caption center-align">
-                        <h4 style="text-shadow: 2px -2px #444;">{{ post.title }}</h4>
-                    </div>
-                </a>
-            </li>
-        {% endfor %}
-    </ul>
-</header>
+<div class="container">
+    <header class="slider hide-on-small-only">
+        <ul class="slides">
+            {% for post in paginator.posts limit: 4 %}
+                <li>
+                    <a href="{{ post.url }}" title="{{ post.title }}">
+                        <img src="{{ post.image }}" alt="{{ post.title }}">
+                        <div class="caption center-align">
+                            <h4 style="text-shadow: 2px -2px #444;">{{ post.title }}</h4>
+                        </div>
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </header>
+</div>
