@@ -2,17 +2,33 @@
 layout: default
 ---
 
-<header class="parallax-container hide-on-small-only">
-    <div class="parallax">
-        <img src="{{ page.image }}" alt="{{ page.title }}">
+<style>
+    .post-header {
+        position: relative;
+        background-image: url({{ page.image }});
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 50vh;
+    }
+
+    .post-title {
+        position: absolute;
+        text-align: center;
+        text-shadow: -2px 2px #444;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
+
+<header class="post-header">
+    <div class="post-title">
+        <h1>{{ page.title }}</h1>
     </div>
-    <h1 title="{{ page.title }}" class="center-align white-text" style="text-shadow: -2px 2px #444;">{{ page.title }}</h1>
 </header>
 
-<header class="center hide-on-med-and-up">
-    <img src="{{ page.image }}" alt="{{ page.title }}">
-    <h4 title="{{ page.title }}">{{ page.title }}</h4>
-</header>
 <hr>
 {% include in_article_ad.html %}
 <hr>
