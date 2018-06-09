@@ -5,7 +5,7 @@ layout: default
 <style>
     .post-header {
         position: relative;
-        background-image: url({{ page.image }});
+        background-image: url("{{ page.image }}");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -23,15 +23,17 @@ layout: default
     }
 </style>
 
-<header class="post-header">
-    <div class="post-title">
-        <h1>{{ page.title }}</h1>
-    </div>
-</header>
+<section class ="container">
+    <header class="post-header">
+        <div class="post-title">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </header>
 
-<hr>
-{% include in_article_ad.html %}
-<hr>
+    <hr>
+    {% include in_article_ad.html %}
+    <hr>
+</section>
 
 <section class="section">
     <div class="row">
