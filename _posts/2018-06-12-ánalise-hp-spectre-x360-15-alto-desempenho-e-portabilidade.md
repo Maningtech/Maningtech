@@ -1,6 +1,6 @@
 ---
 title: 'Ánalise: HP Spectre x360 15, Alto desempenho e portabilidade'
-date: '2018-06-12T12:10:06+02:00'
+date: '2018-06-12T13:11:06+02:00'
 image: /assets/img/uploads/akrales_180605_2621_0016.0.jpg
 category: Analises
 author: zinenda
@@ -76,4 +76,4 @@ A HP tem algum trabalho relacionado à abordagem de touchpads e teclados em seus
 
 Se ficou interessado no novo HP Spectre x360 15, saiba que já está disponivel em Moçambique..
 
-Mantenha se contacta para mais ánalises...
+Mantenha se contacta para mais ánalises ([Artigo adoptado](https://www.theverge.com/2018/6/11/17433898/hp-spectre-x360-15-laptop-review-specs-price))...
