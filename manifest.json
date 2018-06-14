@@ -1,8 +1,11 @@
 {
   "name": "ManingTech",
-  "short_name": "MT",
+  "short_name": "ManingTech",
+  "lang": "pt",
+  "dir": "ltr",
   "theme_color": "#009688",
-  "background_color": "#fff",
+  "background_color": "#009688",
+  "description": "Moçambique TechConectado",
   "display": "standalone",
   "Scope": "/",
   "start_url": "/",
