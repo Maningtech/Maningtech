@@ -12,6 +12,10 @@ Finalmente! O filme que foi muito bem sucedido, **Creed: Nascido Para Lutar**, d
 
 > Adonis Creed (Michael B. Jordan) saiu mais forte do que nunca de sua luta contra 'Pretty' Ricky Conlan (Tony Bellew), e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky (Sylvester Stallone). Sua próxima luta não será tão simples, ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.
 
+#### Poster
+
+![Creed II](/assets/img/uploads/creed2poster-690x1024.jpg)
+
 #### Trailer
 
 <iframe style="width: 100%; height: auto;" src="https://www.youtube.com/embed/HThDC3y1W14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
