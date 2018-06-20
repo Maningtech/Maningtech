@@ -1,6 +1,6 @@
 ---
 title: 'Creed II: Trailer e Poster'
-date: '2018-06-20T16:15:25+02:00'
+date: '2018-06-20T18:20:25+02:00'
 image: /assets/img/uploads/creed-ii.jpg
 category: Cinema
 author: zinenda
