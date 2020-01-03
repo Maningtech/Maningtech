@@ -9,8 +9,6 @@ markdown: kramdown
 permalink: pretty
 
 plugins:
-  - jekyll-email-protect 
-  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-analytics
