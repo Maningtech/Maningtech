@@ -13,6 +13,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-analytics
   - jekyll-feed
+  - jekyll-paginate-v2
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics

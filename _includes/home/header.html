@@ -1,0 +1,38 @@
+<style>
+    {% capture include_to_scssify %}
+        .home-header {
+            position: relative;
+            height: 50vh;
+
+            article {
+                position: relative;
+                height: 50vh;
+
+                .article-content {
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    transform: translate(-50%, -50%);
+                }
+            }
+        }
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+</style>
+
+<header class="home-header">
+    <section class="row">
+        {% for post in site.posts limit: 3 %}
+            <article class="col s12 l4 hoverable" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ post.image }}?nf_resize=fit&w=375&h=667); background-size: cover; background-position: center; background-repeat: no-repeat;">
+                <div class="article-content">
+                    <a href="{{ post.url }}" title="{{ post.title }}" class="white-text">
+                        <h4 class="bolder flow-text">{{ post.title }}</h4>
+                    </a>
+                    
+                    {% assign author = site.data.authors[post.author] %}
+                    <span class="light grey-text">{{ author.name }}</span> | <span class="light grey-text">{{ post.date | date_to_string }}</span>
+                </div>
+            </article>
+        {% endfor %}
+    </section>
+</header>
