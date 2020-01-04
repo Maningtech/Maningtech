@@ -1,8 +1,8 @@
 title: ManingTech
-email: maningtech@outlook.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Moçambique TechConectado
-url: "https://maning.tech"
+url: 
 
 # Build settings
 markdown: kramdown
@@ -16,7 +16,7 @@ plugins:
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-73721868-1       # Required - replace with your tracking id
+    id:        # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Exclude from processing.
@@ -36,8 +36,8 @@ sass:
   sass_dir: assets/_sass
   style: compressed
 
-image: /assets/img/logotipo.jpeg
-logo: /assets/img/brand/logotipo.svg
+image: /assets/img/ManingTechLogo.svg
+logo: /assets/img/ManingTechLogo.svg
 color: "#009688"
 
 pagination:

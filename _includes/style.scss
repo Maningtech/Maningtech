@@ -1,26 +1,26 @@
 @charset "UTF-8";
 
+@import "variables";
+
+html,
 body {
+    margin: 0;
+    padding: 0;
     display: flex;
-    min-height: 100vh;
-    -ms-flex-direction: column;
     flex-direction: column;
-    font: {
-        family: 'Ubuntu', sans-serif;
-        size: 100%;
-    }
-    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
     color: #444;
 }
 
+body {
+    overflow-x: hidden;
+}
 main {
     flex: 1 0 auto;
 }
 
-img,
-iframe,
-object {
-    max-width: 100%;
+img {
+    width: 100%;
     height: auto;
 }
 
@@ -32,44 +32,73 @@ footer {
     display: inline-flex;
 }
 
-.blog {
-    h1, h2, h3, h4, h5, h6 {
-        text-align: center;
-    }
+.underline {
+    text-decoration: underline;
+}
 
-    p {
-        text-align: justify;
+.primary-color {
+    background-color: $primary-color;
+}
+
+.primary-color-text {
+    color: $primary-color;
+}
+
+.primary-color-light {
+    background: $primary-color-light;
+}
+
+.primary-color-light-text {
+    color: $primary-color-light;
+}
+
+.primary-color-dark {
+    background: $primary-color-dark;
+}
+
+.primary-color-dark-text {
+    color: $primary-color-dark;
+}
+
+.secondary-color {
+    background: $secondary-color;
+}
+
+.secondary-color-text {
+    color: $secondary-color;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.prefix {
+    color: $primary-color;
+}
+
+.waves-effect.waves-primary .waves-ripple {
+    background-color: rgba(0, 150, 136, 0.65);
+}
+
+nav {
+    .nav-wrapper {
+        a.brand-logo {
+            svg {
+                height: 60px;
+                padding-top: 10px;
+            }
+        }
     }
 }
 
-.page-header {
-    position: relative;
-    height: 20vh;
-    
-    .page-title {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: #fff;
-        text-shadow: 2px -2px #444;
-    }
-
-}
-
-.cartao {
-    position: relative;
-    text-align: center;
-    
-    .center-title {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-}
-
+// IMPORTED
 @import
     "animate-bottom",
+    "page-header",
+    "mygrid",
     "materialize/materialize"
 ;
