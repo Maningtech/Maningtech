@@ -1,9 +1,10 @@
 .page-header {
-    height: 100vh;
+    height: 30vh;
+    position: relative;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    background-attachment: fixed;
 
     .header-content {
         position: absolute;
