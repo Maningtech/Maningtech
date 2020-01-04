@@ -1,0 +1,36 @@
+{% for posts in paginator.posts %}
+    <style>
+        {% capture include_to_scssify %}
+            .destaques {
+                position: relative;
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+
+                .article-content {
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    transform: translate(-50%, 50%);
+                }
+            }
+
+            .destaques .article-row-1 {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ post.image }}?nf_resize=fit&w=1280");
+            }
+
+            .destaques .article-row-2 {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ post.image }}?nf_resize=fit&w=320");
+            }
+
+            .destaques .article-row-3 {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ post.image }}?nf_resize=fit&w=640");
+            }
+
+            .destaques .article-row-3 {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ post.image }}?nf_resize=fit&w=240");
+            }
+        {% endcapture %}
+        {{ include_to_scssify | scssify }}
+    </style>
+{% endfor %}

@@ -1,0 +1,65 @@
+{% include home/destaques-style.html %}
+
+<section class="section container">
+    <section class="section-grid">
+        {% for post in paginator.posts limit: 1 %}
+            <article class="destaques hoverable article-row-1">
+                <div class="article-content">
+                    <a href="{{ post.url }}" title="{{ post.title }}" class="white-text">
+                        <h4 class="bolder flow-text">{{ post.title }}</h4>
+                    </a>
+                    
+                    {% assign author = site.data.authors[post.author] %}
+                    <span class="light grey-text">{{ author.name }}</span> | <span class="light grey-text">{{ post.date | date_to_string }}</span>
+                </div>
+            </article>
+        {% endfor %}
+    </section>
+    
+    <section class="section-grid">
+        {% for post in paginator.posts offset: 1 limit: 3 %}
+            <article class="destaques hoverable article-row-2">
+                <div class="article-content">
+                    <a href="{{ post.url }}" title="{{ post.title }}" class="white-text">
+                        <h4 class="bolder flow-text">{{ post.title }}</h4>
+                    </a>
+                    
+                    {% assign author = site.data.authors[post.author] %}
+                    <span class="light grey-text">{{ author.name }}</span> | <span class="light grey-text">{{ post.date | date_to_string }}</span>
+                </div>
+            </article>
+        {% endfor %}
+    </section>
+    
+    <section class="section-grid article-row-3">
+        {% for post in paginator.posts offset: 4 limit: 2 %}
+            <article class="destaques hoverable">
+                <div class="article-content">
+                    <a href="{{ post.url }}" title="{{ post.title }}" class="white-text">
+                        <h4 class="bolder flow-text">{{ post.title }}</h4>
+                    </a>
+                    
+                    {% assign author = site.data.authors[post.author] %}
+                    <span class="light grey-text">{{ author.name }}</span> | <span class="light grey-text">{{ post.date | date_to_string }}</span>
+                </div>
+            </article>
+        {% endfor %}
+    </section>
+    
+    <section class="section-grid">
+        {% for post in paginator.posts offset: 6 limit: 4 %}
+            <article class="destaques hoverable article-row-4">
+                <div class="article-content">
+                    <a href="{{ post.url }}" title="{{ post.title }}" class="white-text">
+                        <h4 class="bolder flow-text">{{ post.title }}</h4>
+                    </a>
+                    
+                    {% assign author = site.data.authors[post.author] %}
+                    <span class="light grey-text">{{ author.name }}</span> | <span class="light grey-text">{{ post.date | date_to_string }}</span>
+                </div>
+            </article>
+        {% endfor %}
+    </section>
+</section>
+
+{% include pagination.html %}

@@ -29,10 +29,6 @@ layout: default
             <h4 class ="bold white-text center-align hide-on-small-only"><strong>{{ page.title }}</strong></h4>
         </div>
     </header>
-
-    <hr>
-    {% include in_article_ad.html %}
-    <hr>
 </section>
 
 <section class="section">
@@ -63,11 +59,6 @@ layout: default
         <section class="col s12 m4">
             <div class="container">
                 <h4 class="center-align">Relacionados</h4><hr>
-                <div class="row">
-                    <div class="col s12">
-                        {% include in_feed_ad.html %}
-                    </div>
-                </div>
                 {% for post in site.related_posts limit: 3 %}
                     <div class="card small hoverable">
                         <div class="card-image">
