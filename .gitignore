@@ -4,3 +4,6 @@ bower_components/
 vendor/
 node_modules
 Gemfile.lock
+
+# Local Netlify folder
+.netlify
