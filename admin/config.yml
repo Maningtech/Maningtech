@@ -5,7 +5,7 @@ backend:
     - editor
   branch: master 
 
-media_folder: "assets/img/uploads"
+media_folder: "assets/img/posts"
 
 collections:
   - label: "Posts"
